@@ -107,6 +107,7 @@ const elements = {
   historyBody: document.getElementById("history-body"),
   historyPlaceholder: document.getElementById("history-placeholder"),
   historyCount: document.getElementById("history-count"),
+  historyClear: document.getElementById("history-clear"),
   tooltip: document.getElementById("tooltip"),
   snackbar: document.getElementById("snackbar")
 };
@@ -747,6 +748,12 @@ function init() {
     if (!elements.tooltip.contains(e.target)) {
       elements.tooltip.classList.add("hidden");
     }
+  });
+
+  elements.historyClear.addEventListener("click", () => {
+    state.history = [];
+    saveHistory();
+    renderHistory();
   });
 
   window.addEventListener("hashchange", () => setRoute(getRouteFromHash()));
