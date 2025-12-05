@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Éducation Civique</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Manrope:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:FILL@1;wght@400;GRAD@0;opsz@24" />
+</head>
+<body>
+  <div class="app-shell" data-theme="light">
+    <header class="top-bar">
+      <div class="brand">
+        <span class="logo-dot"></span>
+        <div>
+          <p class="eyebrow">Civique</p>
+          <h1>Révisions Express</h1>
+        </div>
+      </div>
+      <div class="toggles">
+        <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème">
+          <span class="material-symbols-rounded" id="theme-icon">dark_mode</span>
+        </button>
+        <button class="pill-btn" id="lang-fr" data-lang="fr">FR</button>
+        <button class="pill-btn ghost" id="lang-en" data-lang="en">EN</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="card hero">
+        <div class="hero-copy">
+          <p class="eyebrow" id="hero-eyebrow">Mobile-first</p>
+          <h2 id="hero-title">Quiz d’éducation civique</h2>
+          <p id="hero-desc">Sessions de 10, 20 ou 40 questions, corrigées instantanément avec un look fiches de révision.</p>
+          <div class="controls">
+            <div class="session-selector" role="group" aria-label="Choix de la session">
+              <button class="session-btn" data-size="10">10</button>
+              <button class="session-btn" data-size="20">20</button>
+              <button class="session-btn" data-size="40">40</button>
+            </div>
+            <button class="cta" id="start-btn">
+              <span class="material-symbols-rounded">start</span>
+              <span id="start-label">Lancer une session</span>
+            </button>
+          </div>
+          <div class="status" id="data-status"></div>
+        </div>
+        <div class="hero-visual">
+          <div class="card preview-card">
+            <p class="eyebrow" id="preview-title">Mode rapide</p>
+            <div class="score-bubble" id="preview-score">10/10</div>
+            <p class="muted" id="preview-desc">Corrections claires, inspiration material + fiches de révision.</p>
+            <div class="pill-row">
+              <span class="chip primary">🇫🇷 FR</span>
+              <span class="chip">🇬🇧 EN</span>
+              <span class="chip subtle" id="preview-mode">Light / Dark</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article class="card quiz-card">
+          <div class="card-header">
+            <div>
+              <p class="eyebrow" id="quiz-eyebrow">En cours</p>
+              <h3 id="quiz-title">Aucune session en cours</h3>
+            </div>
+            <div class="badge" id="progress-badge">0 / 0</div>
+          </div>
+
+          <div id="quiz-body" class="quiz-body">
+            <p class="muted" id="quiz-placeholder">Choisissez une session et appuyez sur “Lancer”.</p>
+          </div>
+
+          <div class="quiz-footer">
+            <button class="ghost-btn" id="prev-btn">
+              <span class="material-symbols-rounded">chevron_left</span>
+              <span id="prev-label">Précédent</span>
+            </button>
+            <div class="spacer"></div>
+            <button class="cta" id="next-btn">
+              <span id="next-label">Suivant</span>
+              <span class="material-symbols-rounded">chevron_right</span>
+            </button>
+          </div>
+        </article>
+
+        <article class="card recap-card">
+          <div class="card-header">
+            <div>
+              <p class="eyebrow" id="history-eyebrow">Historique</p>
+              <h3 id="history-title">Vos dernières notes</h3>
+            </div>
+            <div class="badge alt" id="history-count">0</div>
+          </div>
+          <div id="history-body" class="history-body">
+            <p class="muted" id="history-placeholder">Aucun questionnaire complété pour l’instant.</p>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <div id="tooltip" class="tooltip hidden"></div>
+    <div id="snackbar" class="snackbar hidden"></div>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
