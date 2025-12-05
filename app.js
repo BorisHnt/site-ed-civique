@@ -16,6 +16,8 @@ const i18n = {
     summaryTitle: "Session terminée",
     summarySubtitle: "Votre note",
     gridHint: "Touchez un carré rouge pour voir la correction.",
+    mistakesTitle: "Détails des erreurs",
+    mistakesEmpty: "Aucune erreur sur cette session, bravo !",
     historyEyebrow: "Historique",
     historyTitle: "Vos dernières notes",
     historyEmpty: "Aucun questionnaire complété pour l’instant.",
@@ -52,6 +54,8 @@ const i18n = {
     summaryTitle: "Session complete",
     summarySubtitle: "Your score",
     gridHint: "Tap a red square to review the mistake.",
+    mistakesTitle: "Missed questions",
+    mistakesEmpty: "No mistakes this round, nice job!",
     historyEyebrow: "Recap",
     historyTitle: "Your recent scores",
     historyEmpty: "No quiz completed yet.",
@@ -117,6 +121,8 @@ const state = {
   answers: {},
   finished: false,
   history: loadHistory()
+  ,
+  route: "home"
 };
 
 function t(key, ...args) {
@@ -141,6 +147,26 @@ function setTheme(theme) {
   document.documentElement.dataset.theme = state.theme;
   elements.app.dataset.theme = state.theme;
   elements.themeIcon.textContent = state.theme === "dark" ? "light_mode" : "dark_mode";
+}
+
+function getRouteFromHash() {
+  if (window.location.hash === "#/quizz") return "quizz";
+  return "home";
+}
+
+function setRoute(route) {
+  state.route = route === "quizz" ? "quizz" : "home";
+  document.body.dataset.route = state.route;
+  if (state.route === "quizz") {
+    if (window.location.hash !== "#/quizz") {
+      history.replaceState({}, "", "#/quizz");
+    }
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  } else {
+    if (window.location.hash !== "#/") {
+      history.replaceState({}, "", "#/");
+    }
+  }
 }
 
 function loadHistory() {
@@ -350,6 +376,7 @@ function startSession() {
     loadQuestions();
     return;
   }
+  setRoute("quizz");
   state.session = shuffle(state.allQuestions).slice(0, state.sessionSize);
   state.currentIndex = 0;
   state.answers = {};
@@ -531,7 +558,41 @@ function renderSummary() {
     grid.appendChild(cell);
   });
 
-  summary.append(title, scoreRow, hint, grid);
+  const mistakes = results.filter((r) => !r.correct);
+  const mistakesBlock = document.createElement("div");
+  mistakesBlock.className = "mistake-list";
+  const mistakesTitle = document.createElement("h4");
+  mistakesTitle.textContent = t("mistakesTitle");
+  mistakesBlock.appendChild(mistakesTitle);
+  if (!mistakes.length) {
+    const ok = document.createElement("p");
+    ok.className = "muted";
+    ok.textContent = t("mistakesEmpty");
+    mistakesBlock.appendChild(ok);
+  } else {
+    mistakes.forEach((item, idx) => {
+      const wrap = document.createElement("div");
+      wrap.className = "mistake-item";
+      const qTitle = document.createElement("p");
+      qTitle.className = "question-title small";
+      qTitle.innerHTML = `${idx + 1}. ${item.question.prompt}`;
+      const answerLine = document.createElement("p");
+      answerLine.className = "muted";
+      const userOpt = item.question.options.find((o) => o.key === item.userAnswer);
+      answerLine.innerHTML = `<strong>${t("tooltipYourAnswer")}:</strong> ${userOpt ? userOpt.text : "—"}`;
+      const correctLine = document.createElement("p");
+      correctLine.className = "muted";
+      const correctOpt = item.question.options.find((o) => o.key === item.question.answerLetter);
+      correctLine.innerHTML = `<strong>${t("tooltipCorrect")}:</strong> ${correctOpt ? correctOpt.text : "—"}`;
+      const expl = document.createElement("p");
+      expl.className = "muted";
+      expl.innerHTML = item.explanation || "";
+      wrap.append(qTitle, answerLine, correctLine, expl);
+      mistakesBlock.appendChild(wrap);
+    });
+  }
+
+  summary.append(title, scoreRow, hint, grid, mistakesBlock);
   elements.quizBody.appendChild(summary);
   elements.quizTitle.textContent = t("summarySubtitle");
   elements.progressBadge.textContent = t("scoreOn", score, total);
@@ -655,6 +716,7 @@ function init() {
   syncTexts();
   renderHistory();
   loadQuestions();
+  setRoute(getRouteFromHash());
 
   elements.sessionButtons.forEach((btn) => {
     btn.addEventListener("click", () => {
@@ -684,6 +746,8 @@ function init() {
       elements.tooltip.classList.add("hidden");
     }
   });
+
+  window.addEventListener("hashchange", () => setRoute(getRouteFromHash()));
 }
 
 init();
