@@ -390,11 +390,14 @@ function renderQuestion() {
   elements.quizBody.innerHTML = "";
   elements.quizPlaceholder.textContent = "";
   if (!state.session.length) {
-    elements.quizPlaceholder.textContent = t("quizPlaceholder");
-    elements.quizBody.appendChild(elements.quizPlaceholder);
-    elements.quizTitle.textContent = t("sessionLabel", state.sessionSize);
-    elements.progressBadge.textContent = "0 / 0";
-    updateNavButtons();
+    const empty = document.createElement("p");
+    empty.className = "muted";
+    empty.textContent = t("quizPlaceholder");
+    elements.quizBody.appendChild(empty);
+    elements.quizTitle.textContent = "";
+    elements.progressBadge.textContent = "";
+    elements.prevBtn.disabled = true;
+    elements.nextBtn.disabled = true;
     return;
   }
 
