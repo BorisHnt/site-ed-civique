@@ -550,10 +550,29 @@ body[data-route="quizz"] .hero {
   border-radius: 12px;
   border: 1px solid var(--border);
   background: var(--card-muted);
+  position: relative;
 }
 
 .question-title.small {
   font-size: 16px;
+}
+
+.status-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  box-shadow: var(--shadow-soft);
+}
+
+.status-dot.ok {
+  background: linear-gradient(140deg, #1ec28b, #119c70);
+}
+
+.status-dot.ko {
+  background: linear-gradient(140deg, #f94c66, #da2645);
 }
 
 @media (max-width: 720px) {

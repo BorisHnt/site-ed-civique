@@ -16,8 +16,8 @@ const i18n = {
     summaryTitle: "Session terminée",
     summarySubtitle: "Votre note",
     gridHint: "Touchez un carré rouge pour voir la correction.",
-    mistakesTitle: "Détails des erreurs",
-    mistakesEmpty: "Aucune erreur sur cette session, bravo !",
+    mistakesTitle: "Toutes les réponses",
+    mistakesEmpty: "Aucune question dans cette session.",
     historyEyebrow: "Historique",
     historyTitle: "Vos dernières notes",
     historyEmpty: "Aucun questionnaire complété pour l’instant.",
@@ -54,8 +54,8 @@ const i18n = {
     summaryTitle: "Session complete",
     summarySubtitle: "Your score",
     gridHint: "Tap a red square to review the mistake.",
-    mistakesTitle: "Missed questions",
-    mistakesEmpty: "No mistakes this round, nice job!",
+    mistakesTitle: "All answers",
+    mistakesEmpty: "No questions in this session.",
     historyEyebrow: "Recap",
     historyTitle: "Your recent scores",
     historyEmpty: "No quiz completed yet.",
@@ -135,6 +135,7 @@ function setLanguage(lang) {
   state.language = lang === "fr" ? "fr" : "en";
   localStorage.setItem("civique-lang", state.language);
   document.documentElement.lang = state.language;
+  setLanguageButtons();
   syncTexts();
   renderHistory();
   if (state.finished) renderSummary();
@@ -558,21 +559,22 @@ function renderSummary() {
     grid.appendChild(cell);
   });
 
-  const mistakes = results.filter((r) => !r.correct);
-  const mistakesBlock = document.createElement("div");
-  mistakesBlock.className = "mistake-list";
-  const mistakesTitle = document.createElement("h4");
-  mistakesTitle.textContent = t("mistakesTitle");
-  mistakesBlock.appendChild(mistakesTitle);
-  if (!mistakes.length) {
+  const reviewBlock = document.createElement("div");
+  reviewBlock.className = "mistake-list";
+  const reviewTitle = document.createElement("h4");
+  reviewTitle.textContent = t("mistakesTitle");
+  reviewBlock.appendChild(reviewTitle);
+  if (!results.length) {
     const ok = document.createElement("p");
     ok.className = "muted";
     ok.textContent = t("mistakesEmpty");
-    mistakesBlock.appendChild(ok);
+    reviewBlock.appendChild(ok);
   } else {
-    mistakes.forEach((item, idx) => {
+    results.forEach((item, idx) => {
       const wrap = document.createElement("div");
       wrap.className = "mistake-item";
+      const status = document.createElement("span");
+      status.className = "status-dot " + (item.correct ? "ok" : "ko");
       const qTitle = document.createElement("p");
       qTitle.className = "question-title small";
       qTitle.innerHTML = `${idx + 1}. ${item.question.prompt}`;
@@ -587,12 +589,12 @@ function renderSummary() {
       const expl = document.createElement("p");
       expl.className = "muted";
       expl.innerHTML = item.explanation || "";
-      wrap.append(qTitle, answerLine, correctLine, expl);
-      mistakesBlock.appendChild(wrap);
+      wrap.append(status, qTitle, answerLine, correctLine, expl);
+      reviewBlock.appendChild(wrap);
     });
   }
 
-  summary.append(title, scoreRow, hint, grid, mistakesBlock);
+  summary.append(title, scoreRow, hint, grid, reviewBlock);
   elements.quizBody.appendChild(summary);
   elements.quizTitle.textContent = t("summarySubtitle");
   elements.progressBadge.textContent = t("scoreOn", score, total);
