@@ -526,6 +526,7 @@ function updateNavButtons() {
   elements.prevLabel.textContent = t("prev");
   elements.nextLabel.textContent = state.currentIndex === state.session.length - 1 ? t("finish") : t("next");
   elements.prevBtn.disabled = state.currentIndex === 0 || state.finished;
+  elements.nextBtn.disabled = !state.session.length;
 }
 
 function nextStep() {
