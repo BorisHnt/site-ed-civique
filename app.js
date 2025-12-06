@@ -767,11 +767,7 @@ function setActiveSessionButton(size) {
     const value = Number(btn.dataset.size);
     const allowed = getAllowedSizes().includes(value);
     btn.style.display = allowed ? "" : "none";
-    if (value === size && allowed) {
-      btn.classList.add("active");
-    } else {
-      btn.classList.remove("active");
-    }
+    btn.classList.toggle("active", value === size && allowed);
   });
 }
 
@@ -786,6 +782,22 @@ function setLanguageButtons() {
 }
 
 function renderThemeButtons() {
+  const existing = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
+  if (existing.length) {
+    // hydrate existing buttons from HTML
+    existing.forEach((btn) => {
+      const id = btn.dataset.theme;
+      btn.querySelector(".theme-dot")?.style && (btn.querySelector(".theme-dot").style.background = themeColors[id] || "#ccc");
+      btn.classList.toggle("active", state.selectedTheme === id);
+      btn.onclick = () => {
+        state.selectedTheme = id;
+        renderThemeButtons();
+        setActiveSessionButton(state.sessionSize);
+        renderQuestion();
+      };
+    });
+    return;
+  }
   elements.themeSelector.innerHTML = "";
   themesList.forEach((item) => {
     const btn = document.createElement("button");
@@ -801,9 +813,6 @@ function renderThemeButtons() {
     btn.append(dot, label);
     btn.addEventListener("click", () => {
       state.selectedTheme = item.id;
-      if (!getAllowedSizes().includes(state.sessionSize)) {
-        state.sessionSize = getAllowedSizes()[0];
-      }
       renderThemeButtons();
       setActiveSessionButton(state.sessionSize);
       renderQuestion();
@@ -813,8 +822,7 @@ function renderThemeButtons() {
 }
 
 function getAllowedSizes() {
-  if (state.selectedTheme === "mix") return [10, 20, 40];
-  return [10, 20];
+  return [10, 20, 40];
 }
 
 function getThemePool(themeId) {
