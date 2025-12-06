@@ -635,26 +635,25 @@ body[data-route="quizz"] .hero {
   border-radius: 12px;
   border: 1px solid var(--border);
   background: var(--card-muted);
-  display: grid;
-  grid-template-columns: auto 1fr;
-  column-gap: 10px;
-  row-gap: 6px;
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .question-title.small {
   font-size: 16px;
-  margin: 0 0 4px;
-  grid-column: 2;
+  margin: 0;
 }
 
 .status-dot {
-  width: 12px;
+  width: 44px;
   height: 12px;
-  border-radius: 50%;
+  border-radius: 999px;
   position: static;
   box-shadow: var(--shadow-soft);
-  margin-top: 2px;
+  margin: 0 0 4px;
+  display: inline-block;
+  flex-shrink: 0;
 }
 
 .status-dot.ok {
