@@ -783,8 +783,9 @@ function setLanguageButtons() {
 
 function renderThemeButtons() {
   if (!elements.themeSelector) return;
-  const existing = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
-  if (!existing.length) {
+  const buttons = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
+  // If no buttons present (unlikely), build them from themesList.
+  if (!buttons.length) {
     themesList.forEach((item) => {
       const btn = document.createElement("button");
       btn.type = "button";
@@ -792,21 +793,22 @@ function renderThemeButtons() {
       btn.dataset.theme = item.id;
       const dot = document.createElement("span");
       dot.className = "theme-dot";
+      dot.style.background = themeColors[item.id] || "#ccc";
       const label = document.createElement("span");
       label.textContent = item.label;
       btn.append(dot, label);
       elements.themeSelector.appendChild(btn);
     });
   }
-  const buttons = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
-  buttons.forEach((btn) => {
+  const wired = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
+  wired.forEach((btn) => {
     const id = btn.dataset.theme;
     const dot = btn.querySelector(".theme-dot");
     if (dot) dot.style.background = themeColors[id] || "#ccc";
     btn.classList.toggle("active", state.selectedTheme === id);
     btn.onclick = () => {
       state.selectedTheme = id;
-      buttons.forEach((b) => b.classList.toggle("active", b.dataset.theme === id));
+      wired.forEach((b) => b.classList.toggle("active", b.dataset.theme === id));
       if (!getAllowedSizes().includes(state.sessionSize)) {
         state.sessionSize = getAllowedSizes()[0];
       }
