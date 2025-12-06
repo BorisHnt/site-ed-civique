@@ -16,25 +16,27 @@
       <div class="brand">
         <span class="logo-dot"></span>
         <div>
-          <p class="eyebrow">Civique</p>
-          <h1>Révisions Express</h1>
+          <p class="eyebrow">EDUCATION CIVIQUE</p>
+          <h1>Révisions Express · Quiz</h1>
         </div>
       </div>
       <div class="toggles">
+        <div class="lang-group">
+          <button class="pill-btn" id="lang-fr" data-lang="fr">FR</button>
+          <button class="pill-btn" id="lang-en" data-lang="en">EN</button>
+        </div>
         <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème">
           <span class="material-symbols-rounded" id="theme-icon">dark_mode</span>
         </button>
-        <button class="pill-btn" id="lang-fr" data-lang="fr">FR</button>
-        <button class="pill-btn ghost" id="lang-en" data-lang="en">EN</button>
       </div>
     </header>
 
     <main class="layout">
       <section class="card hero">
         <div class="hero-copy">
-          <p class="eyebrow" id="hero-eyebrow">Mobile-first</p>
+          <p class="eyebrow" id="hero-eyebrow">Sessions de quiz</p>
           <h2 id="hero-title">Quiz d’éducation civique</h2>
-          <p id="hero-desc">Sessions de 10, 20 ou 40 questions, corrigées instantanément avec un look fiches de révision.</p>
+          <p id="hero-desc">Choisissez le thème du quiz puis lancez une session de 10, 20 ou 40 questions (mix uniquement pour 40).</p>
           <div class="controls">
             <div class="theme-selector" role="group" aria-label="Choix du thème" id="theme-selector"></div>
             <div class="session-selector" role="group" aria-label="Choix de la session">
@@ -48,18 +50,6 @@
             </button>
           </div>
           <div class="status" id="data-status"></div>
-        </div>
-        <div class="hero-visual">
-          <div class="card preview-card">
-            <p class="eyebrow" id="preview-title">Mode rapide</p>
-            <div class="score-bubble" id="preview-score">10/10</div>
-            <p class="muted" id="preview-desc">Corrections claires, inspiration material + fiches de révision.</p>
-            <div class="pill-row">
-              <span class="chip primary">🇫🇷 FR</span>
-              <span class="chip">🇬🇧 EN</span>
-              <span class="chip subtle" id="preview-mode">Light / Dark</span>
-            </div>
-          </div>
         </div>
       </section>
 

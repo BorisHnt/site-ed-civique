@@ -1,8 +1,8 @@
 const i18n = {
   fr: {
-    heroEyebrow: "Mobile-first",
+    heroEyebrow: "Sessions de quiz",
     heroTitle: "Quiz d’éducation civique",
-    heroDesc: "Sessions de 10, 20 ou 40 questions, corrigées instantanément.",
+    heroDesc: "Choisissez un thème puis lancez 10 ou 20 questions (40 en mode mix).",
     start: "Lancer une session",
     dataLoading: "Chargement des questions…",
     dataReady: (count) => `${count} questions prêtes.`,
@@ -38,9 +38,9 @@ const i18n = {
     questionOf: (n, total) => `Question ${n} / ${total}`
   },
   en: {
-    heroEyebrow: "Mobile-first",
+    heroEyebrow: "Quiz sessions",
     heroTitle: "Civics quiz",
-    heroDesc: "10, 20 or 40-question sprints with instant feedback.",
+    heroDesc: "Pick a theme, then start 10 or 20 questions (40 only in Mix).",
     start: "Start a session",
     dataLoading: "Loading questions…",
     dataReady: (count) => `${count} questions ready.`,
@@ -422,16 +422,16 @@ function startSession() {
 function renderQuestion() {
   elements.quizBody.innerHTML = "";
   elements.quizPlaceholder.textContent = "";
+  const quizCard = document.querySelector(".quiz-card");
   if (!state.session.length) {
-    const empty = document.createElement("p");
-    empty.className = "muted";
-    empty.textContent = t("quizPlaceholder");
-    elements.quizBody.appendChild(empty);
+    if (quizCard) quizCard.classList.add("hidden");
     elements.quizTitle.textContent = "";
     elements.progressBadge.textContent = "";
     elements.prevBtn.disabled = true;
     elements.nextBtn.disabled = true;
     return;
+  } else if (quizCard) {
+    quizCard.classList.remove("hidden");
   }
 
   if (state.finished) {
