@@ -345,6 +345,7 @@ h3 { font-size: 18px; }
   display: flex;
   align-items: center;
   gap: 8px;
+  justify-content: flex-start;
 }
 
 .theme-dot {

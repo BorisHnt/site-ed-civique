@@ -782,26 +782,37 @@ function setLanguageButtons() {
 }
 
 function renderThemeButtons() {
-  elements.themeSelector.innerHTML = "";
-  themesList.forEach((item) => {
-    const btn = document.createElement("button");
-    btn.type = "button";
-    btn.className = "theme-btn";
-    btn.dataset.theme = item.id;
-    if (state.selectedTheme === item.id) btn.classList.add("active");
-    const dot = document.createElement("span");
-    dot.className = "theme-dot";
-    dot.style.background = themeColors[item.id] || "#ccc";
-    const label = document.createElement("span");
-    label.textContent = item.label;
-    btn.append(dot, label);
-    btn.addEventListener("click", () => {
-      state.selectedTheme = item.id;
-      renderThemeButtons();
+  if (!elements.themeSelector) return;
+  const existing = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
+  if (!existing.length) {
+    themesList.forEach((item) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "theme-btn";
+      btn.dataset.theme = item.id;
+      const dot = document.createElement("span");
+      dot.className = "theme-dot";
+      const label = document.createElement("span");
+      label.textContent = item.label;
+      btn.append(dot, label);
+      elements.themeSelector.appendChild(btn);
+    });
+  }
+  const buttons = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
+  buttons.forEach((btn) => {
+    const id = btn.dataset.theme;
+    const dot = btn.querySelector(".theme-dot");
+    if (dot) dot.style.background = themeColors[id] || "#ccc";
+    btn.classList.toggle("active", state.selectedTheme === id);
+    btn.onclick = () => {
+      state.selectedTheme = id;
+      buttons.forEach((b) => b.classList.toggle("active", b.dataset.theme === id));
+      if (!getAllowedSizes().includes(state.sessionSize)) {
+        state.sessionSize = getAllowedSizes()[0];
+      }
       setActiveSessionButton(state.sessionSize);
       renderQuestion();
-    });
-    elements.themeSelector.appendChild(btn);
+    };
   });
 }
 
