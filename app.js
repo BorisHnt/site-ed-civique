@@ -716,13 +716,13 @@ function renderHistory() {
     const row = document.createElement("div");
     row.className = "history-item";
     const meta = document.createElement("div");
-    meta)className = "meta";
+    meta.className = "meta";
     const title = document.createElement("strong");
     title.textContent = t("sessionLabel", item.total);
     const date = document.createElement("span");
     date.className = "muted";
     date.textContent = formatDate(item.date);
-    meta)append(title, date);
+    meta.append(title, date);
 
     const chip = document.createElement("div");
     chip.className = "score-chip";
