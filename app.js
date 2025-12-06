@@ -186,7 +186,9 @@ function getRouteFromHash() {
 }
 
 function setRoute(route) {
-  state.route = route === "quizz" ? "quizz" : "home";
+  const wantsQuizz = route === "quizz";
+  const hasSession = state.session.length > 0;
+  state.route = wantsQuizz && hasSession ? "quizz" : "home";
   document.body.dataset.route = state.route;
   if (state.route === "quizz") {
     if (window.location.hash !== "#/quizz") {
@@ -433,11 +435,11 @@ function startSession() {
     state.sessionSize = getAllowedSizes()[0];
   }
   const size = Math.min(state.sessionSize, pool.length);
-  setRoute("quizz");
   state.session = shuffle(pool).slice(0, size);
   state.currentIndex = 0;
   state.answers = {};
   state.finished = false;
+  setRoute("quizz");
   renderQuestion();
 }
 
