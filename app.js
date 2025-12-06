@@ -119,6 +119,7 @@ const state = {
   selectedTheme: "mix",
   sessionSize: 10,
   allQuestions: [],
+  themeQuestions: {},
   session: [],
   currentIndex: 0,
   answers: {},
@@ -147,6 +148,15 @@ const themesList = [
   { id: "Vie quotidienne et intégration en France", label: "Vie quotidienne" },
   { id: "Géographie et culture", label: "Géographie & culture" }
 ];
+
+const themeFiles = {
+  "Principes et symboles de la République": "data/themes/principes-et-symboles-de-la-republique.json",
+  "Institutions politiques et démocratie": "data/themes/institutions-politiques-et-democratie.json",
+  "Histoire de France": "data/themes/histoire-de-france.json",
+  "Droits et devoirs du citoyen": "data/themes/droits-et-devoirs-du-citoyen.json",
+  "Vie quotidienne et intégration en France": "data/themes/vie-quotidienne-et-integration-en-france.json",
+  "Géographie et culture": "data/themes/geographie-et-culture.json"
+};
 
 function t(key, ...args) {
   const value = i18n[state.language]?.[key];
@@ -209,47 +219,64 @@ function saveHistory() {
 
 async function loadQuestions() {
   elements.dataStatus.textContent = t("dataLoading");
-  const tryJson = async () => {
-    try {
-      const res = await fetch("data/questions.json");
-      if (!res.ok) return null;
-      const json = await res.json();
-      const normalized = normalizeQuestions(json);
-      if (!normalized.length) return null;
-      return normalized;
-    } catch (e) {
-      return null;
-    }
-  };
-
-  const tryTxt = async () => {
-    try {
-      const res = await fetch("Questions001.txt");
-      if (!res.ok) return null;
-      const text = await res.text();
-      const parsed = parseQuestions(text);
-      return parsed;
-    } catch (e) {
-      return null;
-    }
-  };
-
-  const fromJson = await tryJson();
-  if (fromJson) {
-    state.allQuestions = fromJson;
+  try {
+    const themeEntries = await Promise.all(
+      themesList
+        .filter((t) => t.id !== "mix")
+        .map(async (t) => {
+          const res = await fetch(themeFiles[t.id]);
+          if (!res.ok) throw new Error("fetch failed");
+          const json = await res.json();
+          return { id: t.id, data: normalizeQuestions(json) };
+        })
+    );
+    const themeMap = {};
+    themeEntries.forEach(({ id, data }) => {
+      themeMap[id] = data;
+    });
+    state.themeQuestions = themeMap;
+    state.allQuestions = themeEntries.flatMap((e) => e.data);
     elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
     return;
-  }
+  } catch (e) {
+    // fallback to global JSON or TXT
+    const fromJson = await (async () => {
+      try {
+        const res = await fetch("data/questions.json");
+        if (!res.ok) return null;
+        const json = await res.json();
+        return normalizeQuestions(json);
+      } catch (err) {
+        return null;
+      }
+    })();
 
-  const fromTxt = await tryTxt();
-  if (fromTxt) {
-    state.allQuestions = fromTxt;
-    elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
-    return;
-  }
+    if (fromJson) {
+      state.allQuestions = fromJson;
+      elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
+      return;
+    }
 
-  elements.dataStatus.textContent = t("dataError");
-  showSnackbar(t("dataError"));
+    const fromTxt = await (async () => {
+      try {
+        const res = await fetch("Questions001.txt");
+        if (!res.ok) return null;
+        const text = await res.text();
+        return parseQuestions(text);
+      } catch (err) {
+        return null;
+      }
+    })();
+
+    if (fromTxt) {
+      state.allQuestions = fromTxt;
+      elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
+      return;
+    }
+
+    elements.dataStatus.textContent = t("dataError");
+    showSnackbar(t("dataError"));
+  }
 }
 
 function parseQuestions(text) {
@@ -400,9 +427,7 @@ function startSession() {
     loadQuestions();
     return;
   }
-  const pool = state.selectedTheme === "mix"
-    ? state.allQuestions
-    : state.allQuestions.filter((q) => q.category === state.selectedTheme);
+  const pool = getThemePool(state.selectedTheme);
   if (!pool.length) {
     showSnackbar("Aucune question pour ce thème.");
     return;
@@ -783,6 +808,7 @@ function renderThemeButtons() {
       }
       renderThemeButtons();
       setActiveSessionButton(state.sessionSize);
+      renderQuestion();
     });
     elements.themeSelector.appendChild(btn);
   });
@@ -791,6 +817,16 @@ function renderThemeButtons() {
 function getAllowedSizes() {
   if (state.selectedTheme === "mix") return [10, 20, 40];
   return [10, 20];
+}
+
+function getThemePool(themeId) {
+  if (themeId === "mix") {
+    if (state.allQuestions.length) return state.allQuestions;
+  }
+  if (state.themeQuestions && state.themeQuestions[themeId]) {
+    return state.themeQuestions[themeId];
+  }
+  return state.allQuestions.filter((q) => q.category === themeId);
 }
 
 function init() {
@@ -838,6 +874,8 @@ function init() {
   });
 
   window.addEventListener("hashchange", () => setRoute(getRouteFromHash()));
+
+  renderQuestion();
 }
 
 init();

@@ -136,7 +136,7 @@ h3 { font-size: 18px; }
   outline: none;
   padding: 10px 16px;
   border-radius: 999px;
-  background: #fff;
+  background: var(--card);
   color: var(--text);
   font-weight: 700;
   cursor: pointer;
@@ -182,6 +182,7 @@ h3 { font-size: 18px; }
   flex-wrap: wrap;
   gap: 10px;
   align-items: center;
+  margin-top: 8px;
 }
 
 .session-selector {
@@ -319,6 +320,7 @@ h3 { font-size: 18px; }
   flex-wrap: wrap;
   gap: 8px;
   width: 100%;
+  margin-bottom: 6px;
 }
 
 .theme-btn {
