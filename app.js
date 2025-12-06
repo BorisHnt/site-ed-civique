@@ -618,10 +618,17 @@ function renderQuestion() {
 }
 
 function updateNavButtons() {
-  elements.prevLabel.textContent = t("prev");
-  elements.nextLabel.textContent = state.currentIndex === state.session.length - 1 ? t("finish") : t("next");
-  elements.prevBtn.disabled = state.currentIndex === 0 || state.finished;
-  elements.nextBtn.disabled = !state.session.length;
+  if (state.finished) {
+    elements.prevLabel.textContent = t("mainMenu");
+    elements.nextLabel.textContent = t("start");
+    elements.prevBtn.disabled = false;
+    elements.nextBtn.disabled = false;
+  } else {
+    elements.prevLabel.textContent = t("prev");
+    elements.nextLabel.textContent = state.currentIndex === state.session.length - 1 ? t("finish") : t("next");
+    elements.prevBtn.disabled = state.currentIndex === 0;
+    elements.nextBtn.disabled = !state.session.length;
+  }
 }
 
 function nextStep() {
@@ -643,6 +650,7 @@ function prevStep() {
   if (state.finished) {
     state.finished = false;
     setRoute("home");
+    window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
   if (!state.session.length || state.currentIndex === 0) return;
@@ -769,9 +777,7 @@ function renderSummary() {
   elements.quizBody.appendChild(summary);
   setQuizTitleWithDot(t("summarySubtitle"));
   elements.progressBadge.textContent = t("scoreOn", score, total);
-  elements.nextLabel.textContent = t("start");
-  elements.prevLabel.textContent = t("mainMenu");
-  elements.prevBtn.disabled = false;
+  updateNavButtons();
 }
 
 function buildTooltip(res) {
