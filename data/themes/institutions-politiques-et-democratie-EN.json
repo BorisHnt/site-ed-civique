@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q41",
+    "prompt": "Who is the head of state in France and how is this person chosen?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President of the Republic, elected by French citizens via direct universal suffrage"
+      },
+      {
+        "key": "b",
+        "text": "The King of France, chosen by heredity"
+      },
+      {
+        "key": "c",
+        "text": "The Prime Minister, elected by Parliament"
+      },
+      {
+        "key": "d",
+        "text": "The President of the Senate, elected by mayors"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The head of state is the President of the Republic, elected directly by all citizens in a national election. France is a Republic and has had no king since 1848. The current president is elected for 5 years and represents the nation domestically and abroad.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q42",
+    "prompt": "Who is the head of government in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President of the National Assembly"
+      },
+      {
+        "key": "b",
+        "text": "The Prime Minister, appointed by the President of the Republic"
+      },
+      {
+        "key": "c",
+        "text": "The President of the Constitutional Council"
+      },
+      {
+        "key": "d",
+        "text": "The Minister of the Interior"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The head of Government is the Prime Minister. Appointed by the President, the Prime Minister leads government action (the ministers). The Prime Minister is responsible for implementing public policies and answers to Parliament.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q43",
+    "prompt": "How long is the French President elected for, and how many consecutive terms can they serve?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A 7-year term, renewable without limit"
+      },
+      {
+        "key": "b",
+        "text": "A 5-year term, renewable only once consecutively"
+      },
+      {
+        "key": "c",
+        "text": "A 5-year term, with no limit on re-election"
+      },
+      {
+        "key": "d",
+        "text": "A 4-year term, renewable twice"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The President is elected for 5 years (a five-year term). Since the 2008 constitutional revision, only two consecutive terms are allowed. (Before 2000, the presidential term was 7 years, a seven-year term, but no longer.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q44",
+    "prompt": "Who elects the President of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "All French citizens on the electoral rolls (direct universal suffrage)"
+      },
+      {
+        "key": "b",
+        "text": "Parliament (deputies and senators)"
+      },
+      {
+        "key": "c",
+        "text": "A college of \"grand electors\" such as mayors and local officials"
+      },
+      {
+        "key": "d",
+        "text": "The Constitutional Council"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The President is elected directly by the French people in a two-round direct universal suffrage election. All adult French citizens may vote. (This system has been in place since the 1962 referendum.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q45",
+    "prompt": "Who is responsible for ensuring the Constitution is respected in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The president of the Economic, Social and Environmental Council"
+      },
+      {
+        "key": "b",
+        "text": "The Constitutional Council"
+      },
+      {
+        "key": "c",
+        "text": "The National Assembly"
+      },
+      {
+        "key": "d",
+        "text": "The Prime Minister"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Constitutional Council. It reviews the constitutionality of laws. It may be seized before promulgation, or after via the Priority Preliminary Ruling on Constitutionality (QPC). It has nine members appointed for nine years and former presidents as life members. It is essential to uphold the rule of law and fundamental rights.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q46",
+    "prompt": "Who can vote in political elections in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Any French citizen of age enjoying civil rights"
+      },
+      {
+        "key": "b",
+        "text": "All residents in France regardless of nationality"
+      },
+      {
+        "key": "c",
+        "text": "Only those paying taxes"
+      },
+      {
+        "key": "d",
+        "text": "Only civil servants and military personnel"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Voting rights are reserved for French citizens aged 18 or over with full civil rights. French nationality is required for national elections. (EU nationals may vote only in municipal and European elections.) There is no tax or profession requirement\u2014the suffrage is universal.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q47",
+    "prompt": "Is voting compulsory in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, every citizen is legally required to vote in each election"
+      },
+      {
+        "key": "b",
+        "text": "No, voting is a right but not an obligation\u2014it is a civic duty morally encouraged"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only for presidential elections"
+      },
+      {
+        "key": "d",
+        "text": "No, and voting is reserved for volunteers"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, voting is not compulsory in France. It is a fundamental right people are free to exercise. Voting is strongly encouraged to keep democracy alive, but there is no penalty for abstention. (In some countries voting is mandatory, but not in France.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q48",
+    "prompt": "What is a democracy, like France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A system where one unelected leader decides everything"
+      },
+      {
+        "key": "b",
+        "text": "A regime where power belongs to a hereditary elite"
+      },
+      {
+        "key": "c",
+        "text": "A political system where power belongs to the people, exercised notably by electing representatives"
+      },
+      {
+        "key": "d",
+        "text": "A religious state based on divine law"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Democracy is \"government of the people, by the people, for the people.\" In France, it is representative: citizens elect representatives (president, deputies, mayors, etc.) who exercise power in their name. Suffrage is universal, equal and secret, ensuring everyone can participate in political choices.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many chambers make up the French Parliament and what are their names?",
+    "options": [
+      {
+        "key": "a",
+        "text": "One chamber: the National Assembly"
+      },
+      {
+        "key": "b",
+        "text": "Two chambers: the National Assembly (deputies) and the Senate (senators)"
+      },
+      {
+        "key": "c",
+        "text": "Three chambers: Assembly, Senate and Council of State"
+      },
+      {
+        "key": "d",
+        "text": "Two chambers: the Chamber of Deputies and the House of Lords"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Parliament is bicameral, with two houses: the National Assembly (577 deputies elected by direct suffrage) and the Senate (348 senators elected by indirect suffrage). These two houses pass laws and oversee the Government. (Option c: the Council of State is not a legislature; option d is British.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q50",
+    "prompt": "The National Assembly and the Senate form Parliament. What is Parliament's main role in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "To pass laws and oversee Government action"
+      },
+      {
+        "key": "b",
+        "text": "To elect the President directly"
+      },
+      {
+        "key": "c",
+        "text": "To dispense justice in the name of the French people"
+      },
+      {
+        "key": "d",
+        "text": "To manage communes and departments"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Parliament makes the law: its central role is to debate, amend and vote bills and proposals. It also oversees Government action (questions, inquiries, budget vote, etc.). Legislative power is exercised jointly by the Assembly and the Senate. (Justice is rendered by courts; local government is run by local authorities.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q51",
+    "prompt": "Who holds legislative power in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Parliament (National Assembly + Senate)"
+      },
+      {
+        "key": "b",
+        "text": "The President of the Republic"
+      },
+      {
+        "key": "c",
+        "text": "The Constitutional Council"
+      },
+      {
+        "key": "d",
+        "text": "The Prime Minister alone"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Legislative power belongs to Parliament, i.e., the two houses, the Assembly and the Senate. They make and vote laws. The President and Government exercise executive power, and the Constitutional Council may strike down unconstitutional laws, but only Parliament directly holds legislative power.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q52",
+    "prompt": "Who exercises executive power in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President of the Republic and the Government (Prime Minister and ministers)"
+      },
+      {
+        "key": "b",
+        "text": "Parliament (Assembly and Senate)"
+      },
+      {
+        "key": "c",
+        "text": "Judges and magistrates"
+      },
+      {
+        "key": "d",
+        "text": "Prefects in each department"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Executive power is entrusted to the President and the Government. The President appoints the Prime Minister and, on the Prime Minister's proposal, the ministers; sets broad directions. The Government, under the Prime Minister, implements laws and conducts national policy. (Parliament holds the legislative; judges hold the judicial.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q53",
+    "prompt": "Who is commander-in-chief of the armed forces under the French Constitution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Prime Minister"
+      },
+      {
+        "key": "b",
+        "text": "The President of the Republic"
+      },
+      {
+        "key": "c",
+        "text": "The Minister of the Armed Forces"
+      },
+      {
+        "key": "d",
+        "text": "The Chief of Defense Staff"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The President is Commander-in-Chief (Article 15). He is responsible for national defense, chairs defense councils, and can decide on nuclear force use if needed. Operational command is delegated to the Government and the military, but the President has supreme authority over the armed forces.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q54",
+    "prompt": "Who chairs the Council of Ministers, the weekly meeting where major government decisions are made?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Prime Minister"
+      },
+      {
+        "key": "b",
+        "text": "The President of the Republic"
+      },
+      {
+        "key": "c",
+        "text": "The President of the National Assembly"
+      },
+      {
+        "key": "d",
+        "text": "The oldest minister"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The President chairs the Council of Ministers (usually every Wednesday). All ministers meet with the President and Prime Minister to deliberate and adopt bills, ordinances, key decrees, etc. The Prime Minister leads day-to-day government action, but the President formally chairs these councils.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q55",
+    "prompt": "How many regions are there in France in Europe and including overseas?",
+    "options": [
+      {
+        "key": "a",
+        "text": "13 regions total"
+      },
+      {
+        "key": "b",
+        "text": "5 regions total"
+      },
+      {
+        "key": "c",
+        "text": "18 regions total (13 in mainland France and 5 overseas)"
+      },
+      {
+        "key": "d",
+        "text": "101 regions"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "France has 18 administrative regions in total: 13 in metropolitan France (after the 2016 reform) and 5 overseas (Guadeloupe, Martinique, Guyane, Reunion, Mayotte), which have the same status. (Do not confuse with departments, which are 101.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q56",
+    "prompt": "How many departments does France have?",
+    "options": [
+      {
+        "key": "a",
+        "text": "13"
+      },
+      {
+        "key": "b",
+        "text": "27"
+      },
+      {
+        "key": "c",
+        "text": "50"
+      },
+      {
+        "key": "d",
+        "text": "101"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "There are 101 departments in total. Metropolitan France has 96 departments (including Corsica), and there are 5 overseas departments: Guadeloupe, Martinique, Guyane, Reunion and Mayotte. Each department is run by an elected departmental council.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q57",
+    "prompt": "What is the title of the State's representative in a French department, responsible for enforcing laws there?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The mayor"
+      },
+      {
+        "key": "b",
+        "text": "The prefect"
+      },
+      {
+        "key": "c",
+        "text": "The governor"
+      },
+      {
+        "key": "d",
+        "text": "The deputy"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Prefect is the senior official appointed by the President (on the Government's proposal) to represent the State in each department. The prefect ensures enforcement of laws, maintains public order, coordinates State services, and may issue administrative orders. (The mayor represents the commune, not the State; there is one prefect per department.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q58",
+    "prompt": "Who celebrates civil marriages that have legal value in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The mayor (or a civil officer delegated by the town hall)"
+      },
+      {
+        "key": "b",
+        "text": "The parish priest"
+      },
+      {
+        "key": "c",
+        "text": "A notary"
+      },
+      {
+        "key": "d",
+        "text": "The department's prefect"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Only the mayor (or a deputy mayor), as civil registrar, may celebrate a civil marriage at the town hall. The civil republican marriage is the only one recognized by law. A religious ceremony may take place afterward if the couple wishes, but it has no legal effect without the prior town hall marriage.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q59",
+    "prompt": "What is the official residence of the President of the French Republic in Paris called?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Louvre Palace"
+      },
+      {
+        "key": "b",
+        "text": "The Elysee Palace"
+      },
+      {
+        "key": "c",
+        "text": "City Hall"
+      },
+      {
+        "key": "d",
+        "text": "The Luxembourg Palace"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The head of state lives and works at the Elysee Palace, 55 rue du Faubourg-Saint-Honore in Paris. It is the seat of the Presidency. (The Luxembourg Palace houses the Senate, City Hall is the Paris town hall, and the Louvre is a museum.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q60",
+    "prompt": "Which institution checks that passed laws comply with the French Constitution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Constitutional Council"
+      },
+      {
+        "key": "b",
+        "text": "The Council of State"
+      },
+      {
+        "key": "c",
+        "text": "The Court of Cassation"
+      },
+      {
+        "key": "d",
+        "text": "The Senate"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The Constitutional Council reviews laws for constitutionality. After a law is passed it may be referred to the Council to ensure it does not contradict the Constitution. If articles are unconstitutional, they cannot be promulgated. It thus safeguards the 1958 Constitution and fundamental rights. (The Council of State advises government and judges administration; the Court of Cassation checks proper application of law by courts.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q61",
+    "prompt": "How are deputies elected to the National Assembly?",
+    "options": [
+      {
+        "key": "a",
+        "text": "By direct universal suffrage by all registered French citizens, in legislative elections"
+      },
+      {
+        "key": "b",
+        "text": "By indirect suffrage by grand electors"
+      },
+      {
+        "key": "c",
+        "text": "Appointed by the President of the Republic"
+      },
+      {
+        "key": "d",
+        "text": "Drawn by lot among willing voters"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The 577 deputies of the National Assembly are elected by direct universal suffrage (by citizens) in legislative elections every 5 years (or sooner if dissolved). The voting system is a two-round majority vote by constituency. (Indirect suffrage concerns senators, not deputies.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q62",
+    "prompt": "How are senators elected to the French Senate?",
+    "options": [
+      {
+        "key": "a",
+        "text": "By direct universal suffrage by all citizens"
+      },
+      {
+        "key": "b",
+        "text": "By indirect universal suffrage by a college of \"grand electors\" (local elected officials)"
+      },
+      {
+        "key": "c",
+        "text": "Appointed for life by the President"
+      },
+      {
+        "key": "d",
+        "text": "Designated by the deputies"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The 348 senators are elected by indirect suffrage. In practice, grand electors\u2014mainly local elected officials (mayors, municipal, departmental, regional councilors)\u2014vote to elect senators in each department. Senate terms last 6 years and the Senate is renewed by half every 3 years. (This system ensures territorial representation in Parliament.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q63",
+    "prompt": "How many regions did mainland France have before 2016 (before some regions were merged)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "22 regions"
+      },
+      {
+        "key": "b",
+        "text": "13 regions"
+      },
+      {
+        "key": "c",
+        "text": "5 regions"
+      },
+      {
+        "key": "d",
+        "text": "18 regions"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Before the 2016 territorial reform, mainland France had 22 regions. Since 2016, this number is reduced to 13 (several regions merged, such as Alsace-Lorraine-Champagne-Ardenne into Grand Est). Adding the 5 overseas regions yields the 18 current regions.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q64",
+    "prompt": "What is the smallest territorial collectivity in France, run by a mayor and a municipal council?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A commune"
+      },
+      {
+        "key": "b",
+        "text": "A department"
+      },
+      {
+        "key": "c",
+        "text": "An agglomeration community"
+      },
+      {
+        "key": "d",
+        "text": "A canton"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The commune is the smallest administrative division with local autonomy. France has about 35,000 communes, each run by a mayor and elected municipal council. (A canton is a departmental subdivision for electoral purposes; an agglomeration community is a grouping of communes.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q65",
+    "prompt": "Is France a federal state (like Germany or the United States)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, France is a federation of autonomous regions"
+      },
+      {
+        "key": "b",
+        "text": "No, France is a unitary state: the central power delegates some powers to local authorities, but there are no federated states"
+      },
+      {
+        "key": "c",
+        "text": "Yes, since the 1958 Constitution"
+      },
+      {
+        "key": "d",
+        "text": "No, but it plans to become one"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, France is a unitary and indivisible state. All laws and decisions come from a single central power (Parliament and Government). Territorial collectivities (regions, departments, communes) have their own administrative powers (decentralization) but are not sovereign\u2014they operate within the framework set by the State. (France is not a federation like Germany.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q66",
+    "prompt": "What is \"decentralization\" in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Abandoning powers of the central State"
+      },
+      {
+        "key": "b",
+        "text": "Transferring some administrative powers from the State to local authorities (regions, departments, communes)"
+      },
+      {
+        "key": "c",
+        "text": "Abolishing departments"
+      },
+      {
+        "key": "d",
+        "text": "Privatizing public services"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Decentralization is the process by which the State entrusts territorial collectivities with managing certain local matters, with their own resources and administrative autonomy. For example, regions manage high schools and regional transport; departments manage middle schools and social aid; communes handle primary schools, civil registry, etc. It is not State withdrawal, but an arrangement to be more effective and closer to citizens.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q67",
+    "prompt": "Which representative body defends the interests of communes, departments and regions at national level?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The National Assembly"
+      },
+      {
+        "key": "b",
+        "text": "The Senate"
+      },
+      {
+        "key": "c",
+        "text": "The Economic, Social and Environmental Council"
+      },
+      {
+        "key": "d",
+        "text": "The Constitutional Council"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Senate is often called the \"representative of territorial collectivities.\" Senators are elected by local elected officials and the Senate particularly looks after local interests in the legislative process. (The National Assembly represents the general population; the CESE represents organized civil society.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q68",
+    "prompt": "How many deputies sit in the French National Assembly?",
+    "options": [
+      {
+        "key": "a",
+        "text": "348"
+      },
+      {
+        "key": "b",
+        "text": "577"
+      },
+      {
+        "key": "c",
+        "text": "500"
+      },
+      {
+        "key": "d",
+        "text": "233"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The National Assembly has 577 deputies. They are elected by direct universal suffrage, each representing a constituency. This number is set by law (it changes little; it was 577 in 2022 and will stay so absent reform). The Senate, by comparison, has 348 members.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q69",
+    "prompt": "How many senators are there in the French Senate?",
+    "options": [
+      {
+        "key": "a",
+        "text": "100"
+      },
+      {
+        "key": "b",
+        "text": "577"
+      },
+      {
+        "key": "c",
+        "text": "348"
+      },
+      {
+        "key": "d",
+        "text": "233"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "348 senators sit in the Senate. This number has varied slightly over time (e.g., 321 before 2004). Senators are renewed by half every three years and are elected for 6-year terms.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q70",
+    "prompt": "Who oversees Government action in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President only"
+      },
+      {
+        "key": "b",
+        "text": "Parliament (especially the National Assembly)"
+      },
+      {
+        "key": "c",
+        "text": "The Constitutional Council"
+      },
+      {
+        "key": "d",
+        "text": "No one; the Government is sovereign between elections"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Government is politically accountable to Parliament. The National Assembly can topple it by voting a motion of no confidence. Deputies and senators oversee government through questions, inquiries, budget debates, etc. This parliamentary check is essential to institutional balance in our democracy.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q71",
+    "prompt": "What is a referendum in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A law passed by Parliament"
+      },
+      {
+        "key": "b",
+        "text": "A voting procedure allowing the people to decide directly on a question or bill"
+      },
+      {
+        "key": "c",
+        "text": "A presidential decree"
+      },
+      {
+        "key": "d",
+        "text": "A mandatory approval vote by mayors"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "A referendum is a direct vote of the whole electorate on a given question. In France, the President may call a national referendum (e.g., on a constitutional reform or major bill). If a majority approves, the project is adopted. It is a tool of direct democracy provided by the Constitution (Article 11). (Examples: the 1962 referendum on electing the President by direct suffrage, or 2005 on the EU treaty.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q72",
+    "prompt": "What is the role of the Constitutional Council during national elections (presidential, legislative) in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "It has no role; it deals only with laws"
+      },
+      {
+        "key": "b",
+        "text": "It ensures the regularity of elections and proclaims official results"
+      },
+      {
+        "key": "c",
+        "text": "It organizes the ballot logistics"
+      },
+      {
+        "key": "d",
+        "text": "It selects the candidates allowed to run"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Constitutional Council ensures national elections run properly: it examines and validates the list of presidential candidates, checks voting regularity, rules on challenges, and proclaims official results. It acts as an arbiter ensuring the honesty of the ballot. (It also oversees campaign spending caps and candidates' accounts.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q73",
+    "prompt": "What is the Council of State in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President's government"
+      },
+      {
+        "key": "b",
+        "text": "The highest administrative court and legal adviser to the Government"
+      },
+      {
+        "key": "c",
+        "text": "The meeting of ministers and secretaries of state"
+      },
+      {
+        "key": "d",
+        "text": "The assembly of religious representatives"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Council of State has a dual role: it is the highest court of the administrative order (final judge of disputes between citizens and the administration) and advises the Government legally (gives opinions on bills, major decrees, etc.). Its members are senior civil servants and judges specialized in public law.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q74",
+    "prompt": "What happens if the National Assembly passes a motion of no confidence against the Government?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The President of the Republic must resign"
+      },
+      {
+        "key": "b",
+        "text": "The Prime Minister and Government must resign"
+      },
+      {
+        "key": "c",
+        "text": "The motion is only symbolic, with no consequence"
+      },
+      {
+        "key": "d",
+        "text": "The Constitutional Council must approve the censure"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "If a majority of deputies votes a motion of no confidence, they withdraw confidence from the Government. The Prime Minister must then submit the Government's resignation to the President (Article 50). It is the main way for the Assembly to bring down the Government. (It has happened a few times under the Fifth Republic\u2014for example in 1962.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q75",
+    "prompt": "What is a territorial collectivity in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A State division with no autonomy"
+      },
+      {
+        "key": "b",
+        "text": "An administrative subdivision run by elected officials with its own powers"
+      },
+      {
+        "key": "c",
+        "text": "A national public company"
+      },
+      {
+        "key": "d",
+        "text": "A grouping of EU countries"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "A territorial collectivity (or local authority) is an administrative entity distinct from the State, with legal personality, run by an elected council and exercising local powers. Main collectivities: commune, department, region (plus specific overseas collectivities). They may issue regulations in their domain (transport, local education, social action, etc.) and have their own budget, under national law.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q76",
+    "prompt": "The term of deputies in the National Assembly is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "4 years"
+      },
+      {
+        "key": "b",
+        "text": "5 years"
+      },
+      {
+        "key": "c",
+        "text": "6 years"
+      },
+      {
+        "key": "d",
+        "text": "Unlimited until they resign"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Deputies are elected for 5 years (unless the Assembly is dissolved early). This five-year period aligned with the presidential term has been in effect since 2002. The President serves a five-year term; deputies serve a 5-year legislature. (Option c: 6 years is the senators' term.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q77",
+    "prompt": "What is the name of the current President of the National Assembly and what is the role?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The oldest member\u2014simply opens the parliamentary session"
+      },
+      {
+        "key": "b",
+        "text": "The Prime Minister\u2014also leads the Assembly"
+      },
+      {
+        "key": "c",
+        "text": "The President of the National Assembly, elected by deputies\u2014runs debates and oversees the Assembly's functioning"
+      },
+      {
+        "key": "d",
+        "text": "The President of the Senate\u2014also chairs the National Assembly"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The National Assembly elects a President of the National Assembly (currently a woman; in 2023 it is Yael Braun-Pivet, the first woman in this post). This president chairs sessions, enforces the rules, organizes debates and represents the Assembly. This is the fourth-ranking office in the State protocol. (The President of the Senate leads the Senate, not the Assembly.)",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q78",
+    "prompt": "What is the CESE (Economic, Social and Environmental Council)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A parliamentary committee"
+      },
+      {
+        "key": "b",
+        "text": "A consultative assembly made up of representatives of civil society (unions, associations, etc.)"
+      },
+      {
+        "key": "c",
+        "text": "A body directing government economic policy"
+      },
+      {
+        "key": "d",
+        "text": "A European works council"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The CESE is the Republic's third assembly (after the Assembly and Senate) but has only an advisory role. It gathers representatives of organized civil society: labor unions, employer organizations, associations, NGOs, etc. The CESE may be consulted by the Government or Parliament for opinions on bills or social issues (economy, social, environment). Its recommendations are non-binding but enrich legislative thinking.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q79",
+    "prompt": "What is the role of the Constitutional Council during a presidential election?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Validate candidacies and proclaim official results of the presidential election"
+      },
+      {
+        "key": "b",
+        "text": "Organize polling stations"
+      },
+      {
+        "key": "c",
+        "text": "Fund candidates' campaigns"
+      },
+      {
+        "key": "d",
+        "text": "Campaign for the incumbent president"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "During the presidential election, the Constitutional Council receives sponsorships (signatures) from elected officials for candidates and draws up the official candidate list. After the rounds of voting, it checks vote regularity, rules on challenges, then proclaims the official results. It acts as an impartial electoral arbiter.",
+    "category": "Political Institutions and Democracy"
+  },
+  {
+    "id": "q80",
+    "prompt": "Is France part of the European Union, and how many countries make up the EU today?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, France is not an EU member"
+      },
+      {
+        "key": "b",
+        "text": "Yes, and the EU has 27 member states"
+      },
+      {
+        "key": "c",
+        "text": "Yes, and the EU has 28 countries (soon 29)"
+      },
+      {
+        "key": "d",
+        "text": "Yes, the EU includes all European countries"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, France is a founding country of the EU, and since the UK's departure in 2020 the EU has 27 member states. France participates actively in EU institutions (European Parliament, Commission, Council, etc.). (Option c was true before 2020, but the UK left.)",
+    "category": "Political Institutions and Democracy"
+  }
+]

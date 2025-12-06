@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q201",
+    "prompt": "How many administrative regions does mainland France have since 2016?",
+    "options": [
+      {
+        "key": "a",
+        "text": "10"
+      },
+      {
+        "key": "b",
+        "text": "12"
+      },
+      {
+        "key": "c",
+        "text": "13"
+      },
+      {
+        "key": "d",
+        "text": "15"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "13. Since the 2016 territorial reform, mainland France has 13 administrative regions.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q202",
+    "prompt": "What is the official currency of France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The US dollar"
+      },
+      {
+        "key": "b",
+        "text": "The euro"
+      },
+      {
+        "key": "c",
+        "text": "The Swiss franc"
+      },
+      {
+        "key": "d",
+        "text": "The pound sterling"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The euro. Since 2002 the euro has been France's legal currency.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q203",
+    "prompt": "Which of these dates is a public holiday in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "March 5"
+      },
+      {
+        "key": "b",
+        "text": "May 8"
+      },
+      {
+        "key": "c",
+        "text": "May 24"
+      },
+      {
+        "key": "d",
+        "text": "April 25"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "May 8, which is a public holiday commemorating the end of World War II, per the French Labor Code.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q204",
+    "prompt": "How old must you be to run for President of France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "23"
+      },
+      {
+        "key": "d",
+        "text": "33"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18; being of age\u2014at least 18\u2014is an eligibility condition to run for president.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q205",
+    "prompt": "How many French overseas departments (DOM) are there?",
+    "options": [
+      {
+        "key": "a",
+        "text": "3"
+      },
+      {
+        "key": "b",
+        "text": "4"
+      },
+      {
+        "key": "c",
+        "text": "5"
+      },
+      {
+        "key": "d",
+        "text": "7"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "5, namely Guadeloupe, Guyane, Martinique, Reunion and Mayotte.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q206",
+    "prompt": "What date is the French national holiday?",
+    "options": [
+      {
+        "key": "a",
+        "text": "May 1"
+      },
+      {
+        "key": "b",
+        "text": "May 8"
+      },
+      {
+        "key": "c",
+        "text": "November 11"
+      },
+      {
+        "key": "d",
+        "text": "July 14"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "July 14, which commemorates the Storming of the Bastille and is France's national day.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q207",
+    "prompt": "Which animal is the unofficial emblem of France, often linked to French patriotism?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The rooster"
+      },
+      {
+        "key": "b",
+        "text": "The lion"
+      },
+      {
+        "key": "c",
+        "text": "The eagle"
+      },
+      {
+        "key": "d",
+        "text": "The bear"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The rooster. The rooster is a traditional symbol of France, linked to the Latin word gallus meaning both \"rooster\" and \"Gaul.\"",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q208",
+    "prompt": "According to the Constitution, what fundamental principle is stated as the principle of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Government of the people, by the people and for the people"
+      },
+      {
+        "key": "b",
+        "text": "Liberty, Equality, Fraternity"
+      },
+      {
+        "key": "c",
+        "text": "Indivisible, secular, social"
+      },
+      {
+        "key": "d",
+        "text": "National sovereignty"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Government of the people, by the people and for the people (Article 2 of the 1958 Constitution states \"its principle is: government of the people, by the people and for the people\").",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q209",
+    "prompt": "What is the longest river in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Seine"
+      },
+      {
+        "key": "b",
+        "text": "The Loire"
+      },
+      {
+        "key": "c",
+        "text": "The Rhone"
+      },
+      {
+        "key": "d",
+        "text": "The Garonne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Loire. The Loire is the longest river flowing entirely in France, about 1,006 km.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q210",
+    "prompt": "Which river runs through Paris?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Rhone"
+      },
+      {
+        "key": "b",
+        "text": "The Seine"
+      },
+      {
+        "key": "c",
+        "text": "The Garonne"
+      },
+      {
+        "key": "d",
+        "text": "The Rhine"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Seine. The Seine crosses Paris from west to east, dividing the capital into Left Bank and Right Bank.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q211",
+    "prompt": "What is the highest point in mainland France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mont Ventoux (1,912 m)"
+      },
+      {
+        "key": "b",
+        "text": "Mont Aigoual (1,565 m)"
+      },
+      {
+        "key": "c",
+        "text": "Mont Blanc (4,806 m)"
+      },
+      {
+        "key": "d",
+        "text": "Pic du Midi (2,877 m)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Mont Blanc. At about 4,806 meters, it is France's highest peak.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q212",
+    "prompt": "Which mountain range forms the natural border between France and Spain?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Alps"
+      },
+      {
+        "key": "b",
+        "text": "The Massif Central"
+      },
+      {
+        "key": "c",
+        "text": "The Pyrenees"
+      },
+      {
+        "key": "d",
+        "text": "The Jura"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Pyrenees. They form the natural border between France and Spain.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q213",
+    "prompt": "Which Parisian monument was built for the 1889 World's Fair?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Arc de Triomphe"
+      },
+      {
+        "key": "b",
+        "text": "The Eiffel Tower"
+      },
+      {
+        "key": "c",
+        "text": "La Grande Arche de la Defense"
+      },
+      {
+        "key": "d",
+        "text": "Sacre-Coeur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Eiffel Tower. It was built for the 1889 World's Fair.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q214",
+    "prompt": "What is the largest chateau in the Loire Valley?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Chateau de Chenonceau"
+      },
+      {
+        "key": "b",
+        "text": "Chateau de Chambord"
+      },
+      {
+        "key": "c",
+        "text": "Chateau d'Amboise"
+      },
+      {
+        "key": "d",
+        "text": "Chateau de Blois"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Chateau de Chambord. It is the largest chateau in the Loire Valley.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q215",
+    "prompt": "Which institution is tasked with defending the French language?",
+    "options": [
+      {
+        "key": "a",
+        "text": "UNESCO"
+      },
+      {
+        "key": "b",
+        "text": "The Academie francaise"
+      },
+      {
+        "key": "c",
+        "text": "The Senate"
+      },
+      {
+        "key": "d",
+        "text": "The National Assembly"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Academie francaise. It sets rules for the French language.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q216",
+    "prompt": "Which element of French culture has been on UNESCO's Intangible Cultural Heritage list since 2010?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The gastronomic meal of the French"
+      },
+      {
+        "key": "b",
+        "text": "Bordeaux wine"
+      },
+      {
+        "key": "c",
+        "text": "Paris Opera ballet"
+      },
+      {
+        "key": "d",
+        "text": "Camembert cheese"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The French gastronomic meal. It has been listed by UNESCO since 2010.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q217",
+    "prompt": "The Fete de la Musique takes place each year on:",
+    "options": [
+      {
+        "key": "a",
+        "text": "May 1"
+      },
+      {
+        "key": "b",
+        "text": "July 14"
+      },
+      {
+        "key": "c",
+        "text": "June 21"
+      },
+      {
+        "key": "d",
+        "text": "November 11"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "June 21. It coincides with the summer solstice.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q218",
+    "prompt": "Which site in Normandy is a UNESCO World Heritage Site?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Eiffel Tower"
+      },
+      {
+        "key": "b",
+        "text": "Mont-Saint-Michel"
+      },
+      {
+        "key": "c",
+        "text": "The Palace of the Popes (Avignon)"
+      },
+      {
+        "key": "d",
+        "text": "The Pont du Gard"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Mont-Saint-Michel.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q219",
+    "prompt": "What is the official language of France according to its Constitution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "English"
+      },
+      {
+        "key": "b",
+        "text": "German"
+      },
+      {
+        "key": "c",
+        "text": "French"
+      },
+      {
+        "key": "d",
+        "text": "Spanish"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "French. It has been the official language since 1992 (Article 2).",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q220",
+    "prompt": "How many departments are there in France (mainland + overseas)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "94"
+      },
+      {
+        "key": "b",
+        "text": "100"
+      },
+      {
+        "key": "c",
+        "text": "101"
+      },
+      {
+        "key": "d",
+        "text": "103"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "101 departments.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q221",
+    "prompt": "In which chateau is the famous Hall of Mirrors located?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Chambord"
+      },
+      {
+        "key": "b",
+        "text": "Versailles"
+      },
+      {
+        "key": "c",
+        "text": "Blois"
+      },
+      {
+        "key": "d",
+        "text": "Fontainebleau"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Versailles.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q222",
+    "prompt": "Which date commemorates the Allies' victory over Nazi Germany in 1945?",
+    "options": [
+      {
+        "key": "a",
+        "text": "November 11"
+      },
+      {
+        "key": "b",
+        "text": "May 8, 1945"
+      },
+      {
+        "key": "c",
+        "text": "July 14"
+      },
+      {
+        "key": "d",
+        "text": "December 25"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "May 8, 1945.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q223",
+    "prompt": "Which of these cheeses has a PDO (Protected Designation of Origin)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Cheddar"
+      },
+      {
+        "key": "b",
+        "text": "Industrial Brie"
+      },
+      {
+        "key": "c",
+        "text": "Camembert de Normandie"
+      },
+      {
+        "key": "d",
+        "text": "Gouda"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Camembert de Normandie.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q224",
+    "prompt": "What is the official motto of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "\"Long live the Republic\""
+      },
+      {
+        "key": "b",
+        "text": "\"Liberty, Equality, Fraternity\""
+      },
+      {
+        "key": "c",
+        "text": "\"Work, Family, Fatherland\""
+      },
+      {
+        "key": "d",
+        "text": "\"Unity, Progress, Justice\""
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "\"Liberty, Equality, Fraternity.\"",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q225",
+    "prompt": "Which French painter is famous for his water lily paintings?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Claude Monet"
+      },
+      {
+        "key": "b",
+        "text": "Renoir"
+      },
+      {
+        "key": "c",
+        "text": "Matisse"
+      },
+      {
+        "key": "d",
+        "text": "Cezanne"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Claude Monet.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q226",
+    "prompt": "In which French region is Marseille located?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Occitanie"
+      },
+      {
+        "key": "b",
+        "text": "Provence-Alpes-Cote d'Azur"
+      },
+      {
+        "key": "c",
+        "text": "Normandy"
+      },
+      {
+        "key": "d",
+        "text": "Auvergne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Provence-Alpes-Cote d'Azur.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q227",
+    "prompt": "What is the prefecture of the Auvergne-Rhone-Alpes region?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Grenoble"
+      },
+      {
+        "key": "b",
+        "text": "Clermont-Ferrand"
+      },
+      {
+        "key": "c",
+        "text": "Saint-Etienne"
+      },
+      {
+        "key": "d",
+        "text": "Lyon"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Lyon.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q228",
+    "prompt": "What is France's political regime?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Constitutional monarchy"
+      },
+      {
+        "key": "b",
+        "text": "Republic"
+      },
+      {
+        "key": "c",
+        "text": "Empire"
+      },
+      {
+        "key": "d",
+        "text": "Dictatorship"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Republic.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q229",
+    "prompt": "Where can you see the Mona Lisa?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Musee du Louvre"
+      },
+      {
+        "key": "b",
+        "text": "Musee d'Orsay"
+      },
+      {
+        "key": "c",
+        "text": "Chateau de Versailles"
+      },
+      {
+        "key": "d",
+        "text": "Musee Picasso"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Musee du Louvre.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q230",
+    "prompt": "Which river flows through Lyon?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Seine"
+      },
+      {
+        "key": "b",
+        "text": "The Rhone"
+      },
+      {
+        "key": "c",
+        "text": "The Loire"
+      },
+      {
+        "key": "d",
+        "text": "The Garonne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Rhone.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q231",
+    "prompt": "How old is the city of Marseille, founded by Phoenicians from Greece?",
+    "options": [
+      {
+        "key": "a",
+        "text": "About 500 years"
+      },
+      {
+        "key": "b",
+        "text": "About 1,000 years"
+      },
+      {
+        "key": "c",
+        "text": "About 2,000 years"
+      },
+      {
+        "key": "d",
+        "text": "About 2,600 years"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "About 2,600 years. Marseille was founded around 600 BC by Greek sailors from Phocaea. It is France's oldest city.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q232",
+    "prompt": "Who had the Palais Longchamp built, an emblematic monument of Marseille?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Napoleon I"
+      },
+      {
+        "key": "b",
+        "text": "Louis XIV"
+      },
+      {
+        "key": "c",
+        "text": "Baron Haussmann"
+      },
+      {
+        "key": "d",
+        "text": "Mayor Jean-Baptiste Monjean"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Mayor Jean-Baptiste Monjean. The Palais Longchamp was inaugurated in 1869 to celebrate bringing water from the Durance to Marseille, by decision of the city led by Monjean.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q233",
+    "prompt": "What is the name of the place where Olympique de Marseille plays home matches?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Stade Jean-Bouin"
+      },
+      {
+        "key": "b",
+        "text": "Stade Velodrome"
+      },
+      {
+        "key": "c",
+        "text": "Parc des Princes"
+      },
+      {
+        "key": "d",
+        "text": "Stade de la Mediterranee"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Stade Velodrome. Olympique de Marseille plays at the Velodrome, renamed Orange Velodrome for sponsorship.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q234",
+    "prompt": "Which of these calanques is not a calanque of Marseille?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sormiou"
+      },
+      {
+        "key": "b",
+        "text": "Sugiton"
+      },
+      {
+        "key": "c",
+        "text": "Morgiou"
+      },
+      {
+        "key": "d",
+        "text": "Anisette"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Anisette. Anisette is an aniseed drink, not a calanque. The others (Sormiou, Morgiou, Sugiton) are part of the Calanques National Park of Marseille.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q235",
+    "prompt": "What is the real name of the basilica known as \"La Bonne Mere\"?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Notre-Dame de Marseille"
+      },
+      {
+        "key": "b",
+        "text": "Notre-Dame de la Garde"
+      },
+      {
+        "key": "c",
+        "text": "Notre-Dame des Bienheureux"
+      },
+      {
+        "key": "d",
+        "text": "Notre-Dame du Sauveur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Notre-Dame de la Garde. Nicknamed \"La Bonne Mere\" by locals, this basilica overlooks the city since 1864.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q236",
+    "prompt": "Which French city is known as the world capital of wine?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Dijon"
+      },
+      {
+        "key": "b",
+        "text": "Reims"
+      },
+      {
+        "key": "c",
+        "text": "Bordeaux"
+      },
+      {
+        "key": "d",
+        "text": "Beaune"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Bordeaux. Bordeaux is famous for its great wines and world-renowned vineyards.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q237",
+    "prompt": "Which theater festival takes place every summer in southern France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Cannes Festival"
+      },
+      {
+        "key": "b",
+        "text": "The Avignon Festival"
+      },
+      {
+        "key": "c",
+        "text": "Les Francofolies"
+      },
+      {
+        "key": "d",
+        "text": "Le Printemps de Bourges"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Avignon Festival. This is one of Europe's largest theater and performing arts festivals.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q238",
+    "prompt": "Which famous monument was gifted by France to the United States?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Eiffel Tower"
+      },
+      {
+        "key": "b",
+        "text": "The Arc de Triomphe"
+      },
+      {
+        "key": "c",
+        "text": "The Statue of Liberty"
+      },
+      {
+        "key": "d",
+        "text": "The Pantheon"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Statue of Liberty. Given in 1886, it was built in France before being sent to New York.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q239",
+    "prompt": "What is the name of the French film festival held every year on the French Riviera?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Avignon Festival"
+      },
+      {
+        "key": "b",
+        "text": "Cannes Festival"
+      },
+      {
+        "key": "c",
+        "text": "Lumiere Festival"
+      },
+      {
+        "key": "d",
+        "text": "Deauville Festival"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Cannes Festival. The Cannes Film Festival is one of the world's most prestigious film festivals, founded in 1946.",
+    "category": "Geography and Culture"
+  },
+  {
+    "id": "q240",
+    "prompt": "Which river runs through Paris?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Garonne"
+      },
+      {
+        "key": "b",
+        "text": "The Loire"
+      },
+      {
+        "key": "c",
+        "text": "The Seine"
+      },
+      {
+        "key": "d",
+        "text": "The Rhone"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Seine runs through Paris from east to west, looping around the Ile de la Cite and Ile Saint-Louis. This emblematic river is closely tied to the capital's history and identity, and its banks are a UNESCO World Heritage Site. Many famous bridges, like Pont Neuf or Pont Alexandre III, span the Seine in Paris.",
+    "category": "Geography and Culture"
+  }
+]

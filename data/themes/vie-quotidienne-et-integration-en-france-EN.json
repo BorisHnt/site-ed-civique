@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q161",
+    "prompt": "What is the emergency number to contact the police or gendarmerie in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "17"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "17. Dialing 17 reaches Police or Gendarmerie emergency services to report an offense, major accident or need for intervention. This number is free 24/7 from any phone.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q162",
+    "prompt": "Which emergency number calls the firefighters (fires, road accidents, various emergencies)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "17"
+      },
+      {
+        "key": "d",
+        "text": "114"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18. The 18 reaches firefighters. This free number is for fires, accidents, people in danger or trapped, etc. Firefighters handle fires, road rescues and can support the SAMU for first aid. (15 is the medical SAMU, 17 the police; 114 is an SMS emergency number for the hearing-impaired.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q163",
+    "prompt": "Which medical emergency number can you call to get a SAMU ambulance in case of life-threatening emergency or serious accident?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "17"
+      },
+      {
+        "key": "c",
+        "text": "18"
+      },
+      {
+        "key": "d",
+        "text": "112"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "15. In a medical emergency (illness, serious trauma, life-threatening situation), call the SAMU at 15. This free number connects to a center staffed by doctors who can dispatch a medical ambulance or advise while waiting for help. (15 is for medical aid, distinct from 18 firefighters and 17 police, though they coordinate.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q164",
+    "prompt": "Which European emergency number can you dial anywhere in the EU to be connected to the proper emergency service (police, fire or ambulance)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "911"
+      },
+      {
+        "key": "b",
+        "text": "15"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "119"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "112. 112 is the emergency number valid throughout the EU. Dialing 112 from any European country connects you to local emergency services. In France, a 112 operator directs the call to police, fire or SAMU as needed. (911 is for North America; 119 is used for other services in some countries.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q165",
+    "prompt": "What document is mandatory to drive a car in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Having insurance"
+      },
+      {
+        "key": "b",
+        "text": "A valid driving license corresponding to the vehicle"
+      },
+      {
+        "key": "c",
+        "text": "A blood type card"
+      },
+      {
+        "key": "d",
+        "text": "A passport"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Anyone driving a motor vehicle must have a valid license for that vehicle category. Driving without a license is a criminal offense. In France, you get the B license (car) after an exam from age 18 (17 in accompanied driving, but active only at 18). You must also have the vehicle registration and proof of insurance with you, but the personal document indispensable to drive is the driving license.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q166",
+    "prompt": "Is car insurance mandatory for vehicles in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, at least liability insurance (\"third-party\" coverage) is required for any motor vehicle"
+      },
+      {
+        "key": "b",
+        "text": "Only for new cars"
+      },
+      {
+        "key": "c",
+        "text": "No, optional but recommended"
+      },
+      {
+        "key": "d",
+        "text": "Yes, except for two-wheelers"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. Every motor vehicle must be insured at least for civil liability (third-party) covering damage caused to others. Driving uninsured is illegal and very risky (in an accident, the uninsured driver must compensate victims and faces prosecution). This obligation applies to cars, motorcycles, scooters, trucks, etc. Driving uninsured can lead to heavy fines, license suspension or even vehicle confiscation.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q167",
+    "prompt": "What is the carte Vitale used for in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "It is a bank card used to pay the doctor"
+      },
+      {
+        "key": "b",
+        "text": "It is the health insurance card used to obtain reimbursement for health expenses"
+      },
+      {
+        "key": "c",
+        "text": "It is a biometric identity card"
+      },
+      {
+        "key": "d",
+        "text": "It contains a child's school record"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The carte Vitale is issued by the Health Insurance to each insured person. It contains administrative information (social security number, affiliation, etc.) and lets health professionals send treatment forms electronically so patients are reimbursed. Thanks to the carte Vitale, third-party payment is possible and you do not always pay all costs upfront. (It holds no medical data and has no photo, except Vitale 2 with a photo.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q168",
+    "prompt": "Is smoking allowed in enclosed public places (restaurants, offices, transport, etc.) in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, everywhere"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only in restaurants"
+      },
+      {
+        "key": "c",
+        "text": "No, it is banned in all enclosed or covered public places since 2007 (except very specific smoking areas)"
+      },
+      {
+        "key": "d",
+        "text": "It is tolerated if the majority agree"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Smoking is banned in enclosed public places (schools, public transport, businesses, cafes, restaurants, etc.) since the 1991 Evin law reinforced in 2007. Only exceptions: designated smoking rooms in some places under strict rules, or open outdoor areas like terraces. The ban protects people from secondhand smoke. Smoking illegally indoors can mean a fine.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q169",
+    "prompt": "What is the Republican Integration Contract (CIR) that a first-time foreign arrival in France signs?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A mandatory work contract for newcomers"
+      },
+      {
+        "key": "b",
+        "text": "An agreement with the French Office for Immigration and Integration (OFII) where the foreigner commits to a civics and language course and to respect the Republic's values"
+      },
+      {
+        "key": "c",
+        "text": "A special residence permit for posted workers"
+      },
+      {
+        "key": "d",
+        "text": "A contract to automatically obtain French nationality"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The CIR is a Republican Integration Contract offered by the OFII to foreigners admitted to stay in France long-term for the first time. By signing, the foreigner agrees to attend required courses (civics training on French values, and language classes if needed) and to integrate into French society. The State in turn offers these courses and support. This one-year contract, renewable once, aims to ease newcomers' integration while respecting republican values.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q170",
+    "prompt": "What does the Family Allowance Fund (CAF) manage in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Tax collection for the Treasury"
+      },
+      {
+        "key": "b",
+        "text": "Financial aid for families and housing (family allowances, housing aid, etc.)"
+      },
+      {
+        "key": "c",
+        "text": "Health insurance"
+      },
+      {
+        "key": "d",
+        "text": "Enrollment in daycare"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The CAF is a Social Security body paying family and social benefits: family allowances (based on number of children), housing benefits (APL), RSA (income support), activity bonus, back-to-school allowance, etc. It does not handle health (that is Health Insurance) or taxes, but financially supports households with children or low income to ensure national solidarity.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q171",
+    "prompt": "Which public body helps job seekers find work and may pay unemployment benefits in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Social Security"
+      },
+      {
+        "key": "b",
+        "text": "The Caisse des Depots"
+      },
+      {
+        "key": "c",
+        "text": "France Travail"
+      },
+      {
+        "key": "d",
+        "text": "The Chamber of Commerce"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "France Travail is the national employment agency. It supports unemployed people in their search (advisers, job offers, training) and manages unemployment benefits for eligible job seekers. Anyone without a job may register. The agency connects employers recruiting and people seeking work.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q172",
+    "prompt": "What is the official currency used in France for everyday transactions?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The French franc"
+      },
+      {
+        "key": "b",
+        "text": "The euro"
+      },
+      {
+        "key": "c",
+        "text": "The dollar"
+      },
+      {
+        "key": "d",
+        "text": "The pound sterling"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The euro (\u20ac) has been France's official currency since January 1, 1999 (cash since 2002). It replaced the old franc. France is part of the euro area of 20 European countries using this common currency. Prices, wages, accounts and transactions in France are in euros.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q173",
+    "prompt": "Which ID card is issued to French citizens and lets them prove identity in France and in the EU?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The national identity card"
+      },
+      {
+        "key": "b",
+        "text": "The carte Vitale"
+      },
+      {
+        "key": "c",
+        "text": "The driving license"
+      },
+      {
+        "key": "d",
+        "text": "The voter card"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The national identity card (plastic format with photo) is the main official document for a French citizen to prove identity. Issued at the town hall (valid 10 years for minors, 10 or 15 for adults depending on period). It is not compulsory but very useful. It allows travel in the EU and some nearby countries without a passport. (A driving license can serve as ID in daily life but that is not its primary purpose. The carte Vitale is not an ID.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q174",
+    "prompt": "Which day of the week are most shops and services closed in France, especially outside tourist areas?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Monday"
+      },
+      {
+        "key": "b",
+        "text": "Saturday"
+      },
+      {
+        "key": "c",
+        "text": "Sunday"
+      },
+      {
+        "key": "d",
+        "text": "Wednesday"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Sunday is traditionally the weekly rest day in France. Most shops are closed Sunday (except exceptions: bakeries in the morning, groceries until noon, tourist areas or with waivers). Administrations and banks are also closed. This rule stems from Sunday rest of Christian origin, maintained in the Labor Code. (Some stores open Sundays during holidays or in big tourist cities, but generally it is a quiet shopping day.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q175",
+    "prompt": "Is wearing a seat belt mandatory for car passengers in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Only in front"
+      },
+      {
+        "key": "b",
+        "text": "Yes, front and rear, for all occupants"
+      },
+      {
+        "key": "c",
+        "text": "No, it is up to each person"
+      },
+      {
+        "key": "d",
+        "text": "Mandatory only on motorways"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, seat belts are mandatory for all car occupants, front and back, since the 1990s. Not wearing a belt is fined (and the driver is responsible for minors not belted). This requirement has greatly reduced accident severity. Likewise, helmets are mandatory for riders and passengers of motorized two-wheelers.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q176",
+    "prompt": "May students in public schools wear conspicuous (visible) religious signs in class?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, all clothing is allowed to ensure fair secularism for all"
+      },
+      {
+        "key": "b",
+        "text": "No, the 2004 law bans signs or clothing that conspicuously show religious affiliation in public schools"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only on Fridays"
+      },
+      {
+        "key": "d",
+        "text": "It depends on the principal's permission"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Since the law of March 15, 2004, conspicuous religious signs (Islamic veil, kippah, large crucifix, Sikh turban, etc.) are banned in public primary, middle and high schools. Students must respect the religious neutrality of secular school. Discreet signs (small cross, Star of David) are tolerated, but any attire overtly signaling religious affiliation is prohibited during classes. (This law does not apply to universities or private schools, but is strict in public primary and secondary education.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q177",
+    "prompt": "Are all religious holidays (of any faith) public holidays in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, each religious holiday is a national holiday"
+      },
+      {
+        "key": "b",
+        "text": "No, only some mainly Christian holidays are days off (Christmas, All Saints', Easter Monday, etc.). Other religious holidays are not official days off"
+      },
+      {
+        "key": "c",
+        "text": "Only Muslim holidays are holidays"
+      },
+      {
+        "key": "d",
+        "text": "No religious holiday is a day off"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No. The French public holiday calendar stems mainly from Catholic tradition: Christmas (Dec 25), All Saints' Day (Nov 1), Easter Monday, Ascension, Assumption (Aug 15) are holidays, along with civil holidays (May 1, July 14, etc.). Holidays of other religions (Eid, Yom Kippur, Diwali, etc.) are not official days off\u2014those celebrating them must take leave or arrange with employer/school. (Alsace-Moselle has two additional holidays\u2014Good Friday and Dec 26\u2014for historic concordat reasons.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q178",
+    "prompt": "Is a civil marriage at the town hall required for a marriage to be legally recognized in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, a religious marriage is enough"
+      },
+      {
+        "key": "b",
+        "text": "No, two witnesses are enough to validate a marriage"
+      },
+      {
+        "key": "c",
+        "text": "Yes, only the civil republican marriage grants legal status to spouses"
+      },
+      {
+        "key": "d",
+        "text": "Yes, except if marrying abroad"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Yes, only the civil marriage at the town hall has legal force in France. Any religious ceremony must be preceded by a civil marriage (otherwise it has no legal existence). Religious authorities may marry only after seeing the civil marriage certificate. Thus any couple wishing legal recognition must go to the town hall before a civil registrar.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q179",
+    "prompt": "Is forced marriage (without the free consent of one spouse) allowed by French law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if validated by the family"
+      },
+      {
+        "key": "b",
+        "text": "No, but there is no legal recourse"
+      },
+      {
+        "key": "c",
+        "text": "No, it is illegal: a marriage without consent is void and constitutes an offense"
+      },
+      {
+        "key": "d",
+        "text": "Yes, in some cultures that overrides law"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "A marriage without the free consent of both spouses is legally void. In France, marriage requires the free, informed consent of each spouse before the civil registrar. Forcing someone to marry is illegal and is considered an offense (an act of violence or coercion) punishable by criminal law. Anyone forced into marriage may seek annulment in court and those exerting pressure may be prosecuted.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q180",
+    "prompt": "What is the minimum legal age to marry in France, for both men and women?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "16"
+      },
+      {
+        "key": "c",
+        "text": "18"
+      },
+      {
+        "key": "d",
+        "text": "21"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "18. Since 2006, the legal marriage age is 18 for both sexes (previously 15 for girls and 18 for boys\u2014no longer). Very rare exceptions may be granted by the public prosecutor for serious reasons with parental consent, but apart from such cases one cannot marry before 18 in France.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q181",
+    "prompt": "After how many years of residence in France may a foreigner generally apply for French nationality (by naturalization)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "2 years"
+      },
+      {
+        "key": "b",
+        "text": "5 years"
+      },
+      {
+        "key": "c",
+        "text": "10 years"
+      },
+      {
+        "key": "d",
+        "text": "20 years"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Five years of habitual residence in France is the normal wait to apply for naturalization. The person must also be in good standing and meet other criteria (integration, resources, clean record, etc.). This period can be reduced to 2 years in some cases (e.g., degree from a French institution, important services to France). Other routes exist (marriage to a French spouse after 4 years of life together, birth and residence in France, etc.), but for standard naturalization by decree it is generally after 5 years of legal stay.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q182",
+    "prompt": "May you keep your original nationality when becoming French (dual nationality)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, you must renounce your previous nationality and be only French"
+      },
+      {
+        "key": "b",
+        "text": "Yes, France allows dual nationality: you may be French and keep another nationality"
+      },
+      {
+        "key": "c",
+        "text": "Yes, except for EU countries"
+      },
+      {
+        "key": "d",
+        "text": "Only if noted in the decree"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, France permits dual nationality. When a foreigner acquires French nationality, they are not asked to renounce their original nationality (unless their country's law requires it, which is up to that country). Many French people are binational. Dual nationality has long been allowed in French law. (For example, a Moroccan naturalized French remains Moroccan under Moroccan law and becomes French, with rights and duties of both.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q183",
+    "prompt": "Is working \"off the books\" (undeclared, without a contract) allowed in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if the worker agrees"
+      },
+      {
+        "key": "b",
+        "text": "No, undeclared work is illegal and penalized for both employer and worker"
+      },
+      {
+        "key": "c",
+        "text": "Tolerated only in small jobs"
+      },
+      {
+        "key": "d",
+        "text": "Allowed for unskilled people"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No. Undeclared work is strictly forbidden. An employer hiring off the books faces heavy penalties (fines, social security back payments, prison for repeat offenders). The undeclared worker has no social protection in case of accident or unemployment and also risks penalties. All work must be declared to benefit from rights (health insurance, retirement contributions, etc.) and respect tax and labor law.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q184",
+    "prompt": "Does a child born in France to foreign parents automatically obtain French nationality at birth?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, right of soil applies immediately"
+      },
+      {
+        "key": "b",
+        "text": "No, not automatically at birth\u2014they may request it at age 18 if raised in France"
+      },
+      {
+        "key": "c",
+        "text": "Yes, if born in mainland France (not overseas)"
+      },
+      {
+        "key": "d",
+        "text": "No, they can never obtain it"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, a child born in France to foreign parents is not French at birth, except in special cases (unknown or stateless parents). However, under delayed jus soli, they may become French at 18 if they lived in France part of their childhood and adolescence (at least 5 years since age 11). They can even be declared French from 13 or 16 in advance under certain conditions. It is automatic at 18 if residency criteria are met; otherwise they may apply. (This is called double jus soli or acquisition by declaration.)",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q185",
+    "prompt": "What is the PACS (Civil Solidarity Pact) in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A religious ceremony"
+      },
+      {
+        "key": "b",
+        "text": "A civil union contract between two people to organize their life together, an alternative to marriage"
+      },
+      {
+        "key": "c",
+        "text": "A solidarity work contract"
+      },
+      {
+        "key": "d",
+        "text": "A citizenship exam"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The PACS is a civil union contract established in 1999. A Pacte Civil de Solidarite can be concluded by two adults, same-sex or different-sex, to organize their shared life (default property regime, duty of support, etc.) without marrying. The PACS is signed before a civil officer at the town hall or a notary. It grants some rights (joint taxation, social rights, etc.) but fewer than marriage (no survivor pension, no joint adoption directly, etc.). It is a more flexible alternative to marriage, and can be dissolved easily or later converted into marriage.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q186",
+    "prompt": "May citizens of the European Union living in France vote in elections in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, in all elections"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only in municipal and European elections"
+      },
+      {
+        "key": "c",
+        "text": "No, no foreigner may vote in France"
+      },
+      {
+        "key": "d",
+        "text": "Yes, only if they get a prefectural receipt"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, citizens of another EU country residing in France may vote in French municipal and European elections, and even run for office as municipal councillors or MEPs. However, they cannot vote in national elections (presidential, legislative, national referendums) or regional or departmental elections. This local voting right stems from EU treaties (citizenship of the Union). For example, a Belgian living in Lyon may vote in Lyon's municipal elections and elect French MEPs, but not vote for the French president.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q187",
+    "prompt": "May non-European foreigners vote in elections in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, in all elections"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only in local elections"
+      },
+      {
+        "key": "c",
+        "text": "No, non-EU foreigners have no voting rights in France"
+      },
+      {
+        "key": "d",
+        "text": "Yes, if they have lived more than 10 years"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "No, unlike EU citizens for municipal/European elections, non-EU foreigners have no voting rights in France. To vote in French elections, a foreigner must first obtain French nationality. (There are occasional debates about granting local voting rights to foreign residents, but it is not in force.) So an American or Moroccan living in France cannot vote in any French election unless they become French.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q188",
+    "prompt": "Does marriage to a French citizen automatically grant nationality to the foreign spouse?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, it is not automatic: the foreign spouse may request it after a period (generally 4 years of marriage and shared life)"
+      },
+      {
+        "key": "b",
+        "text": "Yes, from the wedding they become French"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only if they renounce their original nationality"
+      },
+      {
+        "key": "d",
+        "text": "No, they can never request it"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "No, marrying a French person does not instantly confer nationality. After 4 years of marriage and life together (5 years if the couple has not lived in France at least 3 years), the foreign spouse may apply for French nationality by declaration. They must prove stable married life and sufficient integration (language skills, adherence to values). If conditions are met (and absent government opposition), nationality is granted. Without this voluntary step, marriage alone does not give nationality\u2014a foreigner may remain foreign while married to a French citizen.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q189",
+    "prompt": "Is the right of asylum (welcoming on French soil foreigners persecuted in their country) recognized by the French Constitution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, France \"offers asylum\" to anyone persecuted for freedom, according to the 1946 Preamble"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only for Europeans"
+      },
+      {
+        "key": "c",
+        "text": "No, it is only a political choice case by case"
+      },
+      {
+        "key": "d",
+        "text": "No, the Constitution does not mention it"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes, the right of asylum has constitutional value in France. The 1946 Constitution Preamble, integrated into the 1958 Constitution, says \"any man persecuted because of his action in favor of liberty has the right of asylum on the territory of the Republic.\" Thus anyone threatened with persecution may seek asylum in France. If deemed legitimate (by OFPRA), they obtain refugee or subsidiary protection status and the right to remain in safety. This principle is a strong humanitarian commitment of the Republic.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q190",
+    "prompt": "What level of French is required in 2025 for a foreigner applying for French nationality by naturalization?",
+    "options": [
+      {
+        "key": "a",
+        "text": "None; language is not a criterion"
+      },
+      {
+        "key": "b",
+        "text": "Level A1 (beginner), basic courtesy phrases"
+      },
+      {
+        "key": "c",
+        "text": "Level B1 of the European Framework (intermediate, able to hold everyday conversations)"
+      },
+      {
+        "key": "d",
+        "text": "Perfect bilingualism required (level C2)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "A B1 oral and written level is required (since 2020) for naturalization by decree. This is an intermediate level: being able to understand and take part in everyday conversation, handle most situations, and write a simple text. The applicant must provide a diploma or test certificate proving this level (except some native Francophones). This criterion ensures new citizens can integrate and participate in the national community. B1 corresponds to the CEFR (European Framework).",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q191",
+    "prompt": "What is the emergency social number a homeless person can call to be directed to emergency shelter (Samu social)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "115"
+      },
+      {
+        "key": "b",
+        "text": "15"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "119"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "115. The 115 is the social emergency number available 24/7 for people without housing or in social distress.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q192",
+    "prompt": "What is the purpose of Social Security in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "To pay the State's debt"
+      },
+      {
+        "key": "b",
+        "text": "To provide social protection (health, retirement, family)"
+      },
+      {
+        "key": "c",
+        "text": "To organize elections"
+      },
+      {
+        "key": "d",
+        "text": "To handle only medical emergencies"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Social Security is the French social protection system. It covers health, maternity, disability, retirement and family risks. It is not a tax but a system of contributions and benefits. Correct answer: (b) because Social Security provides social protection.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q193",
+    "prompt": "What is the France Identite mobile app launched in 2024?",
+    "options": [
+      {
+        "key": "a",
+        "text": "An official app to digitize the national ID card and driving license on a smartphone"
+      },
+      {
+        "key": "b",
+        "text": "An online tax payment platform"
+      },
+      {
+        "key": "c",
+        "text": "A digital carte Vitale for health insurance"
+      },
+      {
+        "key": "d",
+        "text": "A train ticket booking app"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "France Identite is a free official government app. It lets citizens carry a secure digital version of their national ID card and driving license on their phone. For example, users can show this digital ID during a train ticket check via a QR code. In short, France Identite is used to prove identity online and in person via a smartphone.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q194",
+    "prompt": "Why must waste be sorted in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "To recycle materials and reduce the amount of waste to incinerate"
+      },
+      {
+        "key": "b",
+        "text": "To earn more money for the town hall"
+      },
+      {
+        "key": "c",
+        "text": "To increase local taxes"
+      },
+      {
+        "key": "d",
+        "text": "To feed wild animals"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Sorting waste separates recyclables (paper, plastic, glass, metal, etc.) from household trash. Thanks to sorting, some materials can be recycled or reused. This reduces the waste to landfill or incinerate and saves natural resources. For example, recycling plastic or paper makes new products using fewer raw materials. The correct answer is (a) because...",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q195",
+    "prompt": "What is the age of civil majority in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "20"
+      },
+      {
+        "key": "d",
+        "text": "21"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "In France, the legal age of civil majority is 18. Since 1974, people become adults at 18 (before, it was 21). At 18 one has full legal capacity: voting, signing contracts alone, being elected, etc. The correct answer is (b) 18.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q196",
+    "prompt": "What is the SNCF (Societe Nationale des Chemins de fer Francais)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The public company that runs most trains (rail transport) in France"
+      },
+      {
+        "key": "b",
+        "text": "A national association for cultural heritage protection"
+      },
+      {
+        "key": "c",
+        "text": "A public bank in charge of business loans"
+      },
+      {
+        "key": "d",
+        "text": "A French rail workers union"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The SNCF is the French public railway company that manages the rail network and train operations nationwide. It handles passenger transport (TGV, TER, Intercites) and freight by train across France. It is not a bank, cultural association or union. The correct answer is (a), as SNCF is the public train operator in France.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q197",
+    "prompt": "What does the Nutri-Score logo on food packaging represent?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A nutrition rating from A (green) to E (red) indicating the product's nutritional quality"
+      },
+      {
+        "key": "b",
+        "text": "The official French label for 100% organic products"
+      },
+      {
+        "key": "c",
+        "text": "The packaging recycling symbol"
+      },
+      {
+        "key": "d",
+        "text": "The mention \"gluten-free\" or \"lactose-free\""
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Nutri-Score is an optional logo on some foods. It shows a five-color scale (green to red) with letters A, B, C, D, E. A green A indicates the best nutritional quality and a red E the poorest. Launched in 2017, it helps quickly compare nutritional value. Thus the correct answer is (a): Nutri-Score signals nutritional quality.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q198",
+    "prompt": "Which international climate agreement was signed by France in 2015 (COP21)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Paris Agreement on climate"
+      },
+      {
+        "key": "b",
+        "text": "The Kyoto Protocol"
+      },
+      {
+        "key": "c",
+        "text": "The Maastricht Treaty"
+      },
+      {
+        "key": "d",
+        "text": "The Marrakech Agreement"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "In December 2015 in Paris (COP21), 196 countries adopted the Paris Agreement on climate. It aims to limit global warming well below 2\u00b0C above preindustrial levels. It succeeds the 1997 Kyoto Protocol and is the latest major global climate accord. The correct answer is (a) Paris Agreement.",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q199",
+    "prompt": "VAT (value added tax) in France is:",
+    "options": [
+      {
+        "key": "a",
+        "text": "An indirect tax on consumption calculated on the pre-tax price of goods and services"
+      },
+      {
+        "key": "b",
+        "text": "A personal income tax"
+      },
+      {
+        "key": "c",
+        "text": "A tax on real estate wealth"
+      },
+      {
+        "key": "d",
+        "text": "A social security contribution"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "VAT is an indirect tax paid by consumers. It applies to almost all goods and services: its amount is calculated on the sale price before tax and added to the final price. In France, the standard VAT rate is 20%. In other words, VAT is a tax on consumption, not on income or wealth. Correct answer: (a).",
+    "category": "Daily Life and Integration in France"
+  },
+  {
+    "id": "q200",
+    "prompt": "What is the OFII (French Office for Immigration and Integration)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A public body in charge of welcoming, civic training and integrating foreigners in France"
+      },
+      {
+        "key": "b",
+        "text": "A court specializing in naturalizations"
+      },
+      {
+        "key": "c",
+        "text": "An association defending French expatriates"
+      },
+      {
+        "key": "d",
+        "text": "A government program to support foreign students"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The OFII is a public institution that manages the reception and integration of foreigners in France. It handles arrival (visa, reception), the Republican Integration Contract (language and civics training), social support for immigrants, and even voluntary return. It is not a court or association. The correct answer is (a), as OFII is the main operator of immigration and integration policies in France.",
+    "category": "Daily Life and Integration in France"
+  }
+]

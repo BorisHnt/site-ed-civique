@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q121",
+    "prompt": "Is it mandatory to pay taxes in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes. Every resident has the legal duty to contribute to public expenses by paying taxes according to income"
+      },
+      {
+        "key": "b",
+        "text": "Only civil servants must do so"
+      },
+      {
+        "key": "c",
+        "text": "No, each person pays if they wish"
+      },
+      {
+        "key": "d",
+        "text": "No, only businesses and foreigners pay taxes"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes, paying taxes is a legal obligation for all (individuals and companies) with taxable income in France. It is a civic duty: these financial contributions fund public services (schools, hospitals, infrastructure, etc.) and the State. Refusing to pay taxes can lead to penalties and prosecution.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q122",
+    "prompt": "What is Defense and Citizenship Day (JDC) for young French people?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A mandatory voting day at 18"
+      },
+      {
+        "key": "b",
+        "text": "An information session on civics and the military that all French citizens must complete around age 16-18, replacing military service"
+      },
+      {
+        "key": "c",
+        "text": "A day defending human rights"
+      },
+      {
+        "key": "d",
+        "text": "A national demonstration in support of the army"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The JDC is a Defense and Citizenship Day that all young French people (boys and girls) must attend, usually at age 17. Set up after conscription was suspended, this day\u2014run by the Ministry of the Armed Forces\u2014explains national defense and reminds participants of citizens' rights and duties. A JDC certificate is issued and required for certain exams or competitions. (It replaced the JAPD in 2011.)",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q123",
+    "prompt": "Is refusing to hire someone because of their religion, sex or origin allowed by law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, an employer is free to choose"
+      },
+      {
+        "key": "b",
+        "text": "No, it is illegal discrimination punishable by law"
+      },
+      {
+        "key": "c",
+        "text": "Yes, only in small businesses"
+      },
+      {
+        "key": "d",
+        "text": "It depends on the religious reason"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No. Refusing to hire someone for reasons such as religion, sex, ethnic origin, sexual orientation, health status, etc., is unlawful discrimination. The Labor Code strictly prohibits discrimination in hiring. Only skills and professional experience should guide recruitment. Proven discrimination exposes the employer to civil and criminal penalties (up to 3 years in prison and a 45,000 euro fine).",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q124",
+    "prompt": "Do women have the right to vote and be elected in France on the same basis as men?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, since 1944 women have the same political rights as men (vote and eligibility)"
+      },
+      {
+        "key": "b",
+        "text": "No, they can only vote but not be elected"
+      },
+      {
+        "key": "c",
+        "text": "No, they obtained the vote but not before 1993"
+      },
+      {
+        "key": "d",
+        "text": "Yes, except for the office of President"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. Since the ordinance of April 21, 1944, French women are voters and eligible on the same terms as men. French women first voted in 1945. Today the Constitution affirms equality of political rights; laws even encourage gender parity in candidate lists. (The first women deputies were elected in 1945. A woman may of course be President if elected.)",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q125",
+    "prompt": "Is marriage between people of the same sex allowed by law in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, since the 2013 \"Marriage for All\" law, two people of the same sex may marry"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only as a civil union (PACS)"
+      },
+      {
+        "key": "c",
+        "text": "No, it is prohibited"
+      },
+      {
+        "key": "d",
+        "text": "No, unless they raise children together"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. Since the law of May 17, 2013 (Marriage for All), civil marriage is open to same-sex couples in France. Same-sex spouses have the same rights and duties as any married couple (including adoption). Previously, same-sex couples could only enter a PACS; now they may choose to be pacsed or married.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q126",
+    "prompt": "Is polygamy (having several spouses at the same time) allowed in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if religion permits"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only for men"
+      },
+      {
+        "key": "c",
+        "text": "No, it is forbidden by the Civil Code"
+      },
+      {
+        "key": "d",
+        "text": "It depends on the country of origin"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "No, polygamy is illegal in France. The Civil Code allows only one simultaneous union: one cannot be married to more than one person. Bigamy/polygamy is a criminal offense. Also, if a polygamous foreigner acquires French nationality, they must renounce polygamy (only one spouse may come through family reunification). Equality between spouses and monogamy are firmly established.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q127",
+    "prompt": "Are female genital mutilations (excision) allowed in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if it is a cultural tradition"
+      },
+      {
+        "key": "b",
+        "text": "No, they are criminally punished acts of violence"
+      },
+      {
+        "key": "c",
+        "text": "Only with the consent of an adult"
+      },
+      {
+        "key": "d",
+        "text": "Allowed on medical authorization"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, excision and any sexual mutilation are absolutely forbidden and treated as very serious violence. Practicing or allowing excision on a minor is a crime punishable by heavy sentences (up to 20 years in prison). Even if customary in some countries, French law protects girls' bodily integrity and severely punishes these acts, seen as human rights violations.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q128",
+    "prompt": "From what age may a young person work full time in France (outside supervised apprenticeships)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "14"
+      },
+      {
+        "key": "b",
+        "text": "16"
+      },
+      {
+        "key": "c",
+        "text": "18"
+      },
+      {
+        "key": "d",
+        "text": "21"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "16 is the minimum legal age to work full time in France. Schooling is compulsory until 16, and before that age employing a child is forbidden (except tightly controlled exceptions like artistic work or apprenticeship from 15 under school status). From 16, a young person may sign a work contract, but until 18 some dangerous activities remain banned and occupational health monitors fitness.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q129",
+    "prompt": "What does the acronym SMIC mean in the French labor context?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A graduation diploma"
+      },
+      {
+        "key": "b",
+        "text": "The Minimum Interprofessional Growth Wage, i.e., the legal minimum wage in France"
+      },
+      {
+        "key": "c",
+        "text": "A retail trade union"
+      },
+      {
+        "key": "d",
+        "text": "A personal income tax"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "SMIC stands for Salaire Minimum Interprofessionnel de Croissance. It is the legal minimum hourly wage in France; no employee may be paid less (for full time it is roughly 1,747 euros gross in 2025). The SMIC is adjusted regularly based on inflation and growth.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q130",
+    "prompt": "What is the legal weekly working time in France (for full-time work)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "39 hours"
+      },
+      {
+        "key": "b",
+        "text": "40 hours"
+      },
+      {
+        "key": "c",
+        "text": "35 hours"
+      },
+      {
+        "key": "d",
+        "text": "30 hours"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "35 hours per week is the legal working time for full-time employment in France. Beyond that, hours are counted as overtime. This 35-hour limit was introduced by the Aubry laws (1998-2002) to promote jobs. Many employees work more via overtime, but 35 hours remains the legal reference (averaged weekly or yearly by agreement).",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q131",
+    "prompt": "Does an employee have the right to join a union of their choice to defend their interests?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, employers choose unions"
+      },
+      {
+        "key": "b",
+        "text": "Yes, freedom of association is guaranteed: anyone may join or create a union freely"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only in large companies"
+      },
+      {
+        "key": "d",
+        "text": "No, unions are banned in the public sector"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, union freedom is a fundamental right (in the 1946 preamble and the Labor Code). Any employee (public or private) may freely join the union of their choice, or create one, without employer interference. Union discrimination (punishing or refusing to hire because of union activity) is illegal. Unions play a key role representing employees.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q132",
+    "prompt": "Do French employees have the right to strike (stop work to press demands)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, the right to strike has been recognized by the Constitution since 1946"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only with employer authorization"
+      },
+      {
+        "key": "c",
+        "text": "No, strikes are illegal"
+      },
+      {
+        "key": "d",
+        "text": "No, except in public service"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes, the right to strike is a constitutional right in France. Any employee may strike to support professional demands, respecting certain rules (notice in public services, collective not personal action, etc.). This right, in the 1946 Preamble, is a major social gain. There are limits for some professions (police cannot strike) or to ensure minimum service (transport, hospitals), but generally it is a fundamental liberty.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q133",
+    "prompt": "What is the \u201cpresumption of innocence\u201d in French law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The idea that an accused is probably guilty"
+      },
+      {
+        "key": "b",
+        "text": "The principle that anyone accused is considered innocent until legal proof of guilt"
+      },
+      {
+        "key": "c",
+        "text": "A mere phrase with no legal effect"
+      },
+      {
+        "key": "d",
+        "text": "A privilege reserved for public figures"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The presumption of innocence means anyone prosecuted is considered innocent until a final judgment establishes guilt. Enshrined in the 1789 Declaration and the Code of Criminal Procedure, it is essential: the burden of proof is on the prosecution, and doubt must benefit the accused. In practice it entails the right to a fair trial, and not being publicly presented as guilty before judgment, etc.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q134",
+    "prompt": "At what age does one reach legal adulthood in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "21"
+      },
+      {
+        "key": "d",
+        "text": "20"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18. Since 1974, civil majority is 18. At that age one is legally an adult: full civil capacity (sign contracts, marry without parental consent, etc.) and political capacity (vote). Before 1974, majority was 21. At 18 other rights/responsibilities also apply (e.g., census, JDC, etc.).",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q135",
+    "prompt": "Does the death penalty still exist in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, for terrorism only"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but it is no longer applied"
+      },
+      {
+        "key": "c",
+        "text": "No, it was abolished in 1981"
+      },
+      {
+        "key": "d",
+        "text": "It depends on overseas regions"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "No, the death penalty has been abolished since the law of October 9, 1981 (presented by Robert Badinter). France thus joined abolitionist nations. Since then no death sentence can be passed or carried out. This abolition is now in the Constitution (1946 Preamble) and France advocates globally for universal abolition.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q136",
+    "prompt": "Under what conditions may the State expropriate an owner of property (take it against their will)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "If they have legal troubles"
+      },
+      {
+        "key": "b",
+        "text": "Only if public use justifies it and with fair prior compensation paid to the owner"
+      },
+      {
+        "key": "c",
+        "text": "At the request of a majority of neighbors"
+      },
+      {
+        "key": "d",
+        "text": "By simple decision of the mayor, without cause"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Property is guaranteed, but Article 17 of the 1789 Declaration provides expropriation only for public necessity and with just and prior compensation. The State or local authorities can, for example, expropriate land to build a road or hospital deemed of public interest, but it must be declared of public utility and the owner must be compensated at value. Any abusive expropriation without compensation would be unconstitutional.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q137",
+    "prompt": "May a pregnant woman be fired by her employer because of her pregnancy?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if her condition disrupts the company"
+      },
+      {
+        "key": "b",
+        "text": "No, dismissing a woman because she is pregnant is illegal"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only during maternity leave"
+      },
+      {
+        "key": "d",
+        "text": "No, except in the first three months of pregnancy"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, it is strictly forbidden to dismiss a woman because she is pregnant. The law protects pregnant women: from the start of pregnancy and during maternity leave (and even 10 weeks after), an employer may dismiss them only for gross misconduct unrelated to pregnancy or serious economic reasons. Pregnancy must not lead to sanction or discrimination. Any dismissal due to pregnancy is void and exposes the employer to penalties.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q138",
+    "prompt": "Is moral or sexual harassment at work punished by French law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, these are offenses under the Labor Code and Penal Code"
+      },
+      {
+        "key": "b",
+        "text": "Moral harassment is not legally defined"
+      },
+      {
+        "key": "c",
+        "text": "It is not serious; it is tolerated in the private sector"
+      },
+      {
+        "key": "d",
+        "text": "It is only an internal company matter, not for courts"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes, moral and sexual harassment are strictly forbidden and punished by law. The Labor Code and Penal Code define them precisely. Moral harassment (repeated acts degrading working conditions) and sexual harassment (repeated sexual remarks or conduct violating dignity or creating a hostile environment) are offenses. The perpetrator risks up to 2 years in prison (3 with aggravating factors) and fines. Companies must prevent and sanction such acts, and victims may press charges.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q139",
+    "prompt": "Do all French citizens have the right to the same pay for equal work, whether male or female?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, but it is not written in law"
+      },
+      {
+        "key": "b",
+        "text": "Yes, the \"equal pay for equal work\" principle is in law: a woman must be paid like a man for the same job"
+      },
+      {
+        "key": "c",
+        "text": "No, it depends on individual negotiations"
+      },
+      {
+        "key": "d",
+        "text": "No, women's pay may be lower depending on agreements"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, pay equality between women and men has been a legal obligation since 1972. The Labor Code imposes \"equal pay for equal work\": no pay difference may be based on sex. Despite persistent gaps in practice (part-time, job types, etc.), legally a woman in the same job with the same experience and qualification must receive the same pay as a man. Employers can be sanctioned for unjustified pay gaps.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q140",
+    "prompt": "Do foreign asylum beneficiaries (refugees) in France have the same fundamental rights as French citizens?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes. A recognized refugee has protection and the same fundamental rights (housing, work, health, etc.) as any legal resident"
+      },
+      {
+        "key": "b",
+        "text": "No, they live in camps without rights"
+      },
+      {
+        "key": "c",
+        "text": "They have protection but cannot work or get health care"
+      },
+      {
+        "key": "d",
+        "text": "They must renounce their religion"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. The right of asylum is a constitutional principle in France: anyone persecuted may be protected and, once recognized as a refugee by OFPRA, gets a residence permit and the same social rights as any resident (work, education, social aid, health, etc.). Refugees must obey French laws like everyone else, but are protected from return to their country of origin and enjoy full legal integration.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q141",
+    "prompt": "What is the legal voting age in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "20"
+      },
+      {
+        "key": "d",
+        "text": "21"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18 years old. In France, voting rights are acquired at the age of majority, set at 18.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q142",
+    "prompt": "Which document allows a French citizen to prove identity abroad?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Driver's license"
+      },
+      {
+        "key": "b",
+        "text": "Voter card"
+      },
+      {
+        "key": "c",
+        "text": "Passport"
+      },
+      {
+        "key": "d",
+        "text": "Carte Vitale (health card)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The passport. The passport is the official document for traveling and proving identity abroad.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q143",
+    "prompt": "What is a \"jury populaire\" in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Citizens elected by the mayor"
+      },
+      {
+        "key": "b",
+        "text": "A group of police officers"
+      },
+      {
+        "key": "c",
+        "text": "Citizens drawn by lot for a trial in a cour d'assises"
+      },
+      {
+        "key": "d",
+        "text": "A local political committee"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Citizens drawn by lot for a trial in a cour d'assises. They participate in court decisions for the most serious criminal cases.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q144",
+    "prompt": "What is the main role of the Defender of Rights?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Organize elections"
+      },
+      {
+        "key": "b",
+        "text": "Defend lawyers"
+      },
+      {
+        "key": "c",
+        "text": "Fight discrimination and defend citizens' rights"
+      },
+      {
+        "key": "d",
+        "text": "Control town halls"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Fight discrimination and defend citizens' rights. It is an independent authority created in 2011.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q145",
+    "prompt": "In France, what happens if you do not pay your taxes?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Just a reminder letter"
+      },
+      {
+        "key": "b",
+        "text": "A civic medal"
+      },
+      {
+        "key": "c",
+        "text": "Financial penalties and prosecution"
+      },
+      {
+        "key": "d",
+        "text": "Nothing at all"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Financial penalties and prosecution. Paying taxes is a constitutional duty.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q146",
+    "prompt": "Is child labor allowed in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes from age 10"
+      },
+      {
+        "key": "b",
+        "text": "Yes from age 14 with an exemption"
+      },
+      {
+        "key": "c",
+        "text": "No, banned in all cases"
+      },
+      {
+        "key": "d",
+        "text": "Yes but only in agriculture"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes from age 14 with an exemption. It is strictly regulated and requires parental and administrative authorization.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q147",
+    "prompt": "Which foundational text guarantees fundamental freedoms in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Civil Code"
+      },
+      {
+        "key": "b",
+        "text": "The Labor Code"
+      },
+      {
+        "key": "c",
+        "text": "The Declaration of the Rights of Man and of the Citizen"
+      },
+      {
+        "key": "d",
+        "text": "The Penal Code"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Declaration of the Rights of Man and of the Citizen. It dates from 1789 and is still cited in the Constitution.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q148",
+    "prompt": "What is the legal weekly working time in France (Dec. 2025)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "35 hours"
+      },
+      {
+        "key": "b",
+        "text": "37 hours"
+      },
+      {
+        "key": "c",
+        "text": "40 hours"
+      },
+      {
+        "key": "d",
+        "text": "45 hours"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "35 hours. This is the legal weekly duration for a full-time job.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q149",
+    "prompt": "What is the carte Vitale for?",
+    "options": [
+      {
+        "key": "a",
+        "text": "To vote"
+      },
+      {
+        "key": "b",
+        "text": "To travel by train"
+      },
+      {
+        "key": "c",
+        "text": "To prove identity"
+      },
+      {
+        "key": "d",
+        "text": "To receive reimbursement of health care costs"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "To receive reimbursement of health care costs. It is tied to national health insurance.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q150",
+    "prompt": "May a French citizen freely criticize the government?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, it is forbidden"
+      },
+      {
+        "key": "b",
+        "text": "Yes, within the limits of the law"
+      },
+      {
+        "key": "c",
+        "text": "Yes, only during elections"
+      },
+      {
+        "key": "d",
+        "text": "No, unless a judge authorizes it"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, within the limits of the law. Freedom of expression is a right, but must respect laws (defamation, hate speech, etc.).",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q151",
+    "prompt": "Is the tax return mandatory in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, only for the rich"
+      },
+      {
+        "key": "b",
+        "text": "Yes, for every adult taxpayer"
+      },
+      {
+        "key": "c",
+        "text": "No, only if employed"
+      },
+      {
+        "key": "d",
+        "text": "Yes, but only every 5 years"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Yes, for every adult taxpayer. Even if no tax is due, the annual return remains compulsory.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q152",
+    "prompt": "Is the French judiciary independent of political power?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, it is directed by the president"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but under Senate oversight"
+      },
+      {
+        "key": "c",
+        "text": "Yes, it is a fundamental principle of the Republic"
+      },
+      {
+        "key": "d",
+        "text": "No, it depends on the government"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Yes, it is a fundamental republican principle. The judiciary is separate from the executive and legislative branches.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q153",
+    "prompt": "What is the mission of public school in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Transmit only French culture"
+      },
+      {
+        "key": "b",
+        "text": "Train soldiers"
+      },
+      {
+        "key": "c",
+        "text": "Educate, teach and ensure equality of opportunity"
+      },
+      {
+        "key": "d",
+        "text": "Teach only mathematics"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Educate, teach and ensure equality of opportunity. Public school has a republican mission of training and empowerment.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q154",
+    "prompt": "Is military service mandatory in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, from age 16"
+      },
+      {
+        "key": "b",
+        "text": "No, but a Defense and Citizenship Day is mandatory"
+      },
+      {
+        "key": "c",
+        "text": "Yes for men only"
+      },
+      {
+        "key": "d",
+        "text": "Yes but only in wartime"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, but a Defense and Citizenship Day is mandatory. It informs about rights and duties related to defense.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q155",
+    "prompt": "Who may run as a candidate in a municipal election?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Only civil servants"
+      },
+      {
+        "key": "b",
+        "text": "Any adult French citizen registered to vote"
+      },
+      {
+        "key": "c",
+        "text": "Only retirees"
+      },
+      {
+        "key": "d",
+        "text": "Police officers"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Any adult French citizen registered to vote.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q156",
+    "prompt": "Which authority can sanction a citizen who commits a criminal offense?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The mayor"
+      },
+      {
+        "key": "b",
+        "text": "The president"
+      },
+      {
+        "key": "c",
+        "text": "A judge"
+      },
+      {
+        "key": "d",
+        "text": "The prefect"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "A judge. Only the judiciary can judge and sanction an offense.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q157",
+    "prompt": "Are blank votes counted in official results?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, as a \"against\" vote"
+      },
+      {
+        "key": "b",
+        "text": "No, they are not counted among valid votes"
+      },
+      {
+        "key": "c",
+        "text": "Yes, they cancel other votes"
+      },
+      {
+        "key": "d",
+        "text": "Yes, they automatically elect the second candidate"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, they are not counted among valid votes. They are distinguished from null votes but do not affect the final result.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q158",
+    "prompt": "Can you refuse an identity check requested by the police?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, always"
+      },
+      {
+        "key": "b",
+        "text": "No, except if you are a minor"
+      },
+      {
+        "key": "c",
+        "text": "No, it is an offense"
+      },
+      {
+        "key": "d",
+        "text": "Yes, if you are late"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "No, it is an offense. Refusal can be penalized if the check is justified.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q159",
+    "prompt": "Which freedom allows citizens to demonstrate in the streets?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Freedom of association"
+      },
+      {
+        "key": "b",
+        "text": "Freedom of movement"
+      },
+      {
+        "key": "c",
+        "text": "Freedom of assembly"
+      },
+      {
+        "key": "d",
+        "text": "Freedom of expression"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Freedom of expression. The right to demonstrate is a form of expression protected by law, subject to notification.",
+    "category": "Rights and Duties of the Citizen"
+  },
+  {
+    "id": "q160",
+    "prompt": "May you publish anything on the internet?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, it is a free space"
+      },
+      {
+        "key": "b",
+        "text": "No, the law applies online too"
+      },
+      {
+        "key": "c",
+        "text": "Yes, except for journalists"
+      },
+      {
+        "key": "d",
+        "text": "Yes, if it is on a private network"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No, the law also applies online. The internet does not exempt anyone from rules (defamation, hate speech, fake news, etc.).",
+    "category": "Rights and Duties of the Citizen"
+  }
+]

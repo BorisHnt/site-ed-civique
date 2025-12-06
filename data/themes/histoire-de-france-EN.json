@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q81",
+    "prompt": "What happened on July 14, 1789 in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Abolition of the monarchy by Napoleon Bonaparte"
+      },
+      {
+        "key": "b",
+        "text": "The Storming of the Bastille, marking the start of the French Revolution"
+      },
+      {
+        "key": "c",
+        "text": "The coronation of Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "The declaration of World War I"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "On July 14, 1789, Parisians stormed the Bastille fortress, a royal prison symbolizing arbitrary power. This trigger of the French Revolution is commemorated as the national holiday because it symbolizes the end of the absolute Ancien Regime.",
+    "category": "History of France"
+  },
+  {
+    "id": "q82",
+    "prompt": "In what year did the French Revolution begin?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1776"
+      },
+      {
+        "key": "b",
+        "text": "1815"
+      },
+      {
+        "key": "c",
+        "text": "1789"
+      },
+      {
+        "key": "d",
+        "text": "1792"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "1789 is the year the French Revolution began. Major events include: the Estates General and Tennis Court Oath (June 1789), the Storming of the Bastille (July 14, 1789) and the Declaration of the Rights of Man and of the Citizen (August 26, 1789). (Note: 1776 is the U.S. Declaration of Independence; 1792 is Year I of the Republic after the monarchy fell.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q83",
+    "prompt": "Which king was on the throne during the 1789 Revolution and was overthrown by it?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Louis XIV"
+      },
+      {
+        "key": "b",
+        "text": "Louis XV"
+      },
+      {
+        "key": "c",
+        "text": "Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "Charles X"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Louis XVI reigned in 1789 at the Revolution's outbreak. He was the last king of the Ancien Regime: the absolute monarchy collapsed in 1789 and Louis XVI was eventually deposed, tried and guillotined in 1793 during the Terror.",
+    "category": "History of France"
+  },
+  {
+    "id": "q84",
+    "prompt": "Who was Louis XIV, the \"Sun King\"?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A 17th-century French king, symbol of absolute monarchy"
+      },
+      {
+        "key": "b",
+        "text": "A Roman emperor who ruled all Gaul"
+      },
+      {
+        "key": "c",
+        "text": "A hero of the 1789 Revolution"
+      },
+      {
+        "key": "d",
+        "text": "A president of the Third Republic"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Louis XIV (1638-1715) was king of France for 72 years (1643-1715), embodying absolute monarchy by divine right. Nicknamed the \"Sun King,\" he built Versailles and centralized power around himself. His reign, the longest in French history, strongly marked the country through cultural influence and wars. (Options b, c, d are wrong\u2014Louis XIV was not a revolutionary nor a president.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q85",
+    "prompt": "Under which king was the Chateau de Versailles built and embellished to become the main court residence?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Under Louis XIV"
+      },
+      {
+        "key": "b",
+        "text": "Under Napoleon I"
+      },
+      {
+        "key": "c",
+        "text": "Under Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "Under Francis I"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Louis XIV expanded and embellished Versailles in the 1660s-1680s. He made it the seat of his court from 1682. Versailles became the symbol of absolute monarchy's splendor. (Louis XVI still lived there in 1789, but Louis XIV made Versailles the grand palace.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q86",
+    "prompt": "Which foundational 1789 text proclaims that \"men are born and remain free and equal in rights\"?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Declaration of the Rights of Man and of the Citizen (1789)"
+      },
+      {
+        "key": "b",
+        "text": "The Civil Constitution of the Clergy"
+      },
+      {
+        "key": "c",
+        "text": "The Edict of Nantes issued by King Henry IV"
+      },
+      {
+        "key": "d",
+        "text": "The Napoleonic Code, compiling French civil law"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "This sentence is in Article 1 of the Declaration of the Rights of Man and of the Citizen of August 26, 1789. Adopted during the Revolution, it sets universal natural rights (liberty, equality, security, etc.) and underpins French law. The DDHC is part of France's constitutional heritage.",
+    "category": "History of France"
+  },
+  {
+    "id": "q87",
+    "prompt": "In what year was universal (male) suffrage established for the first time in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1789"
+      },
+      {
+        "key": "b",
+        "text": "1848"
+      },
+      {
+        "key": "c",
+        "text": "1944"
+      },
+      {
+        "key": "d",
+        "text": "1962"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "1848. Under the newborn Second Republic, a March 1848 decree established universal male suffrage (all male citizens over 21 could vote, without property requirements). This was a huge step beyond property-based suffrage. (Suffrage became truly universal for men and women in 1944\u2014option c\u2014when women finally gained the vote.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q88",
+    "prompt": "In what year was slavery definitively abolished in France (in the French colonies)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1789"
+      },
+      {
+        "key": "b",
+        "text": "1848"
+      },
+      {
+        "key": "c",
+        "text": "1948"
+      },
+      {
+        "key": "d",
+        "text": "1794"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "1848. Although the Convention abolished slavery in 1794, Napoleon reinstated it in 1802. The definitive abolition in French colonies was enacted by the Second Republic: the decree of April 27, 1848, prepared by Victor Schoelcher, ended slavery. Over 250,000 enslaved people were freed in 1848 in the colonies (Martinique, Guadeloupe, Guyane, Reunion, etc.).",
+    "category": "History of France"
+  },
+  {
+    "id": "q89",
+    "prompt": "Who was Jules Ferry (1832-1893) and what major reform did he enact?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A general of Napoleon"
+      },
+      {
+        "key": "b",
+        "text": "A statesman of the Third Republic known for making primary school free, secular and compulsory in 1881-1882"
+      },
+      {
+        "key": "c",
+        "text": "A scientist who discovered the rabies vaccine"
+      },
+      {
+        "key": "d",
+        "text": "A revolutionary of 1848 who abolished slavery"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Jules Ferry was Minister of Public Instruction under the Third Republic. He pushed the 1881-1882 laws that made primary education free, secular and compulsory in France. These \"Ferry laws\" allowed all children (boys and girls) aged 6 to 13 to access a common, free, religiously neutral education\u2014a pillar of the Republic. (Option d: the 1848 abolition of slavery was by Schoelcher.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q90",
+    "prompt": "What does the Storming of the Bastille on July 14, 1789 symbolize?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The end of World War I"
+      },
+      {
+        "key": "b",
+        "text": "The end of royal arbitrariness and the start of freedom won by the people"
+      },
+      {
+        "key": "c",
+        "text": "Napoleon's victory at Austerlitz"
+      },
+      {
+        "key": "d",
+        "text": "The king's departure into exile"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Bastille was a royal prison used to imprison opponents arbitrarily by lettre de cachet. Its storming on July 14, 1789 symbolizes the fall of despotism and the people's liberation from royal arbitrariness. It was the first major popular act of the Revolution, marking the end of fear of absolute power and the move toward a society of free citizens.",
+    "category": "History of France"
+  },
+  {
+    "id": "q91",
+    "prompt": "Who was the first President of the Fifth Republic, taking office in 1959?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Valery Giscard d'Estaing"
+      },
+      {
+        "key": "b",
+        "text": "Charles de Gaulle"
+      },
+      {
+        "key": "c",
+        "text": "Rene Coty"
+      },
+      {
+        "key": "d",
+        "text": "Philippe Petain"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "General Charles de Gaulle was the first President of the Fifth Republic, elected in December 1958 (taking office January 1959). Architect of the 1958 Constitution, he founded the Fifth Republic after the May 1958 crisis. Rene Coty (option c) was the last president of the Fourth Republic and called De Gaulle in 1958. De Gaulle served until 1969.",
+    "category": "History of France"
+  },
+  {
+    "id": "q92",
+    "prompt": "When did World War I take place?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1914 to 1918"
+      },
+      {
+        "key": "b",
+        "text": "1939 to 1945"
+      },
+      {
+        "key": "c",
+        "text": "1870-1871"
+      },
+      {
+        "key": "d",
+        "text": "1792 to 1799"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "World War I ran from 1914 to 1918. It began in August 1914 and ended with the Armistice of November 11, 1918. This global conflict pitted France and its allies (Triple Entente) against Germany and its allies (Triple Alliance). (Option b is WWII; 1870-1871 is the Franco-Prussian War.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q93",
+    "prompt": "What does November 11 commemorate in France, which is a public holiday each year?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Storming of the Bastille (1789)"
+      },
+      {
+        "key": "b",
+        "text": "The end of World War II (1945)"
+      },
+      {
+        "key": "c",
+        "text": "The Armistice of November 11, 1918, ending WWI and honoring all those who died for France"
+      },
+      {
+        "key": "d",
+        "text": "All Saints' Day"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "November 11 marks the armistice signed November 11, 1918 between France (and the Allies) and Germany, ending combat on the Western Front in WWI. It is \"Remembrance Day\": honoring all soldiers who died for France, especially in the Great War. Ceremonies take place in every commune at war memorials.",
+    "category": "History of France"
+  },
+  {
+    "id": "q94",
+    "prompt": "What does May 8 commemorate in France (also a public holiday)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The 1789 Revolution (and Storming of the Bastille)"
+      },
+      {
+        "key": "b",
+        "text": "The Allies' victory over Nazi Germany in 1945 (end of WWII in Europe)"
+      },
+      {
+        "key": "c",
+        "text": "The Battle of Verdun"
+      },
+      {
+        "key": "d",
+        "text": "The start of decolonization"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "May 8, 1945 marks the unconditional surrender of Nazi Germany and the end of WWII in Europe. It is the \"Victory of 1945.\" Each May 8, France commemorates the Allied victory and honors WWII fighters who freed the country from Nazi rule.",
+    "category": "History of France"
+  },
+  {
+    "id": "q95",
+    "prompt": "What was the political regime established in France during German occupation from 1940 to 1944 under Marshal Petain?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Third Republic"
+      },
+      {
+        "key": "b",
+        "text": "The Paris Commune"
+      },
+      {
+        "key": "c",
+        "text": "The Vichy regime, also called the \"French State\""
+      },
+      {
+        "key": "d",
+        "text": "The Fifth Republic"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "From 1940 to 1944, after defeat by Germany, the Third Republic ended and Marshal Petain set up the \"French State,\" commonly called the Vichy regime (after its capital). This authoritarian, collaborationist regime suspended democracy and worked with the Nazi occupier (anti-Semitic, it issued the Jewish Statute). Vichy ended with Liberation in 1944.",
+    "category": "History of France"
+  },
+  {
+    "id": "q96",
+    "prompt": "Who delivered the Appeal of June 18, 1940 urging the French to continue resistance against the Nazi occupier?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Philippe Petain"
+      },
+      {
+        "key": "b",
+        "text": "Winston Churchill"
+      },
+      {
+        "key": "c",
+        "text": "General Charles de Gaulle"
+      },
+      {
+        "key": "d",
+        "text": "Jean Moulin"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Charles de Gaulle, on June 18, 1940 from London on the BBC, called on the French to refuse defeat and continue fighting alongside the Allies. Little heard at the time, it became the founding text of the French Resistance. De Gaulle then led Free France during the war.",
+    "category": "History of France"
+  },
+  {
+    "id": "q97",
+    "prompt": "Who was Jean Moulin (1899-1943) in French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A WWI hero"
+      },
+      {
+        "key": "b",
+        "text": "Unifier of the French internal Resistance during WWII"
+      },
+      {
+        "key": "c",
+        "text": "A military leader in the 1870 war"
+      },
+      {
+        "key": "d",
+        "text": "A politician of the Fourth Republic"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Jean Moulin was the senior official sent by De Gaulle in 1942 to unify the various internal Resistance movements under London's authority. President of the National Council of the Resistance (CNR) created in 1943, he played a major role coordinating clandestine struggle against the Nazi occupier. Arrested by the Gestapo in June 1943, he died under torture without speaking. He is honored as a great hero of the Resistance.",
+    "category": "History of France"
+  },
+  {
+    "id": "q98",
+    "prompt": "In what year was Paris liberated from German occupation during WWII?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1944"
+      },
+      {
+        "key": "b",
+        "text": "1940"
+      },
+      {
+        "key": "c",
+        "text": "1945"
+      },
+      {
+        "key": "d",
+        "text": "1964"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Paris was liberated in late August 1944. After the Normandy landings (June 6, 1944), the Paris uprising and the advance of General Leclerc's 2nd Armored Division led to the German troops' surrender in Paris on August 25, 1944. This was a key moment in France's Liberation. The whole territory was gradually freed by late 1944, and the war ended in Europe on May 8, 1945.",
+    "category": "History of France"
+  },
+  {
+    "id": "q99",
+    "prompt": "In what year was the Fifth Republic (our current political system) established in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1946"
+      },
+      {
+        "key": "b",
+        "text": "1958"
+      },
+      {
+        "key": "c",
+        "text": "1962"
+      },
+      {
+        "key": "d",
+        "text": "1789"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Fifth Republic was founded in 1958. The new Constitution was adopted October 4, 1958 following the political crisis linked to the Algerian War. General de Gaulle, back in power, designed this stable regime giving a strong role to the president. The Fourth Republic (1946-1958) gave way in 1958 to the Fifth Republic, still in force today.",
+    "category": "History of France"
+  },
+  {
+    "id": "q100",
+    "prompt": "How many Republics (i.e., different republican constitutions) has France had in its history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "3"
+      },
+      {
+        "key": "b",
+        "text": "5"
+      },
+      {
+        "key": "c",
+        "text": "6"
+      },
+      {
+        "key": "d",
+        "text": "2"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "France has had 5 successive Republics: the First (1792-1804), Second (1848-1852), Third (1870-1940), Fourth (1946-1958) and current Fifth (since 1958). Some talk about a possible Sixth Republic if a major new constitutional reform occurred, but in 2025 we are still under the Fifth Republic.",
+    "category": "History of France"
+  },
+  {
+    "id": "q101",
+    "prompt": "Who was Napoleon Bonaparte (1769-1821) in French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A revolutionary who refused any title"
+      },
+      {
+        "key": "b",
+        "text": "A general of the Revolution who became Emperor of the French, reorganizing the State (Civil Code, etc.)"
+      },
+      {
+        "key": "c",
+        "text": "A constitutional king under the Restoration"
+      },
+      {
+        "key": "d",
+        "text": "A president of the Second Republic"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Napoleon Bonaparte was first a brilliant general of the Revolution. He seized power by the 1799 coup, became First Consul then proclaimed himself Emperor of the French in 1804 as Napoleon I. His reign (First Empire, 1804-1815) featured major reforms: he enacted the Civil Code in 1804 (Napoleonic Code) unifying civil law, created lycees, the University, the Bank of France, the Legion of Honor, etc. He also conquered much of Europe before the Empire fell in 1815.",
+    "category": "History of France"
+  },
+  {
+    "id": "q102",
+    "prompt": "Which main reforms did Napoleon I leave France in 1804 and that still exist today?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Civil Code, foundation of French civil law"
+      },
+      {
+        "key": "b",
+        "text": "Creation of state lycees and a centralized secular education system"
+      },
+      {
+        "key": "c",
+        "text": "Dividing the territory into departments run by prefects (organization from the Revolution consolidated under the Empire)"
+      },
+      {
+        "key": "d",
+        "text": "Social Security"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Napoleon Bonaparte structurally shaped France by enacting the Civil Code (1804), which still governs daily life (marriage, inheritance, property, etc.).",
+    "category": "History of France"
+  },
+  {
+    "id": "q103",
+    "prompt": "Who was Joan of Arc (c.1412-1431) in French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A heroine of the Hundred Years War who helped France defeat the English"
+      },
+      {
+        "key": "b",
+        "text": "The wife of Louis XVI"
+      },
+      {
+        "key": "c",
+        "text": "A 20th-century scientist"
+      },
+      {
+        "key": "d",
+        "text": "A Prime Minister under the Fifth Republic"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Joan of Arc is an emblematic figure of French history. A simple peasant from Lorraine, she said she heard \"voices\" and convinced King Charles VII to let her lead his troops in 1429. She won the victory at Orleans against the English, enabling French recovery during the Hundred Years War. Captured, she was burned for heresy in 1431 in Rouen. Later rehabilitated, she became a symbol of patriotism and a Catholic saint.",
+    "category": "History of France"
+  },
+  {
+    "id": "q104",
+    "prompt": "Which king of France was guillotined during the French Revolution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Louis XIV, in 1715"
+      },
+      {
+        "key": "b",
+        "text": "Louis XVI, in 1793"
+      },
+      {
+        "key": "c",
+        "text": "Charles X, in 1836"
+      },
+      {
+        "key": "d",
+        "text": "Napoleon III, in 1873"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Louis XVI was guillotined on January 21, 1793 in Paris by decision of the revolutionary National Convention. Convicted of treason against the Nation after the monarchy fell, he was executed on the Place de la Revolution (now Place de la Concorde). His wife Marie-Antoinette suffered the same fate a few months later, in October 1793. (Louis XIV died in bed in 1715; Charles X went into exile in 1830; Napoleon III was an emperor who went into exile in 1870.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q105",
+    "prompt": "Which battle did Napoleon lose in June 1815, marking his final downfall?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Austerlitz"
+      },
+      {
+        "key": "b",
+        "text": "Waterloo"
+      },
+      {
+        "key": "c",
+        "text": "Marengo"
+      },
+      {
+        "key": "d",
+        "text": "Valmy"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Waterloo. On June 18, 1815, Napoleon Bonaparte suffered a decisive defeat by Anglo-Prussian armies near Waterloo (in present-day Belgium). This defeat definitively ended the Napoleonic epic: Napoleon abdicated a few days later and was exiled to Saint Helena. (Austerlitz and Marengo were great Napoleonic victories; Valmy in 1792 was a victory of the revolutionaries.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q106",
+    "prompt": "Who was Victor Hugo (1802-1885) in French culture?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A famous 20th-century politician"
+      },
+      {
+        "key": "b",
+        "text": "A major 19th-century writer, author of Notre-Dame de Paris and Les Miserables, and a politically engaged intellectual"
+      },
+      {
+        "key": "c",
+        "text": "A scientist who discovered radioactivity"
+      },
+      {
+        "key": "d",
+        "text": "An impressionist painter"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Victor Hugo is one of France's greatest writers. Novelist (Les Miserables, Notre-Dame de Paris), poet (Les Contemplations), playwright (Hernani), he marked the 19th century. He was also politically engaged: elected deputy, he fought for liberty, education, social justice and against the death penalty. At his death in 1885 he received a state funeral and rests in the Pantheon.",
+    "category": "History of France"
+  },
+  {
+    "id": "q107",
+    "prompt": "Who wrote the novel Les Miserables, a portrait of 19th-century French society?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Emile Zola"
+      },
+      {
+        "key": "b",
+        "text": "Honore de Balzac"
+      },
+      {
+        "key": "c",
+        "text": "Victor Hugo"
+      },
+      {
+        "key": "d",
+        "text": "Gustave Flaubert"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The novel Les Miserables (1862), telling the story of Jean Valjean and denouncing social injustices, is by Victor Hugo. This epic novel is one of the most famous in French and world literature. (Zola wrote Les Rougon-Macquart, Balzac La Comedie humaine, Flaubert Madame Bovary, etc.)",
+    "category": "History of France"
+  },
+  {
+    "id": "q108",
+    "prompt": "What was the Dreyfus Affair (1894-1906) in French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A corruption scandal under the Fifth Republic"
+      },
+      {
+        "key": "b",
+        "text": "A political-judicial crisis around a wrongful conviction: Captain Dreyfus, wrongly accused of spying, was rehabilitated after a long battle"
+      },
+      {
+        "key": "c",
+        "text": "A French military victory over Prussia"
+      },
+      {
+        "key": "d",
+        "text": "France's Watergate"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Dreyfus Affair deeply divided France at the end of the 19th century. Alfred Dreyfus, a Jewish Alsatian officer, was accused in 1894 of spying for Germany and wrongly convicted of treason. Despite proof of his innocence, the army covered up the error. It took a long mobilization of \"Dreyfusards\" (like Emile Zola, who wrote \"J'accuse...!\" in 1898) for Dreyfus to be cleared and rehabilitated in 1906. The affair revealed anti-Semitism and judicial dysfunctions, leading to reforms.",
+    "category": "History of France"
+  },
+  {
+    "id": "q109",
+    "prompt": "Who was Charles de Gaulle (1890-1970) in French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Leader of Free France during WWII and founder of the Fifth Republic (its first president)"
+      },
+      {
+        "key": "b",
+        "text": "A military leader in WWI"
+      },
+      {
+        "key": "c",
+        "text": "A king in the early 20th century"
+      },
+      {
+        "key": "d",
+        "text": "A famous singer of the 1960s"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Charles de Gaulle is one of France's most important 20th-century figures. A general refusing the 1940 defeat, he exiled himself to London where he led Free France against Nazi occupation (he gave the Appeal of June 18, 1940). After Liberation and a period out of power, he returned in 1958 during the Fourth Republic crisis and founded the Fifth Republic, becoming its first President (1959-1969). He modernized institutions and oversaw decolonization. He remains the embodiment of refusing defeat and of national independence.",
+    "category": "History of France"
+  },
+  {
+    "id": "q110",
+    "prompt": "Who was Simone Veil (1927-2017), a major figure of contemporary French history?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A French astronaut who set a record for trips to the International Space Station"
+      },
+      {
+        "key": "b",
+        "text": "A politician and Holocaust survivor, Minister of Health in 1974 who passed the law legalizing abortion"
+      },
+      {
+        "key": "c",
+        "text": "The first female mayor of Paris"
+      },
+      {
+        "key": "d",
+        "text": "A sports champion of the 1960s"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Simone Veil was an emblematic French politician. Deported at 16 to Auschwitz, she survived the Holocaust. As Minister of Health in 1974, she carried the 1975 law legalizing voluntary termination of pregnancy (the Veil law), a major milestone for women's rights. She was later the first president of the European Parliament (1979). Respected for her courage and humanism, Simone Veil has rested in the Pantheon since 2018, a symbol of national recognition.",
+    "category": "History of France"
+  },
+  {
+    "id": "q111",
+    "prompt": "Which 1539 royal ordinance under Francis I required that all legal and administrative acts be written in French rather than Latin?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Edict of Nantes"
+      },
+      {
+        "key": "b",
+        "text": "The Ordinance of Villers-Cotterets"
+      },
+      {
+        "key": "c",
+        "text": "The Declaration of the Rights of Man and of the Citizen"
+      },
+      {
+        "key": "d",
+        "text": "The Civil Constitution of the Clergy"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Ordinance of Villers-Cotterets of 1539 ordered the use of the \"French mother tongue\" for legal acts so everyone could understand them.",
+    "category": "History of France"
+  },
+  {
+    "id": "q112",
+    "prompt": "Which edict of tolerance, issued in 1598 by Henry IV, ended the Wars of Religion and granted civil and religious rights to Protestants?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Edict of Fontainebleau"
+      },
+      {
+        "key": "b",
+        "text": "The Edict of Milan"
+      },
+      {
+        "key": "c",
+        "text": "The Edict of Nantes"
+      },
+      {
+        "key": "d",
+        "text": "The Edict of Avignon"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Edict of Nantes (1598) was an act of tolerance guaranteeing freedom of worship to Protestants and granting them civil and political rights.",
+    "category": "History of France"
+  },
+  {
+    "id": "q113",
+    "prompt": "Which 732 battle saw Mayor of the Palace Charles Martel stop the advance of Arab troops?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Battle of Bouvines"
+      },
+      {
+        "key": "b",
+        "text": "The Battle of Poitiers"
+      },
+      {
+        "key": "c",
+        "text": "The Battle of Austerlitz"
+      },
+      {
+        "key": "d",
+        "text": "The Battle of Agincourt"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "In October 732, Charles Martel won the Battle of Poitiers, halting the Umayyad expansion into Gaul.",
+    "category": "History of France"
+  },
+  {
+    "id": "q114",
+    "prompt": "What is the name of the massacre of Protestants in Paris on the night of August 23-24, 1572, which continued in other cities?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Night of August 4"
+      },
+      {
+        "key": "b",
+        "text": "The Saint Bartholomew's Day Massacre"
+      },
+      {
+        "key": "c",
+        "text": "The Night of Faith"
+      },
+      {
+        "key": "d",
+        "text": "The Night of the Long Knives"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Saint Bartholomew's Day Massacre on August 24, 1572 saw thousands of Huguenot Protestants killed in Paris and the provinces.",
+    "category": "History of France"
+  },
+  {
+    "id": "q115",
+    "prompt": "Which date marks the proclamation of the First French Republic, ending the monarchy of Louis XVI?",
+    "options": [
+      {
+        "key": "a",
+        "text": "July 14, 1789"
+      },
+      {
+        "key": "b",
+        "text": "August 10, 1792"
+      },
+      {
+        "key": "c",
+        "text": "September 21, 1792"
+      },
+      {
+        "key": "d",
+        "text": "9 Thermidor Year II"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "On September 21, 1792, the National Assembly proclaimed the First Republic and abolished the monarchy.",
+    "category": "History of France"
+  },
+  {
+    "id": "q116",
+    "prompt": "Which king, the last ruler of the July Monarchy, abdicated in February 1848 during the revolution and went into exile in England?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Charles X"
+      },
+      {
+        "key": "b",
+        "text": "Louis-Philippe I"
+      },
+      {
+        "key": "c",
+        "text": "Napoleon III"
+      },
+      {
+        "key": "d",
+        "text": "Henry IV"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Louis-Philippe I, the last King of the French, abdicated on February 24, 1848 and went into exile in England.",
+    "category": "History of France"
+  },
+  {
+    "id": "q117",
+    "prompt": "Which decisive battle of the Franco-Prussian War on September 1, 1870 led to the capture of Napoleon III and the fall of the Second Empire?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Battle of Verdun"
+      },
+      {
+        "key": "b",
+        "text": "The Battle of Sedan"
+      },
+      {
+        "key": "c",
+        "text": "The Battle of the Marne"
+      },
+      {
+        "key": "d",
+        "text": "The Battle of Jena"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "At Sedan on September 1, 1870, the French army was defeated and Emperor Napoleon III captured, leading to the proclamation of the Third Republic.",
+    "category": "History of France"
+  },
+  {
+    "id": "q118",
+    "prompt": "Which popular uprising of March 1871 established an autonomous government in Paris before being suppressed by Versailles troops?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Paris Commune"
+      },
+      {
+        "key": "b",
+        "text": "The July Revolution"
+      },
+      {
+        "key": "c",
+        "text": "The Bloody Week"
+      },
+      {
+        "key": "d",
+        "text": "The Terror"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The Paris Commune, from March 18 to May 28, 1871, was a short-lived self-government experiment suppressed by the French army.",
+    "category": "History of France"
+  },
+  {
+    "id": "q119",
+    "prompt": "What is the name of the large student and worker movement that shook French society in spring 1968 and led to social and political agreements?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Popular Front"
+      },
+      {
+        "key": "b",
+        "text": "May 1968"
+      },
+      {
+        "key": "c",
+        "text": "The Carnation Revolution"
+      },
+      {
+        "key": "d",
+        "text": "The Canut Revolt"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The events of May 1968 began with student demonstrations and general strikes, leading to social and cultural reforms.",
+    "category": "History of France"
+  },
+  {
+    "id": "q120",
+    "prompt": "In what year was the death penalty abolished in France, thanks to a law advocated by Justice Minister Robert Badinter?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1975"
+      },
+      {
+        "key": "b",
+        "text": "1979"
+      },
+      {
+        "key": "c",
+        "text": "1981"
+      },
+      {
+        "key": "d",
+        "text": "1985"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The law of October 9, 1981, championed by Robert Badinter, definitively abolished the death penalty in France.",
+    "category": "History of France"
+  }
+]

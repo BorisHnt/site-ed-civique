@@ -12,6 +12,7 @@ const i18n = {
     prev: "Précédent",
     next: "Suivant",
     finish: "Terminer",
+    mainMenu: "Menu principal",
     selectAnswerPrompt: "Choisissez une réponse pour continuer.",
     summaryTitle: "Session terminée",
     summarySubtitle: "Votre note",
@@ -50,6 +51,7 @@ const i18n = {
     prev: "Previous",
     next: "Next",
     finish: "Finish",
+    mainMenu: "Main menu",
     selectAnswerPrompt: "Select an answer to continue.",
     summaryTitle: "Session complete",
     summarySubtitle: "Your score",
@@ -126,34 +128,78 @@ const state = {
   route: "home"
 };
 
-const themeColors = {
-  mix: "#7a7cff",
-  "Principes et symboles de la République": "#7ba6ff",
-  "Institutions politiques et démocratie": "#8bd6a5",
-  "Histoire de France": "#ffc091",
-  "Droits et devoirs du citoyen": "#ff8fa3",
-  "Vie quotidienne et intégration en France": "#c7b4ff",
-  "Géographie et culture": "#80e0d9"
-};
-
-const themesList = [
-  { id: "mix", label: "Mix des thèmes" },
-  { id: "Principes et symboles de la République", label: "Principes et symboles" },
-  { id: "Institutions politiques et démocratie", label: "Institutions et démocratie" },
-  { id: "Histoire de France", label: "Histoire de France" },
-  { id: "Droits et devoirs du citoyen", label: "Droits et devoirs" },
-  { id: "Vie quotidienne et intégration en France", label: "Vie quotidienne" },
-  { id: "Géographie et culture", label: "Géographie & culture" }
+const themesConfig = [
+  {
+    id: "mix",
+    color: "#7a7cff",
+    label: { fr: "Mix des thèmes", en: "Mixed themes" },
+    short: { fr: "Mix des thèmes", en: "Mixed themes" }
+  },
+  {
+    id: "principles",
+    color: "#7ba6ff",
+    label: { fr: "Principes et symboles de la République", en: "Principles and Symbols of the Republic" },
+    short: { fr: "Principes et symboles", en: "Principles & Symbols" },
+    files: {
+      fr: "data/themes/principes-et-symboles-de-la-republique.json",
+      en: "data/themes/principes-et-symboles-de-la-republique-EN.json"
+    }
+  },
+  {
+    id: "institutions",
+    color: "#8bd6a5",
+    label: { fr: "Institutions politiques et démocratie", en: "Political Institutions and Democracy" },
+    short: { fr: "Institutions et démocratie", en: "Institutions & Democracy" },
+    files: {
+      fr: "data/themes/institutions-politiques-et-democratie.json",
+      en: "data/themes/institutions-politiques-et-democratie-EN.json"
+    }
+  },
+  {
+    id: "history",
+    color: "#ffc091",
+    label: { fr: "Histoire de France", en: "History of France" },
+    short: { fr: "Histoire de France", en: "History of France" },
+    files: {
+      fr: "data/themes/histoire-de-france.json",
+      en: "data/themes/histoire-de-france-EN.json"
+    }
+  },
+  {
+    id: "rights",
+    color: "#ff8fa3",
+    label: { fr: "Droits et devoirs du citoyen", en: "Rights and Duties of the Citizen" },
+    short: { fr: "Droits et devoirs", en: "Rights & Duties" },
+    files: {
+      fr: "data/themes/droits-et-devoirs-du-citoyen.json",
+      en: "data/themes/droits-et-devoirs-du-citoyen-EN.json"
+    }
+  },
+  {
+    id: "daily",
+    color: "#c7b4ff",
+    label: { fr: "Vie quotidienne et intégration en France", en: "Daily Life and Integration in France" },
+    short: { fr: "Vie quotidienne", en: "Daily life" },
+    files: {
+      fr: "data/themes/vie-quotidienne-et-integration-en-france.json",
+      en: "data/themes/vie-quotidienne-et-integration-en-france-EN.json"
+    }
+  },
+  {
+    id: "geography",
+    color: "#80e0d9",
+    label: { fr: "Géographie et culture", en: "Geography and Culture" },
+    short: { fr: "Géographie & culture", en: "Geography & Culture" },
+    files: {
+      fr: "data/themes/geographie-et-culture.json",
+      en: "data/themes/geographie-et-culture-EN.json"
+    }
+  }
 ];
 
-const themeFiles = {
-  "Principes et symboles de la République": "data/themes/principes-et-symboles-de-la-republique.json",
-  "Institutions politiques et démocratie": "data/themes/institutions-politiques-et-democratie.json",
-  "Histoire de France": "data/themes/histoire-de-france.json",
-  "Droits et devoirs du citoyen": "data/themes/droits-et-devoirs-du-citoyen.json",
-  "Vie quotidienne et intégration en France": "data/themes/vie-quotidienne-et-integration-en-france.json",
-  "Géographie et culture": "data/themes/geographie-et-culture.json"
-};
+function getThemeById(id) {
+  return themesConfig.find((t) => t.id === id) || themesConfig[0];
+}
 
 function t(key, ...args) {
   const value = i18n[state.language]?.[key];
@@ -161,12 +207,30 @@ function t(key, ...args) {
   return value ?? key;
 }
 
-function setLanguage(lang) {
+async function setLanguage(lang) {
+  const previousSessionIds = state.session.map((q) => q.id);
+  const previousAnswers = { ...state.answers };
+  const wasFinished = state.finished;
   state.language = lang === "fr" ? "fr" : "en";
   localStorage.setItem("civique-lang", state.language);
   document.documentElement.lang = state.language;
   setLanguageButtons();
+  await loadQuestions();
+  // Rebuild current session with the new language dataset if possible
+  if (previousSessionIds.length) {
+    const byId = new Map(state.allQuestions.map((q) => [q.id, q]));
+    state.session = previousSessionIds.map((id) => byId.get(id)).filter(Boolean);
+    state.answers = {};
+    state.session.forEach((q) => {
+      if (previousAnswers[q.id]) state.answers[q.id] = previousAnswers[q.id];
+    });
+    if (state.currentIndex >= state.session.length) {
+      state.currentIndex = 0;
+    }
+    state.finished = wasFinished && state.session.length > 0;
+  }
   syncTexts();
+  renderThemeButtons();
   renderHistory();
   if (state.finished) renderSummary();
   else renderQuestion();
@@ -220,13 +284,19 @@ async function loadQuestions() {
   elements.dataStatus.textContent = t("dataLoading");
   try {
     const themeEntries = await Promise.all(
-      themesList
+      themesConfig
         .filter((t) => t.id !== "mix")
         .map(async (t) => {
-          const res = await fetch(themeFiles[t.id]);
+          const file = t.files?.[state.language] || t.files?.fr;
+          const res = await fetch(file);
           if (!res.ok) throw new Error("fetch failed");
           const json = await res.json();
-          return { id: t.id, data: normalizeQuestions(json) };
+          const normalized = normalizeQuestions(json).map((q) => ({
+            ...q,
+            category: t.label[state.language] || t.label.fr,
+            themeId: t.id
+          }));
+          return { id: t.id, data: normalized };
         })
     );
     const themeMap = {};
@@ -241,7 +311,7 @@ async function loadQuestions() {
     // fallback to global JSON or TXT
     const fromJson = await (async () => {
       try {
-        const res = await fetch("data/questions.json");
+        const res = await fetch(state.language === "en" ? "data/questions-en.json" : "data/questions.json");
         if (!res.ok) return null;
         const json = await res.json();
         return normalizeQuestions(json);
@@ -251,14 +321,21 @@ async function loadQuestions() {
     })();
 
     if (fromJson) {
-      state.allQuestions = fromJson;
+      const withIds = attachThemeId(fromJson);
+      state.allQuestions = withIds;
+      state.themeQuestions = themesConfig
+        .filter((t) => t.id !== "mix")
+        .reduce((acc, t) => {
+          acc[t.id] = withIds.filter((q) => q.themeId === t.id);
+          return acc;
+        }, {});
       elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
       return;
     }
 
     const fromTxt = await (async () => {
       try {
-        const res = await fetch("Questions001.txt");
+        const res = await fetch(state.language === "en" ? "Questions001-en.txt" : "Questions001.txt");
         if (!res.ok) return null;
         const text = await res.text();
         return parseQuestions(text);
@@ -268,7 +345,14 @@ async function loadQuestions() {
     })();
 
     if (fromTxt) {
-      state.allQuestions = fromTxt;
+      const withIds = attachThemeId(fromTxt);
+      state.allQuestions = withIds;
+      state.themeQuestions = themesConfig
+        .filter((t) => t.id !== "mix")
+        .reduce((acc, t) => {
+          acc[t.id] = withIds.filter((q) => q.themeId === t.id);
+          return acc;
+        }, {});
       elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
       return;
     }
@@ -411,6 +495,22 @@ function normalizeQuestions(data) {
     .filter((q) => q.prompt && q.options.length >= 2 && q.answerLetter);
 }
 
+function attachThemeId(list) {
+  if (!Array.isArray(list)) return list;
+  const clean = (str) => (str || "").replace(/^\d+\)\.\s*/, "").trim();
+  list.forEach((q) => {
+    if (q.themeId) return;
+    const found = themesConfig.find((t) => {
+      const fr = clean(t.label?.fr);
+      const en = clean(t.label?.en);
+      const cat = clean(q.category);
+      return fr === cat || en === cat;
+    });
+    if (found) q.themeId = found.id;
+  });
+  return list;
+}
+
 function shuffle(arr) {
   const copy = [...arr];
   for (let i = copy.length - 1; i > 0; i -= 1) {
@@ -540,7 +640,12 @@ function nextStep() {
 }
 
 function prevStep() {
-  if (!state.session.length || state.currentIndex === 0 || state.finished) return;
+  if (state.finished) {
+    state.finished = false;
+    setRoute("home");
+    return;
+  }
+  if (!state.session.length || state.currentIndex === 0) return;
   state.currentIndex -= 1;
   renderQuestion();
 }
@@ -665,12 +770,13 @@ function renderSummary() {
   setQuizTitleWithDot(t("summarySubtitle"));
   elements.progressBadge.textContent = t("scoreOn", score, total);
   elements.nextLabel.textContent = t("start");
-  elements.prevBtn.disabled = true;
+  elements.prevLabel.textContent = t("mainMenu");
+  elements.prevBtn.disabled = false;
 }
 
 function buildTooltip(res) {
-  const correctOpt = res.question.options.find((o) => o.key === res.question.answerLetter);
   const userOpt = res.question.options.find((o) => o.key === res.userAnswer);
+  const correctOpt = res.question.options.find((o) => o.key === res.question.answerLetter);
   return `
     <strong>${t("tooltipTitleWrong")}</strong><br/>
     ${res.question.prompt}<br/><br/>
@@ -763,7 +869,11 @@ function setQuizTitleWithDot(text, question) {
   if (state.selectedTheme === "mix" && question?.category) {
     const dot = document.createElement("span");
     dot.className = "question-dot header-dot";
-    dot.style.background = themeColors[question.category] || themeColors.mix;
+    const themeConf =
+      (question.themeId && getThemeById(question.themeId)) ||
+      themesConfig.find((t) => t.label.fr === question.category || t.label.en === question.category) ||
+      themesConfig[0];
+    dot.style.background = themeConf.color || themesConfig[0].color;
     elements.quizTitle.appendChild(dot);
   }
   elements.quizTitle.appendChild(document.createTextNode(text || ""));
@@ -794,8 +904,11 @@ function renderThemeButtons() {
   if (!buttons.length) return;
   buttons.forEach((btn) => {
     const id = btn.dataset.theme || "mix";
+    const conf = getThemeById(id);
     const dot = btn.querySelector(".theme-dot");
-    if (dot) dot.style.background = themeColors[id] || themeColors.mix;
+    if (dot) dot.style.background = conf.color || themesConfig[0].color;
+    const label = btn.querySelector("span:last-child");
+    if (label) label.textContent = conf.short[state.language] || conf.short.fr;
     btn.classList.toggle("active", state.selectedTheme === id);
   });
 }
@@ -811,7 +924,7 @@ function getThemePool(themeId) {
   if (state.themeQuestions && state.themeQuestions[themeId]) {
     return state.themeQuestions[themeId];
   }
-  return state.allQuestions.filter((q) => q.category === themeId);
+  return state.allQuestions.filter((q) => q.themeId === themeId);
 }
 
 function init() {

@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q1",
+    "prompt": "What is the motto of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Liberty, Equality, Fraternity"
+      },
+      {
+        "key": "b",
+        "text": "Unity, Justice, Liberty"
+      },
+      {
+        "key": "c",
+        "text": "Strength, Honor, Homeland"
+      },
+      {
+        "key": "d",
+        "text": "Liberty, Secularism, Prosperity"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Liberty, Equality, Fraternity. This has been France's official motto since the Revolution, expressing the Republic's core values.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q2",
+    "prompt": "On which official buildings can the motto \"Liberty, Equality, Fraternity\" be read?",
+    "options": [
+      {
+        "key": "a",
+        "text": "On public buildings (town halls, schools, courts, etc.)"
+      },
+      {
+        "key": "b",
+        "text": "On all private buildings"
+      },
+      {
+        "key": "c",
+        "text": "Only on churches and cathedrals"
+      },
+      {
+        "key": "d",
+        "text": "Only on the facade of the Elysee Palace"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The republican motto is inscribed on public buildings (town halls, schools, official buildings), displaying these values across the country.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q3",
+    "prompt": "What are the three colors of the French flag and what do they represent?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Blue, white and red \u2013 colors of Paris and the monarchy"
+      },
+      {
+        "key": "b",
+        "text": "Blue, white and green \u2013 symbolizing the sea, peace and hope"
+      },
+      {
+        "key": "c",
+        "text": "Blue, yellow and red \u2013 in reference to the European flag"
+      },
+      {
+        "key": "d",
+        "text": "Black, white and red \u2013 historical colors of Gaul"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The tricolor flag is blue, white, red, combining blue and red (colors of Paris) with white (traditional color of the monarchy) to symbolize the union between the people and the nation.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q4",
+    "prompt": "What is the national anthem of France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Marseillaise"
+      },
+      {
+        "key": "b",
+        "text": "Le Chant des Partisans"
+      },
+      {
+        "key": "c",
+        "text": "La Parisienne"
+      },
+      {
+        "key": "d",
+        "text": "Ode to Joy"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The French national anthem is \"La Marseillaise,\" a revolutionary song composed in 1792 by Rouget de Lisle during the wars of the Revolution.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q5",
+    "prompt": "The allegorical figure representing the French Republic is a woman called Marianne. When did this symbol appear?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Under Napoleon Bonaparte"
+      },
+      {
+        "key": "b",
+        "text": "During the French Revolution"
+      },
+      {
+        "key": "c",
+        "text": "In Charlemagne's time"
+      },
+      {
+        "key": "d",
+        "text": "During World War I"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Marianne has symbolized the Republic and its values since the French Revolution of 1789. Her image replaced that of kings on official seals at that time.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q6",
+    "prompt": "What is the date of the French national holiday, and what is celebrated on that day?",
+    "options": [
+      {
+        "key": "a",
+        "text": "July 14, in memory of the Storming of the Bastille in 1789"
+      },
+      {
+        "key": "b",
+        "text": "May 8, commemorating the 1945 victory"
+      },
+      {
+        "key": "c",
+        "text": "November 11, in memory of the 1918 armistice"
+      },
+      {
+        "key": "d",
+        "text": "May 1, Feast of the Federation"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "France's national holiday is July 14. It celebrates the Storming of the Bastille (July 14, 1789), a symbolic event of the Revolution marking the end of absolutism. Military parades and fireworks take place each July 14 to celebrate regained freedom.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q7",
+    "prompt": "According to Article 1 of the 1958 Constitution, France is a \"indivisible, secular, democratic and social\" Republic. Which of these words is not part of the Republic's principles?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Indivisible"
+      },
+      {
+        "key": "b",
+        "text": "Secular"
+      },
+      {
+        "key": "c",
+        "text": "Federal"
+      },
+      {
+        "key": "d",
+        "text": "Democratic"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "France is not a federation of states: it is an indivisible Republic (a unitary state). The Constitution describes it as secular, democratic and social, but not \"federal\" \u2013 that term does not appear in its definition.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q8",
+    "prompt": "What is the official language of the French Republic, according to the Constitution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "French"
+      },
+      {
+        "key": "b",
+        "text": "English"
+      },
+      {
+        "key": "c",
+        "text": "German"
+      },
+      {
+        "key": "d",
+        "text": "None; France has no official language"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "French is the language of the Republic, according to Article 2 of the Constitution. All laws and official documents must therefore be in French, the language symbolizing national unity.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q9",
+    "prompt": "Secularism is a fundamental principle in France. Which statement is true about French secularism?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The State recognizes no religion and subsidizes none, guaranteeing the public power's religious neutrality"
+      },
+      {
+        "key": "b",
+        "text": "The State imposes an official religion on the population"
+      },
+      {
+        "key": "c",
+        "text": "Secularism forces all citizens to be atheists"
+      },
+      {
+        "key": "d",
+        "text": "Only Christian religions are allowed in public spaces"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "In France, secularism means the State is neutral and has no official religion, while guaranteeing everyone's freedom of worship. The 1905 law provides for the separation of Churches and State and the absence of public funding for religions, ensuring equality before the law regardless of beliefs.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q10",
+    "prompt": "Which law established the separation of Churches and State, setting the principle of the Republic's secularism?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The 1905 law"
+      },
+      {
+        "key": "b",
+        "text": "The 1789 Declaration"
+      },
+      {
+        "key": "c",
+        "text": "The 1958 Constitution"
+      },
+      {
+        "key": "d",
+        "text": "The 1804 Civil Code"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The law of December 9, 1905 established secularism in France, ending the state religion. From 1905, the State neither pays nor recognizes any religion, and everyone may freely practice the religion of their choice or none.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q11",
+    "prompt": "What does secularism guarantee to people living in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Freedom of conscience\u2014that is, the right to believe or not to believe\u2014and equality before the law regardless of convictions"
+      },
+      {
+        "key": "b",
+        "text": "The obligation to have a religion"
+      },
+      {
+        "key": "c",
+        "text": "The supremacy of religious laws over civil laws"
+      },
+      {
+        "key": "d",
+        "text": "Religious practice only in the private sphere, whether at home or in a private place of worship"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Secularism guarantees everyone freedom of conscience, including the right to practice the religion of their choice or none, respecting public order. It also ensures equality before the law without distinction of religion. (Note: religious freedom is exercised in the public sphere so long as it does not disturb public order.)",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q12",
+    "prompt": "In 2004, the Constitutional Council clarified an important principle related to secularism. Which rule did it recall that year?",
+    "options": [
+      {
+        "key": "a",
+        "text": "That religions must dictate public life rules"
+      },
+      {
+        "key": "b",
+        "text": "That no one may use religious beliefs to exempt themselves from common rules"
+      },
+      {
+        "key": "c",
+        "text": "That believers have greater rights than non-believers"
+      },
+      {
+        "key": "d",
+        "text": "That secularism applies only at school"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "In 2004, the Constitutional Council recalled that the laws of the Republic prevail over religious beliefs: no one can invoke religion to evade common rules. Beliefs belong to the private sphere and must respect common law.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q13",
+    "prompt": "A parent asks that his daughter be excused from physical education classes for religious reasons. What response consistent with republican principles should the school give?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Grant a permanent exemption for religious reasons"
+      },
+      {
+        "key": "b",
+        "text": "Replace sports class with another activity each week"
+      },
+      {
+        "key": "c",
+        "text": "Refuse the exemption, because mandatory classes apply to all without distinction"
+      },
+      {
+        "key": "d",
+        "text": "Let the student choose which classes to attend"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "All students must attend mandatory classes, with no exceptions for religious reasons. Secularism in public schools ensures equality in education: no particular belief allows one to avoid the common rules of the national education system.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q14",
+    "prompt": "In a public hospital waiting room, a user hands out religious leaflets to other patients. What should hospital staff do according to the principle of secularism?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Allow it, if the leaflets are peaceful"
+      },
+      {
+        "key": "b",
+        "text": "Allow it only if he gives them only to consenting friends"
+      },
+      {
+        "key": "c",
+        "text": "Forbid this proselytizing in a neutral public place"
+      },
+      {
+        "key": "d",
+        "text": "Organize a public debate about the leaflets' content"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Distribution of religious leaflets in the waiting room must be stopped. A public service must remain neutral and secular: proselytizing toward users is not allowed. Users have the right to their beliefs, but without disrupting order or the service's neutrality.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q15",
+    "prompt": "In a private company, the internal rules forbid wearing any ostentatious religious sign for work safety reasons. Is this legal?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, if the restriction is justified by the nature of the tasks (objective safety reasons)"
+      },
+      {
+        "key": "b",
+        "text": "Yes, but only for certain religions"
+      },
+      {
+        "key": "c",
+        "text": "No, any ban is discriminatory"
+      },
+      {
+        "key": "d",
+        "text": "No, the law forbids any dress restrictions even for safety"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes, an employer may set limits on clothing or signs (religious or otherwise) for legitimate reasons, notably safety or hygiene, provided the rule is justified by the nature of the work and proportionate to the goal. For example, requiring removal of loose objects or clothing that could be dangerous on a machine is legal. A blanket ban without valid reason would be discriminatory.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q16",
+    "prompt": "A potential blood donor is refused because he is homosexual. Is this legal in France?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, for moral reasons"
+      },
+      {
+        "key": "b",
+        "text": "Yes, medical staff freely choose donors"
+      },
+      {
+        "key": "c",
+        "text": "No, selection criteria must be based only on health safety, without discrimination"
+      },
+      {
+        "key": "d",
+        "text": "No, but only if the person is married"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "No. Refusing a blood donation because of the donor's sexual orientation is illegal discrimination. Only medical criteria tied to transfusion safety can justify refusal (e.g., certain risk factors), never sexual orientation. The law requires equal treatment and bans discrimination.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q17",
+    "prompt": "Is everything allowed in public speech under freedom of expression?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, absolutely everything is permitted; that is freedom of expression"
+      },
+      {
+        "key": "b",
+        "text": "No; for example, speech inciting racial or religious hatred is banned by law"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only if quoting public figures"
+      },
+      {
+        "key": "d",
+        "text": "No, unless speaking anonymously"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Freedom of expression is guaranteed but has legal limits. Insults, defamation, or incitement to hatred against a group of people because of origin, religion, sexual orientation, etc. are forbidden and criminally sanctioned (press law of 1881 and later laws). One may speak freely, but within the law and the rights of others.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q18",
+    "prompt": "Who must obey the laws of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Everyone in France, whether citizens or foreigners"
+      },
+      {
+        "key": "b",
+        "text": "Only French citizens"
+      },
+      {
+        "key": "c",
+        "text": "Only adults (minors are not concerned)"
+      },
+      {
+        "key": "d",
+        "text": "Only State officials"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "No one is above the law: everyone on French soil\u2014citizens, residents, visitors\u2014must obey the Republic's laws. This equality before the law is fundamental to ensure public order and justice for all.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q19",
+    "prompt": "Which of these symbols is official for the French Republic (written into the Constitution)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The blue-white-red tricolor flag"
+      },
+      {
+        "key": "b",
+        "text": "The Gallic rooster"
+      },
+      {
+        "key": "c",
+        "text": "The fleur-de-lis"
+      },
+      {
+        "key": "d",
+        "text": "The Sower (figure on some coins)"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The blue, white, red flag is explicitly named as the national emblem in Article 2 of the Constitution. The anthem La Marseillaise, the motto \"Liberty, Equality, Fraternity\" and the principle of secularism are also official symbols. The Gallic rooster is popular and historic (notably in sports) but has no official status.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q20",
+    "prompt": "Which foundational text adopted during the Revolution proclaims essential rights and freedoms of French citizens?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The 1789 Declaration of the Rights of Man and of the Citizen"
+      },
+      {
+        "key": "b",
+        "text": "The 1804 Civil Code"
+      },
+      {
+        "key": "c",
+        "text": "The 1945 UN Charter"
+      },
+      {
+        "key": "d",
+        "text": "The 1958 Constitution"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The Declaration of the Rights of Man and of the Citizen (August 26, 1789). This revolutionary text sets out natural and inalienable rights (liberty, property, security, resistance to oppression) and underpins republican values. The French Constitution refers to it and guarantees its principles.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q21",
+    "prompt": "What document must every new French citizen sign to affirm adherence to the Republic's principles and values?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Charter of the Rights and Duties of the French Citizen"
+      },
+      {
+        "key": "b",
+        "text": "The Nationality Code"
+      },
+      {
+        "key": "c",
+        "text": "The Republican Integration Contract"
+      },
+      {
+        "key": "d",
+        "text": "The Family record book"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "The Charter of the Rights and Duties of the French Citizen is given to people who acquire nationality. By signing it, the new citizen commits to respect the Republic's values and French laws (and the Charter recalls their rights and duties as French citizens).",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q22",
+    "prompt": "Does France have an official religion?",
+    "options": [
+      {
+        "key": "a",
+        "text": "No, none is official; the State is neutral toward all faiths"
+      },
+      {
+        "key": "b",
+        "text": "Yes, Catholicism is the state religion"
+      },
+      {
+        "key": "c",
+        "text": "Yes, Christianity (Protestant and Catholic) is officially recognized"
+      },
+      {
+        "key": "d",
+        "text": "Yes, all religions recognized by the State are publicly funded"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "No, France has had no state religion since 1905. The Republic is secular: it neither recognizes nor pays any religion. The State guarantees freedom of religion but remains neutral and favors none (except in Alsace-Moselle where a historic concordat regime persists as a limited exception).",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q23",
+    "prompt": "While picking up your mail, you find a wallet with money and an ID card belonging to someone you do not know. What should you do according to law and civic principles?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Keep it: \"finders keepers\""
+      },
+      {
+        "key": "b",
+        "text": "Hide it and wait for someone to ask with a reward"
+      },
+      {
+        "key": "c",
+        "text": "Take it promptly to the police station or town hall so it can be returned to its owner"
+      },
+      {
+        "key": "d",
+        "text": "Leave it at the building entrance"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "You must bring the found item to the authorities (police, gendarmerie or town hall). Failing to do so can be considered misappropriation of found property. Civic duty calls for honesty. The person who lost the wallet can get it back thanks to your action.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q24",
+    "prompt": "Which action best illustrates the value of fraternity promoted by the Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Volunteering to help people in difficulty, for example in a charity"
+      },
+      {
+        "key": "b",
+        "text": "Refusing any help to others because \"everyone for themselves\""
+      },
+      {
+        "key": "c",
+        "text": "Treating people differently based on origin"
+      },
+      {
+        "key": "d",
+        "text": "Ignoring neighbors and living isolated"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Fraternity means fostering solidarity and mutual aid between citizens. Volunteering to help others is a concrete example of fraternity. Egoism or discrimination run counter to this republican value of social cohesion and mutual respect.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q25",
+    "prompt": "May a public service employee (e.g., a teacher or a police officer on duty) display political or religious convictions while working?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, they can freely express opinions even on duty"
+      },
+      {
+        "key": "b",
+        "text": "No, they must observe strict neutrality while performing their duties"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only if their superiors agree"
+      },
+      {
+        "key": "d",
+        "text": "No, except on national holiday"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "No. Civil servants and public agents have a duty of neutrality: they must not display political or religious opinions while on duty. For example, a public school teacher will not wear an ostentatious religious sign and a uniformed police officer will not express political opinions. This guarantees public service impartiality toward all users.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q26",
+    "prompt": "Secularism concerns the State and its agents, but what about users of public services (citizens)?",
+    "options": [
+      {
+        "key": "a",
+        "text": "They too must be neutral and wear no religious sign"
+      },
+      {
+        "key": "b",
+        "text": "They keep their freedom of belief: they may wear religious signs as long as they do not try to impose their rules and public order is respected"
+      },
+      {
+        "key": "c",
+        "text": "They must follow the religion of the majority"
+      },
+      {
+        "key": "d",
+        "text": "They can access public services only if they are secular"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Users of public services retain their religious freedom: a hospital patient or a town hall user may wear a religious sign (cross, veil, turban, etc.) if they wish. Neutrality is required of public service agents, not users. Of course, users must respect public order and not disrupt the normal functioning of the service with abusive proselytizing.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q27",
+    "prompt": "Which value of the motto \"Liberty, Equality, Fraternity\" calls for solidarity and mutual aid among citizens?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Liberty"
+      },
+      {
+        "key": "b",
+        "text": "Equality"
+      },
+      {
+        "key": "c",
+        "text": "Fraternity"
+      },
+      {
+        "key": "d",
+        "text": "Secularism"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Fraternity. Beyond individual liberty and equality in rights, fraternity adds a dimension of solidarity: considering oneself part of the same national community, acting kindly and helping each other. It shows in generosity, volunteer work, protecting the most vulnerable.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q28",
+    "prompt": "Which republican value guarantees no discrimination and equality for all before the law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Liberty"
+      },
+      {
+        "key": "b",
+        "text": "Equality"
+      },
+      {
+        "key": "c",
+        "text": "Tradition"
+      },
+      {
+        "key": "d",
+        "text": "Fraternity"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Equality. It ensures every citizen is treated the same by law, without privilege or discrimination. This includes equal civil rights (same right to vote, access to public jobs, education, etc.) for all, regardless of origin, gender, religion, etc.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q29",
+    "prompt": "Do the Constitution and French laws guarantee equality between women and men?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes, absolutely: men and women have the same rights in all areas (civil, political, economic)"
+      },
+      {
+        "key": "b",
+        "text": "Yes, except for the right to vote"
+      },
+      {
+        "key": "c",
+        "text": "No, women have fewer rights than men"
+      },
+      {
+        "key": "d",
+        "text": "No, it depends on each person's religion"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. Equality between women and men is a constitutional and legal principle in France. For example, women vote and can be elected since 1944; any discrimination based on sex is banned, and laws mandate professional equality. Although factual inequalities may remain, the law makes no distinction and promotes real equality.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q30",
+    "prompt": "On depictions of Marianne, symbol of the Republic, what object does she wear on her head?",
+    "options": [
+      {
+        "key": "a",
+        "text": "A royal crown"
+      },
+      {
+        "key": "b",
+        "text": "A Phrygian cap, emblematic headwear of freedom"
+      },
+      {
+        "key": "c",
+        "text": "A tricolor veil"
+      },
+      {
+        "key": "d",
+        "text": "A winged Gaulish helmet"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Marianne is generally shown wearing a red Phrygian cap, symbol of liberty and emancipation since the French Revolution. Worn in antiquity by freed slaves, it became during the Revolution the sign of regained freedom. Marianne and her Phrygian cap appear on town hall statues and official Republic logos.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q31",
+    "prompt": "What does freedom of conscience guaranteed in France mean?",
+    "options": [
+      {
+        "key": "a",
+        "text": "That one may think what one wants privately but cannot change religion"
+      },
+      {
+        "key": "b",
+        "text": "That one must choose a religion at adulthood"
+      },
+      {
+        "key": "c",
+        "text": "That one is free to believe or not believe, and to adopt any religion or convictions"
+      },
+      {
+        "key": "d",
+        "text": "That it is forbidden to have different political or philosophical convictions"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Freedom of conscience means everyone is free to hold the religious, spiritual or philosophical convictions of their choice\u2014or none. It is a fundamental right proclaimed in 1789, paired with freedom of expression and State secularism. Each person can practice a religion, change it, or practice none without State pressure, within respect for the law.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q32",
+    "prompt": "Is failing to help a person in danger when one could do so without risk punishable by law?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes. Failure to assist a person in danger is a criminal offense"
+      },
+      {
+        "key": "b",
+        "text": "No, it is a moral choice but not a legal obligation"
+      },
+      {
+        "key": "c",
+        "text": "Yes, but only if the person in danger is a minor"
+      },
+      {
+        "key": "d",
+        "text": "No, except for health professionals"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. Not assisting someone in peril is a criminal offense (Article 223-6 of the Penal Code). The duty of fraternity has legal effect: anyone who can prevent, without risk to themselves, serious harm to others must do so. For example, calling emergency services after seeing an accident is a civic and legal duty. Breaching it is punishable by up to 5 years in prison and a 75,000 euro fine.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q33",
+    "prompt": "Does the French State recognize and respect all religious beliefs of its citizens?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Yes. Secularism implies respect for all beliefs within the law"
+      },
+      {
+        "key": "b",
+        "text": "The State tolerates only Christian beliefs"
+      },
+      {
+        "key": "c",
+        "text": "Some religions are banned in France"
+      },
+      {
+        "key": "d",
+        "text": "The State requires citizens to have a religion"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Yes. The Republic respects all beliefs: everyone may freely practice a religion or none. The State does not privilege or stigmatize any. Of course, this respect applies within the law\u2014any religious practice must comply with the law (for example, rites cannot justify an illegal act).",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q34",
+    "prompt": "In the wording \"indivisible, secular, democratic and social\" in Article 1 of the Constitution, what does \"indivisible\" mean?",
+    "options": [
+      {
+        "key": "a",
+        "text": "That France is a federation of states"
+      },
+      {
+        "key": "b",
+        "text": "That national sovereignty is unique and cannot be fragmented"
+      },
+      {
+        "key": "c",
+        "text": "That the country is made of several kingdoms"
+      },
+      {
+        "key": "d",
+        "text": "That each region is independent"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Indivisibility means sovereignty belongs to the Nation as a whole and no part of the territory can claim political autonomy.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q35",
+    "prompt": "In the 1789 Declaration of the Rights of Man and of the Citizen, which right is called \"inviolable and sacred\" and can be infringed only for public necessity with compensation?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The right to resist oppression"
+      },
+      {
+        "key": "b",
+        "text": "The right to vote"
+      },
+      {
+        "key": "c",
+        "text": "The right to property"
+      },
+      {
+        "key": "d",
+        "text": "The right to education"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Article 17 of the 1789 Declaration states that property is an inviolable and sacred right and can be taken away only for public necessity with fair compensation.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q36",
+    "prompt": "According to Article 2 of the 1958 Constitution, what are the three official symbols of the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Marianne, the cockade and the Sower"
+      },
+      {
+        "key": "b",
+        "text": "The tricolor flag, the national anthem and the motto Liberty Equality Fraternity"
+      },
+      {
+        "key": "c",
+        "text": "The fleur-de-lis, the rooster and the euro currency"
+      },
+      {
+        "key": "d",
+        "text": "The Arms of Paris, the Eiffel Tower and the Phrygian cap"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Article 2 of the Constitution names as symbols of the Republic the blue-white-red flag, the national anthem (La Marseillaise) and the motto \"Liberty, Equality, Fraternity.\"",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q37",
+    "prompt": "What headwear worn by Marianne became a symbol of freedom since the French Revolution?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The royal crown"
+      },
+      {
+        "key": "b",
+        "text": "Napoleon's hat"
+      },
+      {
+        "key": "c",
+        "text": "The Phrygian cap"
+      },
+      {
+        "key": "d",
+        "text": "The Basque beret"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "The Phrygian cap worn by Marianne is a symbol from antiquity representing liberty and emancipation of peoples.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q38",
+    "prompt": "What is the main meaning of fraternity in the motto \"Liberty, Equality, Fraternity\"?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Equality of all before the law"
+      },
+      {
+        "key": "b",
+        "text": "Solidarity and mutual aid among citizens"
+      },
+      {
+        "key": "c",
+        "text": "Separation of Church and State"
+      },
+      {
+        "key": "d",
+        "text": "Obedience to authorities"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Fraternity expresses solidarity and goodwill among members of the national community, an essential complement to liberty and equality.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q39",
+    "prompt": "Which institution ensures that laws comply with the Constitution and can be referred to by parliamentarians or citizens via a priority preliminary ruling on constitutionality?",
+    "options": [
+      {
+        "key": "a",
+        "text": "The Council of State"
+      },
+      {
+        "key": "b",
+        "text": "The Constitutional Council"
+      },
+      {
+        "key": "c",
+        "text": "The Court of Cassation"
+      },
+      {
+        "key": "d",
+        "text": "The Senate"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The Constitutional Council reviews laws for conformity to the Constitution and protects rights and freedoms guaranteed by it.",
+    "category": "Principles and Symbols of the Republic"
+  },
+  {
+    "id": "q40",
+    "prompt": "Which statement best describes separation of powers in the French Republic?",
+    "options": [
+      {
+        "key": "a",
+        "text": "All powers are concentrated in the President's hands"
+      },
+      {
+        "key": "b",
+        "text": "The executive, legislative and judicial powers are independent and check each other"
+      },
+      {
+        "key": "c",
+        "text": "The legislative power directs the executive"
+      },
+      {
+        "key": "d",
+        "text": "The judicial power makes all political decisions"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "The separation of powers principle means the executive (President and Government), the legislative (Parliament) and the judiciary are distinct, to safeguard liberties and avoid arbitrariness.",
+    "category": "Principles and Symbols of the Republic"
+  }
+]
