@@ -749,6 +749,10 @@ function syncTexts() {
   elements.heroTitle.textContent = t("heroTitle");
   elements.heroDesc.textContent = t("heroDesc");
   elements.startLabel.textContent = t("start");
+  const themeLabel = document.getElementById("theme-label");
+  const sizeLabel = document.getElementById("size-label");
+  if (themeLabel) themeLabel.textContent = state.language === "fr" ? "Thèmes" : "Themes";
+  if (sizeLabel) sizeLabel.textContent = state.language === "fr" ? "Nombre de questions" : "Number of questions";
   elements.quizEyebrow.textContent = t("quizEyebrow");
   elements.quizPlaceholder.textContent = t("quizPlaceholder");
   elements.prevLabel.textContent = t("prev");
@@ -787,6 +791,7 @@ function renderThemeButtons() {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "theme-btn";
+    btn.dataset.theme = item.id;
     if (state.selectedTheme === item.id) btn.classList.add("active");
     const dot = document.createElement("span");
     dot.className = "theme-dot";
@@ -796,7 +801,6 @@ function renderThemeButtons() {
     btn.append(dot, label);
     btn.addEventListener("click", () => {
       state.selectedTheme = item.id;
-      // adjust session size if needed
       if (!getAllowedSizes().includes(state.sessionSize)) {
         state.sessionSize = getAllowedSizes()[0];
       }
