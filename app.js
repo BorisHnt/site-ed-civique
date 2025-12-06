@@ -27,9 +27,9 @@ const i18n = {
     tooltipCorrect: "Bonne réponse",
     tooltipExplanation: "Pourquoi",
     sessionLabel: (size) => `Session ${size} questions`,
-    previewTitle: "Mode rapide",
-    previewDesc: "Corrections claires, inspiration material + fiches de révision.",
-    previewMode: "Light / Dark",
+  previewTitle: "Mode rapide",
+  previewDesc: "Corrections claires, inspiration material + fiches de révision.",
+  previewMode: "Light / Dark",
     wrongShort: "Faux",
     correctShort: "Juste",
     loading: "Chargement…",
@@ -65,9 +65,9 @@ const i18n = {
     tooltipCorrect: "Correct answer",
     tooltipExplanation: "Why",
     sessionLabel: (size) => `${size}-question run`,
-    previewTitle: "Quick mode",
-    previewDesc: "Clean corrections, material-inspired flashcard vibe.",
-    previewMode: "Light / Dark",
+  previewTitle: "Quick mode",
+  previewDesc: "Clean corrections, material-inspired flashcard vibe.",
+  previewMode: "Light / Dark",
     wrongShort: "Wrong",
     correctShort: "Right",
     loading: "Loading…",
@@ -91,9 +91,6 @@ const elements = {
   heroEyebrow: document.getElementById("hero-eyebrow"),
   heroTitle: document.getElementById("hero-title"),
   heroDesc: document.getElementById("hero-desc"),
-  previewTitle: document.getElementById("preview-title"),
-  previewDesc: document.getElementById("preview-desc"),
-  previewMode: document.getElementById("preview-mode"),
   quizEyebrow: document.getElementById("quiz-eyebrow"),
   quizTitle: document.getElementById("quiz-title"),
   quizBody: document.getElementById("quiz-body"),
@@ -759,9 +756,6 @@ function syncTexts() {
   elements.historyEyebrow.textContent = t("historyEyebrow");
   elements.historyTitle.textContent = t("historyTitle");
   elements.historyPlaceholder.textContent = t("historyEmpty");
-  elements.previewTitle.textContent = t("previewTitle");
-  elements.previewDesc.textContent = t("previewDesc");
-  elements.previewMode.textContent = t("previewMode");
 }
 
 function setActiveSessionButton(size) {
