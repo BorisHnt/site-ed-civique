@@ -465,18 +465,11 @@ function renderQuestion() {
 
   const question = state.session[state.currentIndex];
   const total = state.session.length;
-  elements.quizTitle.textContent = t("questionOf", state.currentIndex + 1, total);
+  setQuizTitleWithDot(t("questionOf", state.currentIndex + 1, total), question);
   elements.progressBadge.textContent = `${state.currentIndex + 1} / ${total}`;
 
   const container = document.createElement("div");
   container.className = "question-container";
-
-  if (state.selectedTheme === "mix") {
-    const dot = document.createElement("span");
-    dot.className = "question-dot";
-    dot.style.background = themeColors[question.category] || themeColors.mix;
-    container.appendChild(dot);
-  }
 
   const progress = document.createElement("div");
   progress.className = "progress";
@@ -669,7 +662,7 @@ function renderSummary() {
 
   summary.append(title, scoreRow, hint, grid, reviewBlock);
   elements.quizBody.appendChild(summary);
-  elements.quizTitle.textContent = t("summarySubtitle");
+  setQuizTitleWithDot(t("summarySubtitle"));
   elements.progressBadge.textContent = t("scoreOn", score, total);
   elements.nextLabel.textContent = t("start");
   elements.prevBtn.disabled = true;
@@ -763,6 +756,17 @@ function syncTexts() {
   elements.historyEyebrow.textContent = t("historyEyebrow");
   elements.historyTitle.textContent = t("historyTitle");
   elements.historyPlaceholder.textContent = t("historyEmpty");
+}
+
+function setQuizTitleWithDot(text, question) {
+  elements.quizTitle.textContent = "";
+  if (state.selectedTheme === "mix" && question?.category) {
+    const dot = document.createElement("span");
+    dot.className = "question-dot header-dot";
+    dot.style.background = themeColors[question.category] || themeColors.mix;
+    elements.quizTitle.appendChild(dot);
+  }
+  elements.quizTitle.appendChild(document.createTextNode(text || ""));
 }
 
 function setActiveSessionButton(size) {
