@@ -785,21 +785,11 @@ function renderThemeButtons() {
   if (!elements.themeSelector) return;
   const buttons = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
   if (!buttons.length) return;
-
   buttons.forEach((btn) => {
     const id = btn.dataset.theme || "mix";
     const dot = btn.querySelector(".theme-dot");
     if (dot) dot.style.background = themeColors[id] || themeColors.mix;
     btn.classList.toggle("active", state.selectedTheme === id);
-    btn.onclick = () => {
-      state.selectedTheme = id;
-      buttons.forEach((b) => b.classList.toggle("active", b.dataset.theme === id));
-      if (!getAllowedSizes().includes(state.sessionSize)) {
-        state.sessionSize = getAllowedSizes()[0];
-      }
-      setActiveSessionButton(state.sessionSize);
-      renderQuestion();
-    };
   });
 }
 
@@ -834,6 +824,20 @@ function init() {
   });
 
   setActiveSessionButton(state.sessionSize);
+
+  if (elements.themeSelector) {
+    elements.themeSelector.addEventListener("click", (e) => {
+      const btn = e.target.closest(".theme-btn");
+      if (!btn) return;
+      state.selectedTheme = btn.dataset.theme || "mix";
+      renderThemeButtons();
+      if (!getAllowedSizes().includes(state.sessionSize)) {
+        state.sessionSize = getAllowedSizes()[0];
+        setActiveSessionButton(state.sessionSize);
+      }
+      renderQuestion();
+    });
+  }
 
   elements.langFr.addEventListener("click", () => setLanguage("fr"));
   elements.langEn.addEventListener("click", () => setLanguage("en"));
