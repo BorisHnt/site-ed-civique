@@ -185,6 +185,14 @@ h3 { font-size: 18px; }
   margin-top: 8px;
 }
 
+.control-label {
+  width: 100%;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
 .session-selector {
   display: flex;
   gap: 8px;
