@@ -137,7 +137,7 @@ const themeColors = {
 };
 
 const themesList = [
-  { id: "mix", label: "Mix" },
+  { id: "mix", label: "Mix des thèmes" },
   { id: "Principes et symboles de la République", label: "Principes et symboles" },
   { id: "Institutions politiques et démocratie", label: "Institutions et démocratie" },
   { id: "Histoire de France", label: "Histoire de France" },
@@ -782,22 +782,6 @@ function setLanguageButtons() {
 }
 
 function renderThemeButtons() {
-  const existing = Array.from(elements.themeSelector.querySelectorAll(".theme-btn"));
-  if (existing.length) {
-    // hydrate existing buttons from HTML
-    existing.forEach((btn) => {
-      const id = btn.dataset.theme;
-      btn.querySelector(".theme-dot")?.style && (btn.querySelector(".theme-dot").style.background = themeColors[id] || "#ccc");
-      btn.classList.toggle("active", state.selectedTheme === id);
-      btn.onclick = () => {
-        state.selectedTheme = id;
-        renderThemeButtons();
-        setActiveSessionButton(state.sessionSize);
-        renderQuestion();
-      };
-    });
-    return;
-  }
   elements.themeSelector.innerHTML = "";
   themesList.forEach((item) => {
     const btn = document.createElement("button");

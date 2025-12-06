@@ -334,14 +334,14 @@ h3 { font-size: 18px; }
 .theme-btn {
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 12px 14px;
+  padding: 10px 12px;
   font-weight: 700;
   cursor: pointer;
   background: var(--card);
   color: var(--text);
-  min-width: 120px;
-  box-shadow: 0 8px 0 #d6defc;
-  transition: transform 0.1s ease, box-shadow 0.12s ease, border 0.12s ease, background 0.12s ease;
+  min-width: 130px;
+  box-shadow: none;
+  transition: transform 0.1s ease, box-shadow 0.12s ease, border 0.12s ease, background 0.12s ease, color 0.12s ease;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -355,10 +355,10 @@ h3 { font-size: 18px; }
 }
 
 .theme-btn.active {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
   border-color: transparent;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.16);
-  background: linear-gradient(120deg, var(--accent-blue), var(--accent-red));
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+  background: var(--accent-blue);
   color: #fff;
 }
 
