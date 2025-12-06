@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q161",
+    "prompt": "Quel est le numéro d’appel d’urgence pour contacter la police ou la gendarmerie en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "17"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "17. En composant le 17, on joint Police Secours ou la gendarmerie, pour signaler une infraction, un accident grave ou tout besoin d’intervention des forces de l’ordre. Ce numéro est accessible gratuitement 24h/24 depuis n’importe quel téléphone.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q162",
+    "prompt": "Quel numéro d’urgence permet d’appeler les pompiers (incendies, accidents de la route, secours d’urgence divers) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "18"
+      },
+      {
+        "key": "c",
+        "text": "17"
+      },
+      {
+        "key": "d",
+        "text": "114"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18. Le 18 permet de joindre les sapeurs-pompiers. Ce numéro gratuit est à composer en cas d’incendie, d’accident, de personne en danger ou bloquée, etc. Les pompiers peuvent intervenir pour les feux, les secours routiers et même en appui du SAMU pour des premiers soins d’urgence. (Le 15 correspond au SAMU médical, le 17 à la police ; le 114 est un numéro d’urgence par SMS pour les personnes malentendantes.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q163",
+    "prompt": "Quel numéro d’urgence médical peut-on composer pour obtenir une ambulance du SAMU en cas de détresse vitale ou d’accident grave ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15"
+      },
+      {
+        "key": "b",
+        "text": "17"
+      },
+      {
+        "key": "c",
+        "text": "18"
+      },
+      {
+        "key": "d",
+        "text": "112"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "15. En cas d’urgence médicale (malaise, traumatisme grave, détresse vitale…), on peut appeler le SAMU en composant le 15. Ce numéro gratuit met en relation avec un centre régulé par des médecins qui peuvent envoyer une ambulance médicalisée ou conseiller en attendant les secours. (À noter : le 15 est pour l’aide médicale urgente, distinct du 18 pompiers et du 17 police, même si tous coordonnent leurs actions.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q164",
+    "prompt": "Quel numéro d’urgence européen peut-on composer partout dans l’Union européenne pour être mis en relation avec les secours appropriés (police, pompiers ou ambulance) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "911"
+      },
+      {
+        "key": "b",
+        "text": "15"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "119"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "112. Le 112 est le numéro d’appel d’urgence valable dans toute l’UE. En composant le 112 depuis n’importe quel pays européen, on est mis en relation avec les services d’urgence locaux compétents. En France, un opérateur 112 oriente l’appel vers la police, les pompiers ou le SAMU selon la situation. (Le 911 est le numéro nord-américain ; 119 est utilisé pour d’autres services dans certains pays.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q165",
+    "prompt": "Quel document est obligatoire pour conduire une voiture en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Avoir une assurance"
+      },
+      {
+        "key": "b",
+        "text": "Un permis de conduire valide correspondant au véhicule"
+      },
+      {
+        "key": "c",
+        "text": "Une carte de groupe sanguin"
+      },
+      {
+        "key": "d",
+        "text": "Un passeport"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Toute personne qui conduit un véhicule motorisé doit posséder un permis de conduire valide correspondant à la catégorie de ce véhicule. Conduire sans permis est un délit. En France, on obtient le permis B (voiture) après examen à partir de 18 ans (17 ans en conduite accompagnée, mais la licence n’est active qu’à 18 ans). Il est également obligatoire d’avoir avec soi le certificat d’immatriculation (carte grise) du véhicule et une attestation d’assurance, mais le permis de conduire est le document personnel indispensable pour avoir le droit de prendre le volant.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q166",
+    "prompt": "L’assurance automobile est-elle obligatoire pour les véhicules en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, au minimum une assurance responsabilité civile (dite “au tiers”) est exigée pour tout véhicule motorisé"
+      },
+      {
+        "key": "b",
+        "text": "Seulement pour les voitures neuves"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est facultatif mais recommandé"
+      },
+      {
+        "key": "d",
+        "text": "Oui, sauf pour les deux-roues"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. Tout véhicule terrestre à moteur doit être assuré au minimum en responsabilité civile (assurance au tiers) couvrant les dommages causés à autrui. Conduire sans assurance est illégal et très risqué (en cas d’accident, le conducteur non-assuré doit indemniser lui-même les victimes et encourt des poursuites). Cette obligation s’impose aux voitures, motos, scooters, camions, etc. Rouler sans assurance peut entraîner de fortes amendes, une suspension de permis, voire la confiscation du véhicule.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q167",
+    "prompt": "À quoi sert la carte Vitale en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "C’est une carte bancaire qui sert à payer le médecin"
+      },
+      {
+        "key": "b",
+        "text": "C’est la carte d’assuré social qui sert à obtenir le remboursement des dépenses de santé"
+      },
+      {
+        "key": "c",
+        "text": "C’est une carte d’identité biométrique"
+      },
+      {
+        "key": "d",
+        "text": "Elle contient le dossier scolaire de l’enfant"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La carte Vitale est la carte délivrée par l’Assurance Maladie en France à chaque assuré social. Elle contient les renseignements administratifs (numéro de Sécurité sociale, régime d’affiliation…) et permet aux professionnels de santé de transmettre automatiquement les feuilles de soins pour que le patient soit remboursé de ses frais de santé. Grâce à la carte Vitale, le tiers payant est possible et on n’avance pas toujours l’intégralité des frais. (Elle ne contient pas d’informations médicales et n’a pas de photo, sauf carte Vitale 2 avec photo d’identité.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q168",
+    "prompt": "A-t-on le droit de fumer dans les lieux publics fermés (restaurants, bureaux, transports…) en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, partout"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais uniquement dans les restaurants"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est interdit dans tous les lieux publics clos ou couverts depuis 2007 (sauf emplacements réservés très spécifiques)"
+      },
+      {
+        "key": "d",
+        "text": "C’est toléré si la majorité des gens présents sont d’accord"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Il est interdit de fumer dans les lieux publics clos (établissements scolaires, transports en commun, entreprises, cafés, restaurants…) depuis la loi Évin de 1991 renforcée en 2007. Seules exceptions : des fumoirs éventuellement installés dans certains lieux selon des normes strictes, ou bien les espaces découverts en terrasse. Cette interdiction vise à protéger la population du tabagisme passif. Fumer illégalement dans un lieu clos expose à une amende.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q169",
+    "prompt": "Qu’est-ce que le Contrat d’Intégration Républicaine (CIR) que signe un étranger primo-arrivant en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un contrat de travail obligatoire pour les nouveaux arrivants"
+      },
+      {
+        "key": "b",
+        "text": "Un engagement signé avec l’Office français de l’immigration et de l’intégration (OFII) où l’étranger s’engage à suivre une formation civique et linguistique et à respecter les valeurs de la République"
+      },
+      {
+        "key": "c",
+        "text": "Un permis de séjour spécial pour travailleurs détachés"
+      },
+      {
+        "key": "d",
+        "text": "Un contrat pour obtenir la nationalité française automatiquement"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le CIR est un Contrat d’Intégration Républicaine proposé par l’OFII aux étrangers admis pour la première fois à séjourner durablement en France. En le signant, l’étranger s’engage à suivre les formations obligatoires (formation civique sur les valeurs françaises, éventuellement formation linguistique si son niveau de français est insuffisant) et à s’insérer dans la société française. L’État s’engage en retour à proposer ces formations et un accompagnement. Ce contrat d’un an, renouvelable une fois, vise à faciliter l’intégration des nouveaux arrivants dans le respect des valeurs républicaines.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q170",
+    "prompt": "Que gère la Caisse d’Allocations Familiales (CAF) en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le recouvrement des impôts, mis en place par le Trésor Public"
+      },
+      {
+        "key": "b",
+        "text": "Les aides financières aux familles et au logement (allocations familiales, aide au logement, etc.)"
+      },
+      {
+        "key": "c",
+        "text": "L’assurance maladie"
+      },
+      {
+        "key": "d",
+        "text": "Les inscriptions en crèche"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La CAF est un organisme de la Sécurité sociale qui verse les prestations familiales et sociales : par exemple les allocations familiales (selon le nombre d’enfants), les aides personnalisées au logement (APL), le RSA (revenu de solidarité active), la prime d’activité, l’allocation de rentrée scolaire, etc. Elle ne s’occupe pas de santé (rôle de l’Assurance Maladie) ni des impôts, mais soutient financièrement les ménages modestes ou ayant des enfants, afin de garantir la solidarité nationale.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q171",
+    "prompt": "Quel organisme public aide les demandeurs d’emploi à trouver du travail et verse éventuellement des allocations chômage en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Sécurité sociale"
+      },
+      {
+        "key": "b",
+        "text": "La Caisse des Dépôts"
+      },
+      {
+        "key": "c",
+        "text": "France Travail"
+      },
+      {
+        "key": "d",
+        "text": "La Chambre de commerce"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "France Travail est l’agence nationale chargée de l’emploi. Elle accompagne les chômeurs dans leur recherche (conseillers, offres d’emploi, formation) et gère l’indemnisation des demandeurs d’emploi éligibles (allocation chômage). Toute personne sans emploi peut s’inscrire à France Travail. L’organisme sert d’intermédiaire entre les entreprises qui recrutent et les personnes en recherche d’activité.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q172",
+    "prompt": "Quelle est la monnaie officielle utilisée en France pour les transactions courantes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le franc français"
+      },
+      {
+        "key": "b",
+        "text": "L’euro"
+      },
+      {
+        "key": "c",
+        "text": "Le dollar"
+      },
+      {
+        "key": "d",
+        "text": "La livre sterling"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’euro (€) est la monnaie officielle de la France depuis le 1er janvier 1999 (entrée en vigueur fiduciaire en 2002). Il a remplacé l’ancien franc français. La France fait partie de la zone euro qui comprend 20 pays européens utilisant cette monnaie commune. Les prix, salaires, comptes et transactions en France sont libellés en euros. (Options a, c, d : le franc n’est plus en vigueur, le dollar et la livre sont les monnaies américaine et britannique.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q173",
+    "prompt": "Quelle pièce d’identité est délivrée aux citoyens français et leur permet de prouver leur identité sur le territoire national et dans l’UE ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La carte nationale d’identité"
+      },
+      {
+        "key": "b",
+        "text": "La carte Vitale"
+      },
+      {
+        "key": "c",
+        "text": "Le permis de conduire"
+      },
+      {
+        "key": "d",
+        "text": "La carte d’électeur"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La carte nationale d’identité (au format carte plastique avec photo) est le principal document officiel permettant à un citoyen français de justifier de son identité. Elle est délivrée en mairie (valable 10 ans pour un mineur, 10 ou 15 ans pour un adulte selon les périodes). Elle n’est pas obligatoire, mais très utile. Elle permet de voyager dans l’UE et quelques pays voisins sans passeport. (Le permis de conduire peut servir de pièce d’identité dans la vie courante mais ce n’est pas sa fonction première. La carte Vitale n’est pas une pièce d’identité.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q174",
+    "prompt": "Quel jour de la semaine la plupart des commerces et services sont-ils fermés en France, en particulier hors des zones touristiques ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le lundi"
+      },
+      {
+        "key": "b",
+        "text": "Le samedi"
+      },
+      {
+        "key": "c",
+        "text": "Le dimanche"
+      },
+      {
+        "key": "d",
+        "text": "Le mercredi"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le dimanche est traditionnellement le jour de repos hebdomadaire en France. La plupart des commerces sont fermés le dimanche (sauf exceptions : boulangeries le matin, commerces alimentaires jusqu’à midi, zones touristiques ou dérogations). Les administrations et banques sont également fermées. Cette règle vient du repos dominical d’origine chrétienne, maintenu par le Code du travail. (Certains magasins ouvrent le dimanche en période de fêtes ou dans les grandes villes touristiques, mais en général c’est un jour calme pour le commerce.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q175",
+    "prompt": "Le port de la ceinture de sécurité est-il obligatoire pour les passagers d’une voiture en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Seulement à l’avant"
+      },
+      {
+        "key": "b",
+        "text": "Oui, à l’avant comme à l’arrière, pour tous les occupants d’un véhicule"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est laissé à l’appréciation de chacun"
+      },
+      {
+        "key": "d",
+        "text": "Obligatoire uniquement sur autoroute"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, le port de la ceinture est obligatoire pour tous les occupants d’une voiture (et véhicules assimilés), à l’avant comme à l’arrière, depuis les années 1990. Ne pas mettre sa ceinture est passible d’une amende (et le conducteur est responsable de ses passagers mineurs non attachés). Ce dispositif a fortement réduit la gravité des accidents de la route. De même, le port du casque est obligatoire pour les conducteurs et passagers de deux-roues motorisés.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q176",
+    "prompt": "Les élèves des écoles publiques peuvent-ils porter des signes religieux ostentatoires (visibles) en classe ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, toutes les tenues sont permises pour garantir une laïcité equitable pour tous"
+      },
+      {
+        "key": "b",
+        "text": "Non, la loi de 2004 interdit le port de signes ou tenues manifestant ostensiblement une appartenance religieuse à l’école publique"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais seulement le vendredi"
+      },
+      {
+        "key": "d",
+        "text": "Cela dépend de l’autorisation du directeur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Depuis la loi du 15 mars 2004, les signes religieux ostensibles (voile islamique, kippa, grand crucifix, turban sikh…) sont interdits à l’école, au collège et au lycée publics. Les élèves doivent donc respecter la neutralité religieuse de l’école laïque. Les signes discrets (petite croix, étoile de David. sont tolérés, mais toute tenue marquant ostensiblement une affiliation religieuse est proscrite durant les cours. (Cette loi ne s’applique pas à l’université, ni aux écoles privées, mais dans le primaire et le secondaire publics elle est stricte.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q177",
+    "prompt": "Toutes les fêtes religieuses (de n’importe quelle confession) sont-elles des jours fériés en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, chaque fête religieuse donne lieu à un jour férié national"
+      },
+      {
+        "key": "b",
+        "text": "Non, seulement certaines fêtes principalement d’origine chrétienne sont fériées (Noël, Toussaint, Pâques…). Les autres fêtes religieuses ne sont pas chômées officiellement"
+      },
+      {
+        "key": "c",
+        "text": "Seules les fêtes musulmanes sont fériées"
+      },
+      {
+        "key": "d",
+        "text": "Aucune fête religieuse n’est fériée"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non. Le calendrier des jours fériés en France est issu de la tradition principalement catholique : Noël (25 décembre), Toussaint (1er novembre), lundi de Pâques, Ascension, Assomption (15 août) sont fériés, de même que certaines fêtes civiles (1er mai, 14 juillet, etc.). En revanche, les fêtes des autres religions (Aïd, Yom Kippour, Divali, etc.) ne sont pas des jours fériés officiels – les personnes qui les célèbrent doivent poser un jour de congé ou s’arranger avec leur employeur/école si elles souhaitent les observer. (L’Alsace-Moselle a deux jours fériés supplémentaires (Vendredi saint et 26 décembre) pour des raisons historiques concordataires.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q178",
+    "prompt": "Le mariage civil à la mairie est-il obligatoire pour qu’un mariage soit reconnu par la loi française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, un mariage religieux suffit"
+      },
+      {
+        "key": "b",
+        "text": "Non, deux témoins peuvent suffire à valider un mariage"
+      },
+      {
+        "key": "c",
+        "text": "Oui, seul le mariage civil républicain confère un statut légal aux époux"
+      },
+      {
+        "key": "d",
+        "text": "Oui, sauf si on se marie à l’étranger"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Oui, en France seul le mariage civil en mairie a une valeur légale. Une cérémonie religieuse éventuellement célébrée doit impérativement être précédée d’un mariage civil (sinon elle n’a aucune existence juridique). Les autorités religieuses ne peuvent procéder au mariage qu’après la présentation du certificat de mariage civil. Ainsi, tout couple qui souhaite être reconnu comme marié par la loi doit passer par la mairie devant un officier d’état civil.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q179",
+    "prompt": "Le mariage forcé (sans consentement libre d’un des époux) est-il autorisé par la loi française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, s’il est validé par la famille"
+      },
+      {
+        "key": "b",
+        "text": "Non, mais il n’y a pas de recours juridique"
+      },
+      {
+        "key": "c",
+        "text": "Non, il est illégal : un mariage sans consentement est nul et constitue une infraction"
+      },
+      {
+        "key": "d",
+        "text": "Oui, dans certaines cultures cela prime sur la loi"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Un mariage conclu sans le consentement libre des deux époux est nul juridiquement. En France, le mariage nécessite le consentement libre et éclairé de chaque conjoint devant l’officier d’état civil. Contraindre quelqu’un à se marier (mariage forcé) est non seulement interdit, mais c’est aussi considéré comme un délit (acte de violence ou de contrainte) sanctionné pénalement. Toute personne victime d’un mariage forcé peut en demander l’annulation en justice et les auteurs des pressions peuvent être poursuivis.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q180",
+    "prompt": "Quel est l’âge minimum légal pour se marier en France, pour les hommes comme pour les femmes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "15 ans"
+      },
+      {
+        "key": "b",
+        "text": "16 ans"
+      },
+      {
+        "key": "c",
+        "text": "18 ans"
+      },
+      {
+        "key": "d",
+        "text": "21 ans"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "18 ans. Depuis 2006, l’âge légal du mariage est fixé à 18 ans pour les deux sexes (auparavant 15 ans pour les filles et 18 ans pour les garçons, ce n’est plus le cas). Des exceptions très rares peuvent être accordées par le procureur de la République pour des motifs graves, avec le consentement des parents du mineur, mais hormis ces cas exceptionnels, on ne peut plus se marier avant 18 ans en France.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q181",
+    "prompt": "Après combien d’années de résidence en France un étranger peut-il en général demander la nationalité française (par naturalisation) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "2 ans"
+      },
+      {
+        "key": "b",
+        "text": "5 ans"
+      },
+      {
+        "key": "c",
+        "text": "10 ans"
+      },
+      {
+        "key": "d",
+        "text": "20 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "5 ans de résidence habituelle en France sont le délai de droit commun pour pouvoir demander la naturalisation française. Il faut en outre être en situation régulière et répondre à d’autres critères (intégration, ressources, casier judiciaire vierge, etc.). Ce délai de stage peut être réduit à 2 ans dans certains cas (par exemple obtention d’un diplôme d’un établissement français, services rendus importants). Il existe aussi d’autres modes d’acquisition de la nationalité (mariage avec un Français après 4 ans de vie commune, naissance et résidence en France, etc.), mais pour la naturalisation classique par décret, c’est généralement après 5 ans de séjour régulier.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q182",
+    "prompt": "Peut-on conserver sa nationalité d’origine en devenant français (double nationalité) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, il faut renoncer à sa nationalité précédente et devenir uniquement Français"
+      },
+      {
+        "key": "b",
+        "text": "Oui, la France admet la double nationalité : on peut être français et garder une autre nationalité"
+      },
+      {
+        "key": "c",
+        "text": "Oui, sauf pour les pays de l’Union européenne"
+      },
+      {
+        "key": "d",
+        "text": "Seulement si on l’indique dans le décret"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, la France autorise la double nationalité. Lorsqu’un étranger acquiert la nationalité française, on ne lui demande pas de renoncer à sa nationalité d’origine (sauf si la loi de son pays d’origine l’y oblige, ce qui relève de ce pays). Ainsi, de nombreux Français sont binationaux. La double nationalité est admise en droit français depuis longtemps. (Par exemple, un Marocain naturalisé français reste Marocain selon le droit marocain et devient aussi Français, avec les droits et devoirs attachés aux deux statuts.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q183",
+    "prompt": "Travailler « au noir » (sans déclaration ni contrat) est-il autorisé en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, si le salarié est d’accord"
+      },
+      {
+        "key": "b",
+        "text": "Non, le travail dissimulé est illégal et sanctionné tant pour l’employeur que pour le travailleur"
+      },
+      {
+        "key": "c",
+        "text": "Toléré uniquement dans les petits métiers"
+      },
+      {
+        "key": "d",
+        "text": "Autorisé pour les personnes non qualifiées"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non. Le travail non déclaré (dissimulé) est strictement interdit en France. Un employeur qui emploie au noir s’expose à de lourdes sanctions (amendes, redressements URSSAF, peines de prison en cas de récidive). Le travailleur « au noir » n’a aucune protection sociale en cas d’accident ou chômage et s’expose aussi à des sanctions. Il est donc impératif de déclarer toute activité professionnelle, ne serait-ce que pour bénéficier des droits (assurance maladie, cotisation retraite, etc.) et respecter la loi fiscale et sociale.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q184",
+    "prompt": "Un enfant né en France de parents étrangers obtient-il automatiquement la nationalité française à la naissance ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, le droit du sol s’applique immédiatement"
+      },
+      {
+        "key": "b",
+        "text": "Non, pas automatiquement à la naissance – il pourra en faire la demande à sa majorité (18 ans) s’il a grandi en France"
+      },
+      {
+        "key": "c",
+        "text": "Oui, s’il est né en France métropolitaine (pas en outre-mer)"
+      },
+      {
+        "key": "d",
+        "text": "Non, il ne pourra jamais l’obtenir"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, un enfant né en France de parents étrangers n’est pas français à la naissance, sauf cas particuliers (parents inconnus ou apatrides). Toutefois, grâce au droit du sol différé, cet enfant pourra devenir français à 18 ans à condition d’avoir vécu en France une partie de son enfance et de son adolescence (au moins 5 ans depuis l’âge de 11 ans). Il peut même être déclaré français dès 13 ans ou 16 ans par anticipation sous certaines conditions. C’est automatique à 18 ans s’il remplit les critères de résidence, sinon il peut en faire la demande. (On appelle cela la « double droit du sol » ou naturalisation par déclaration.)",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q185",
+    "prompt": "Qu’est-ce que le PACS (Pacte Civil de Solidarité) en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une cérémonie religieuse"
+      },
+      {
+        "key": "b",
+        "text": "Une union civile contractuelle entre deux personnes pour organiser leur vie commune, alternative au mariage"
+      },
+      {
+        "key": "c",
+        "text": "Un contrat de travail solidaire"
+      },
+      {
+        "key": "d",
+        "text": "Un examen de citoyenneté"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le PACS est un contrat d’union civile établi en 1999. C’est un Pacte Civil de Solidarité que peuvent conclure deux personnes majeures, de même sexe ou de sexe différent, pour organiser leur vie commune (régime légal de patrimoine, devoir d’assistance, etc.), sans se marier. Le PACS se conclut devant un officier d’état civil en mairie ou un notaire. Il confère certains droits (fiscalité commune, droits sociaux…) mais moins que le mariage (pas de droit à la pension de réversion, pas d’adoption conjointe directe, etc.). C’est une alternative plus souple au mariage, et on peut ensuite dissoudre facilement le PACS ou le transformer en mariage si on le souhaite.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q186",
+    "prompt": "Les citoyens de l’Union européenne résidant en France peuvent-ils voter aux élections en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, à toutes les élections"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais seulement aux élections municipales et aux élections européennes"
+      },
+      {
+        "key": "c",
+        "text": "Non, aucun étranger ne peut voter en France"
+      },
+      {
+        "key": "d",
+        "text": "Oui, mais uniquement s’ils obtiennent un récépissé préfectoral"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, les citoyens d’un autre pays de l’UE habitant en France peuvent voter aux élections municipales et européennes organisées en France, et même s’y présenter comme conseillers municipaux ou députés européens. En revanche, ils ne peuvent pas voter aux élections nationales (présidentielle, législatives, référendums nationaux) ni aux élections régionales ou départementales. Ce droit de vote local découle des traités européens (principe de citoyenneté de l’Union). Par exemple, un citoyen belge résidant à Lyon peut voter aux municipales de Lyon et élire les eurodéputés français, mais pas participer à l’élection du président français.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q187",
+    "prompt": "Les étrangers non européens peuvent-ils voter aux élections en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, à toutes les élections"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais seulement aux élections locales"
+      },
+      {
+        "key": "c",
+        "text": "Non, les ressortissants étrangers hors UE n’ont pas le droit de vote en France"
+      },
+      {
+        "key": "d",
+        "text": "Oui, s’ils résident depuis plus de 10 ans"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Non, contrairement aux citoyens européens pour les municipales/Européennes, les étrangers non communautaires n’ont pas le droit de vote en France. Pour pouvoir voter aux élections françaises, un étranger doit d’abord obtenir la nationalité française. (Il y a parfois des débats sur accorder le droit de vote local aux résidents étrangers, mais à ce jour ce n’est pas en vigueur.) Donc un Américain ou un Marocain résident en France ne peut voter à aucune élection française tant qu’il n’est pas devenu français.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q188",
+    "prompt": "Le mariage avec un Français ou une Française donne-t-il automatiquement la nationalité française au conjoint étranger ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, ce n’est pas automatique : le conjoint étranger peut la demander après un délai (en général 4 ans de mariage et de vie commune)"
+      },
+      {
+        "key": "b",
+        "text": "Oui, dès la célébration du mariage on devient français"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais uniquement si on renonce à sa nationalité d’origine"
+      },
+      {
+        "key": "d",
+        "text": "Non, il ne peut jamais la demander"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Non, épouser un Français ne confère pas instantanément la nationalité. Cependant, après 4 ans de mariage et de vie commune (délai porté à 5 ans si le couple n’a pas vécu en France au moins 3 ans), le conjoint étranger peut faire une demande de nationalité française par déclaration. Il doit prouver une communauté de vie stable et une assimilation suffisante (maîtrise de la langue, adhésion aux valeurs). Si les conditions sont remplies (et en l’absence d’arrêté d’opposition du Gouvernement), la nationalité est accordée. Mais sans cette démarche volontaire, un mariage n’entraîne pas la nationalité automatiquement – un étranger peut rester étranger tout en étant marié à un Français.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q189",
+    "prompt": "Le droit d’asile (accueillir sur le sol français les étrangers persécutés dans leur pays) est-il reconnu par la Constitution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, la France « offre asile » à toute personne persécutée pour la liberté, selon le Préambule de 1946"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais uniquement pour les Européens"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est juste une décision politique au cas par cas"
+      },
+      {
+        "key": "d",
+        "text": "Non, la Constitution n’en parle pas"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui, le droit d’asile est un principe à valeur constitutionnelle en France. Le Préambule de la Constitution de 1946, intégré à celle de 1958, stipule que « tout homme persécuté en raison de son action en faveur de la liberté a droit d’asile sur les territoires de la République ». Ainsi, toute personne menacée de persécutions peut demander l’asile en France. Si sa demande est jugée légitime (par l’OFPRa., elle obtient le statut de réfugié ou de protégé subsidiaire, avec le droit de rester en France en sécurité. Ce principe est un engagement humanitaire fort de la République.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q190",
+    "prompt": "Quel niveau de connaissance du français est requis en 2025 pour un étranger demandant la nationalité française par naturalisation ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Aucun, la langue n’est pas un critère"
+      },
+      {
+        "key": "b",
+        "text": "Niveau A1 (débutant) suffisant, pour connaître la base des formules de politesse"
+      },
+      {
+        "key": "c",
+        "text": "Niveau B1 du Cadre européen (niveau intermédiaire, capacité à tenir une conversation courante)"
+      },
+      {
+        "key": "d",
+        "text": "Parfait bilinguisme exigé (niveau C2)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Un niveau B1 oral et écrit est exigé (depuis 2020) pour la naturalisation par décret. Cela correspond à un niveau intermédiaire de maîtrise du français : pouvoir comprendre et participer à une conversation de la vie quotidienne, se débrouiller dans la plupart des situations, et rédiger un texte simple. Le demandeur doit fournir un diplôme ou une attestation de test de français prouvant ce niveau (sauf exceptions comme les personnes francophones natives de certains pays). Ce critère garantit que les nouveaux citoyens puissent s’intégrer et participer à la communauté nationale. Le niveau B1 est exigé par rapport au Cadre européen commun de référence pour les langues (CECRL).",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q191",
+    "prompt": "Quel numéro d’urgence sociale peut composer une personne sans abri pour être orientée vers un hébergement d’urgence (Samu social) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "115"
+      },
+      {
+        "key": "b",
+        "text": "15"
+      },
+      {
+        "key": "c",
+        "text": "112"
+      },
+      {
+        "key": "d",
+        "text": "119"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "115. Le 115 est le numéro d’urgence sociale accessible 24h/24 pour les personnes sans domicile ou en détresse sociale.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q192",
+    "prompt": "À quoi sert la Sécurité sociale en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "À payer la dette de l’État"
+      },
+      {
+        "key": "b",
+        "text": "À assurer la protection sociale des citoyens (maladie, retraite, famille)"
+      },
+      {
+        "key": "c",
+        "text": "À organiser les élections"
+      },
+      {
+        "key": "d",
+        "text": "À gérer les urgences médicales uniquement"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Sécurité sociale est le système de protection sociale français. Elle couvre notamment les risques maladie, maternité, invalidité, retraite et famille. Ainsi, elle permet à tous les citoyens d’être couverts en cas de maladie ou lorsqu’ils prennent leur retraite. Elle n’est pas un impôt, mais un système de cotisations et de prestations. La bonne réponse est (b) car la Sécurité sociale assure la protection sociale des individus.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q193",
+    "prompt": "Qu’est-ce que l’application mobile France Identité lancée en 2024 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une application officielle permettant de dématérialiser la carte d’identité et le permis de conduire sur smartphone"
+      },
+      {
+        "key": "b",
+        "text": "Une plateforme de paiement des impôts en ligne"
+      },
+      {
+        "key": "c",
+        "text": "Une carte Vitale dématérialisée pour l’assurance maladie"
+      },
+      {
+        "key": "d",
+        "text": "Une appli de réservation de billets de train"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "France Identité est une application officielle gratuite du gouvernement français. Elle permet à tout citoyen de disposer sur son téléphone d’une version numérique sécurisée de sa carte nationale d’identité et de son permis de conduire. Par exemple, les usagers peuvent présenter cette identité numérique lors d’un contrôle de titre de transport (TGV, Intercités) grâce à un QR code. La bonne réponse est (a) : France Identité sert à prouver son identité en ligne et en face-à-face via le s...",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q194",
+    "prompt": "Pourquoi faut-il trier ses déchets en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Pour recycler les matières et réduire la quantité de déchets à incinérer"
+      },
+      {
+        "key": "b",
+        "text": "Pour que la mairie gagne plus d’argent"
+      },
+      {
+        "key": "c",
+        "text": "Pour augmenter les impôts locaux"
+      },
+      {
+        "key": "d",
+        "text": "Pour nourrir les animaux sauvages"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le tri des déchets permet de séparer les matériaux recyclables (papier, plastique, verre, métal, etc.) des ordures ménagères. Grâce au tri sélectif, une partie des matières présentes dans les déchets peut être recyclée ou réutilisée. Cela réduit la quantité de déchets à enfouir ou à incinérer et économise des ressources naturelles. Par exemple, recycler le plastique ou le papier permet de fabriquer de nouveaux produits en consommant moins de matières premières. La bonne réponse est (a) car...",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q195",
+    "prompt": "Quel est l’âge de la majorité civile en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16 ans"
+      },
+      {
+        "key": "b",
+        "text": "18 ans"
+      },
+      {
+        "key": "c",
+        "text": "20 ans"
+      },
+      {
+        "key": "d",
+        "text": "21 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "En France, l’âge légal de la majorité civile est de 18 ans. C’est depuis 1974 que les personnes atteignent leur majorité à 18 ans (avant, c’était 21 ans). À 18 ans, on acquiert la capacité juridique pleine et entière : on vote, on signe des contrats seul, on peut être élu, etc. La bonne réponse est (b) 18 ans.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q196",
+    "prompt": "Qu’est-ce que la SNCF (Société Nationale des Chemins de fer Français) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’entreprise publique qui gère la majorité des trains (transport ferroviaire) en France"
+      },
+      {
+        "key": "b",
+        "text": "Une association nationale de protection du patrimoine culturel"
+      },
+      {
+        "key": "c",
+        "text": "Une banque publique chargée des prêts aux entreprises"
+      },
+      {
+        "key": "d",
+        "text": "Un syndicat de cheminots français"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La SNCF est l’entreprise ferroviaire publique française qui gère les chemins de fer et la circulation des trains sur le territoire. Elle assure notamment le transport des voyageurs (TGV, TER, Intercités) et des marchandises par train dans toute la France. Ce n’est ni une banque, ni une association culturelle, ni un syndicat. La bonne réponse est (a), car la SNCF est bien l’opérateur public en charge des trains en France.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q197",
+    "prompt": "Que représente le logo Nutri-Score sur les emballages alimentaires ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un classement nutritionnel de A (vert) à E (rouge) indiquant la qualité nutritionnelle du produit"
+      },
+      {
+        "key": "b",
+        "text": "Le label officiel français des produits 100% bio"
+      },
+      {
+        "key": "c",
+        "text": "L’étiquette de recyclage des emballages"
+      },
+      {
+        "key": "d",
+        "text": "La mention \"sans gluten\" ou \"sans lactose\""
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le Nutri-Score est un logo facultatif apposé sur certains produits alimentaires. Il se présente sous forme d’une échelle de 5 couleurs (du vert au rouge) associées aux lettres A, B, C, D, E. Le A vert indique la meilleure qualité nutritionnelle et le E rouge la moins bonne. Ce dispositif, lancé en 2017, aide à comparer rapidement la valeur nutritionnelle des aliments. Ainsi, la réponse correcte est (a) : le Nutri-Score signale la qualité nutritionnelle du produit.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q198",
+    "prompt": "Quel accord international sur le climat a été signé par la France en 2015 (COP21) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’Accord de Paris sur le climat"
+      },
+      {
+        "key": "b",
+        "text": "Le Protocole de Kyoto"
+      },
+      {
+        "key": "c",
+        "text": "Le Traité de Maastricht"
+      },
+      {
+        "key": "d",
+        "text": "L’Accord de Marrakech"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "En décembre 2015 à Paris (COP21), 196 pays ont adopté l’Accord de Paris sur le climat. Cet accord vise à limiter le réchauffement climatique bien en dessous de 2 °C par rapport à l’ère préindustrielle. Il succède au Protocole de Kyoto (1997) et est le plus récent grand accord mondial contre le changement climatique. La bonne réponse est (a) Accord de Paris.",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q199",
+    "prompt": "La TVA (taxe sur la valeur ajoutée) en France est :",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un impôt indirect sur la consommation calculé sur le prix hors taxes des biens et services"
+      },
+      {
+        "key": "b",
+        "text": "Une taxe sur le revenu des contribuables"
+      },
+      {
+        "key": "c",
+        "text": "Un impôt sur le patrimoine immobilier"
+      },
+      {
+        "key": "d",
+        "text": "Une cotisation de sécurité sociale"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La TVA est un impôt indirect supporté par le consommateur. Elle s’applique à presque tous les biens et services : son montant est calculé sur le prix de vente hors taxes et ajouté au prix final. En France, le taux normal de TVA est de 20 %. Autrement dit, la TVA est une taxe sur la consommation, et non un impôt sur le revenu ou le patrimoine. La bonne réponse est (a).",
+    "category": "Vie quotidienne et intégration en France"
+  },
+  {
+    "id": "q200",
+    "prompt": "Qu’est-ce que l’OFII (Office français de l’immigration et de l’intégration) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un organisme public chargé de l’accueil, de la formation civique et de l’intégration des étrangers en France"
+      },
+      {
+        "key": "b",
+        "text": "Un tribunal spécialisé dans les naturalisations"
+      },
+      {
+        "key": "c",
+        "text": "Une association de défense des droits des expatriés français"
+      },
+      {
+        "key": "d",
+        "text": "Un programme gouvernemental de soutien aux étudiants étrangers"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "L’OFII est un établissement public qui gère notamment l’accueil et l’intégration des étrangers en France. Il intervient lors de l’entrée en France (visa, accueil), pour le contrat d’intégration républicaine (formation linguistique et civique), l’accompagnement social des immigrés, et même le retour volontaire. Ce n’est pas un tribunal, ni une association. La bonne réponse est (a), car l’OFII est bien l’opérateur principal des politiques d’immigration et d’intégration en France. --------",
+    "category": "Vie quotidienne et intégration en France"
+  }
+]

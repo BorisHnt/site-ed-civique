@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q1",
+    "prompt": "Quel est la devise de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Liberté, Égalité, Fraternité"
+      },
+      {
+        "key": "b",
+        "text": "Unité, Justice, Liberté"
+      },
+      {
+        "key": "c",
+        "text": "Force, Honneur, Patrie"
+      },
+      {
+        "key": "d",
+        "text": "Liberté, Laïcité, Prosperité"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Liberté, Égalité, Fraternité. C’est la devise officielle de la France depuis la Révolution, affirmant les valeurs fondamentales de la République.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q2",
+    "prompt": "Sur quels bâtiments officiels peut-on lire la devise « Liberté, Égalité, Fraternité » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sur les édifices publics (mairies, écoles, tribunaux…)"
+      },
+      {
+        "key": "b",
+        "text": "Sur tous les immeubles privés"
+      },
+      {
+        "key": "c",
+        "text": "Uniquement sur les églises et cathédrales"
+      },
+      {
+        "key": "d",
+        "text": "Seulement au fronton du Palais de l’Élysée"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La devise républicaine est inscrite au fronton des bâtiments publics (mairies, écoles, bâtiments officiels), affirmant ainsi ces valeurs partout sur le territoire.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q3",
+    "prompt": "Quelles sont les trois couleurs du drapeau français et que représentent-elles ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Bleu, blanc et rouge – couleurs de Paris et de la monarchie"
+      },
+      {
+        "key": "b",
+        "text": "Bleu, blanc et vert – symbolisant la mer, la paix et l’espoir"
+      },
+      {
+        "key": "c",
+        "text": "Bleu, jaune et rouge – en référence au drapeau européen"
+      },
+      {
+        "key": "d",
+        "text": "Noir, blanc et rouge – couleurs historiques de la Gaule"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le drapeau tricolore est bleu, blanc, rouge, associant le bleu et le rouge (couleurs de Paris) au blanc (couleur traditionnelle de la monarchie) pour symboliser l’union entre le peuple et la nation.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q4",
+    "prompt": "Quel est l’hymne national de la France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Marseillaise"
+      },
+      {
+        "key": "b",
+        "text": "Le Chant des Partisans"
+      },
+      {
+        "key": "c",
+        "text": "La Parisienne"
+      },
+      {
+        "key": "d",
+        "text": "L’Ode à la Joie"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "L’hymne national français est « La Marseillaise », un chant révolutionnaire composé en 1792 par Rouget de Lisle pendant les guerres de la Révolution.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q5",
+    "prompt": "La figure allégorique qui représente la République française est une femme appelée Marianne. À quelle période de l’histoire son symbole est-il apparu ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sous le règne de Napoléon Bonaparte"
+      },
+      {
+        "key": "b",
+        "text": "Lors de la Révolution française"
+      },
+      {
+        "key": "c",
+        "text": "À l’époque de Charlemagne"
+      },
+      {
+        "key": "d",
+        "text": "Pendant la Première Guerre mondiale"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Marianne symbolise la République et ses valeurs depuis la Révolution française de 1789. Son image a remplacé celle des rois sur les sceaux officiels à cette époque.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q6",
+    "prompt": "Quelle est la date de la fête nationale en France, et que célèbre-t-on ce jour-là ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le 14 juillet, en souvenir de la Prise de la Bastille en 1789"
+      },
+      {
+        "key": "b",
+        "text": "Le 8 mai, commémorant la victoire de 1945"
+      },
+      {
+        "key": "c",
+        "text": "Le 11 novembre, en mémoire de l’armistice de 1918"
+      },
+      {
+        "key": "d",
+        "text": "Le 1er mai, fête de la Fédération"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La fête nationale française a lieu le 14 juillet. Elle célèbre la prise de la Bastille (14 juillet 1789), événement symbolique de la Révolution marquant la fin de l’absolutisme. Des défilés militaires et des feux d’artifice ont lieu chaque 14 Juillet en célébration de la liberté retrouvée.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q7",
+    "prompt": "Selon l’article 1er de la Constitution de 1958, la France est une République « indivisible, laïque, démocratique et sociale ». Lequel de ces mots ne fait pas partie des principes de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Indivisible"
+      },
+      {
+        "key": "b",
+        "text": "Laïque"
+      },
+      {
+        "key": "c",
+        "text": "Fédérale"
+      },
+      {
+        "key": "d",
+        "text": "Démocratique"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La France n’est pas une fédération d’États : elle est une République indivisible (État unitaire). La Constitution la qualifie de laïque, démocratique et sociale, mais pas de « fédérale » – ce terme ne figure pas dans sa définition.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q8",
+    "prompt": "Quelle est la langue officielle de la République française, d’après la Constitution ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le français"
+      },
+      {
+        "key": "b",
+        "text": "L’anglais"
+      },
+      {
+        "key": "c",
+        "text": "L’allemand"
+      },
+      {
+        "key": "d",
+        "text": "Aucune, la France n’a pas de langue officielle"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le français est la langue de la République, selon l’article 2 de la Constitution. Toutes les lois et documents officiels doivent donc être en français, langue qui symbolise l’unité de la nation.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q9",
+    "prompt": "La laïcité est un principe fondamental en France. Laquelle de ces affirmations est vraie concernant la laïcité française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’État ne reconnaît ni ne subventionne aucun culte, garantissant la neutralité religieuse de la puissance publique"
+      },
+      {
+        "key": "b",
+        "text": "L’État impose une religion officielle à la population"
+      },
+      {
+        "key": "c",
+        "text": "La laïcité oblige tous les citoyens à être athées"
+      },
+      {
+        "key": "d",
+        "text": "Seuls les cultes chrétiens sont autorisés dans l’espace public"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "En France, la laïcité implique que l’État est neutre et n’a aucune religion officielle, tout en garantissant la liberté de culte de chacun. La loi de 1905 prévoit la séparation des Églises et de l’État et l’absence de financement public des religions, ce qui assure l’égalité de tous devant la loi quelles que soient leurs croyances.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q10",
+    "prompt": "Quelle loi a établi la séparation des Églises et de l’État, posant le principe de la laïcité de la République ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La loi de 1905"
+      },
+      {
+        "key": "b",
+        "text": "La Déclaration de 1789"
+      },
+      {
+        "key": "c",
+        "text": "La Constitution de 1958"
+      },
+      {
+        "key": "d",
+        "text": "Le Code civil de 1804"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "C’est la loi du 9 décembre 1905 qui a instauré la laïcité en France, en mettant fin à la religion d’État. À partir de 1905, l’État ne salarie ni ne reconnaît aucun culte, et chacun peut pratiquer librement la religion de son choix ou n’en pratiquer aucune.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q11",
+    "prompt": "Que garantit la laïcité aux citoyens vivant en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La liberté de conscience, c’est-à-dire le droit de croire ou de ne pas croire, et l’égalité de tous devant la loi quelles que soient leurs convictions"
+      },
+      {
+        "key": "b",
+        "text": "L’obligation d’avoir une religion"
+      },
+      {
+        "key": "c",
+        "text": "La supériorité des lois religieuses sur les lois civiles"
+      },
+      {
+        "key": "d",
+        "text": "La pratique religieuse uniquement dans la sphère privée, aussi bien chez soi, que dans un lieu de culte privé"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La laïcité garantit à chacun la liberté de conscience, incluant le droit de pratiquer la religion de son choix ou de n’en pratiquer aucune, dans le respect de l’ordre public. Elle assure également l’égalité de tous devant la loi sans distinction de religion. (À noter : la liberté religieuse s’exerce dans la sphère publique tant qu’elle ne trouble pas l’ordre public.)",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q12",
+    "prompt": "Le Conseil constitutionnel a précisé en 2004 un principe important lié à la laïcité. Laquelle de ces règles a-t-il rappelée cette année-là ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Que les religions doivent dicter les règles de la vie publique"
+      },
+      {
+        "key": "b",
+        "text": "Que nul ne peut se prévaloir de ses croyances religieuses pour s’affranchir des règles communes"
+      },
+      {
+        "key": "c",
+        "text": "Que les croyants ont des droits supérieurs à ceux des non-croyants"
+      },
+      {
+        "key": "d",
+        "text": "Que la laïcité ne s’applique qu’à l’école"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "En 2004, le Conseil constitutionnel a rappelé que les lois de la République priment sur les convictions religieuses : personne ne peut invoquer sa religion pour se soustraire aux règles communes. Les croyances relèvent de la sphère privée et doivent respecter la loi commune.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q13",
+    "prompt": "Un parent demande que sa fille soit dispensée des cours d’éducation physique (sport) pour des raisons religieuses. Quelle réponse conforme aux principes de la République l’école doit-elle apporter ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Accorder une dispense permanente pour motif religieux"
+      },
+      {
+        "key": "b",
+        "text": "Remplacer le cours de sport par une autre activité chaque semaine"
+      },
+      {
+        "key": "c",
+        "text": "Refuser la dispense, car les enseignements obligatoires s’imposent à tous sans distinction"
+      },
+      {
+        "key": "d",
+        "text": "Laisser l’élève choisir les cours auxquels elle veut participer"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Tous les élèves doivent suivre les cours obligatoires, sans exception pour motifs religieux. La laïcité de l’école publique assure l’égalité devant l’instruction : aucune conviction particulière ne permet de se soustraire aux règles communes de l’Éducation nationale.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q14",
+    "prompt": "Dans la salle d’attente d’un hôpital public, un usager distribue des tracts à caractère religieux aux autres patients. Que doit faire le personnel de l’hôpital selon le principe de laïcité ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’autoriser, si les tracts sont pacifiques"
+      },
+      {
+        "key": "b",
+        "text": "L’autoriser, seulement s’il ne les remet qu’à des amis consentants"
+      },
+      {
+        "key": "c",
+        "text": "Interdire cette distribution prosélyte dans un lieu public neutre"
+      },
+      {
+        "key": "d",
+        "text": "Organiser un débat public sur le contenu des tracts"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Il faut faire cesser la distribution de tracts religieux dans la salle d’attente. Un service public se doit de rester neutre et laïc : on ne peut y faire de prosélytisme religieux auprès des usagers. Les usagers ont le droit à leurs convictions, mais sans perturber l’ordre ni la neutralité du service public.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q15",
+    "prompt": "Dans une entreprise privée, le règlement intérieur interdit le port de tout signe religieux ostensible pour des raisons de sécurité au travail. Est-ce légal ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, si la restriction est justifiée par la nature des tâches à accomplir (raisons objectives de sécurité)"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais uniquement pour certaines religions"
+      },
+      {
+        "key": "c",
+        "text": "Non, toute forme d’interdiction est discriminatoire"
+      },
+      {
+        "key": "d",
+        "text": "Non, la loi interdit toute restriction vestimentaire même pour des raisons de sécurité"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui, un employeur peut prévoir une limitation des tenues ou signes (religieux ou autres) pour des motifs légitimes, notamment de sécurité ou d’hygiène, à condition que la règle soit justifiée par la nature du travail et proportionnée au but recherché. Par exemple, exiger d’enlever des objets ou vêtements amples pouvant être dangereux sur une machine est légal. En revanche, une interdiction générale et absolue sans motif valable serait discriminatoire.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q16",
+    "prompt": "Un donneur de sang potentiel est refusé parce qu’il est homosexuel. Est-ce légal en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, pour des raisons morales"
+      },
+      {
+        "key": "b",
+        "text": "Oui, le personnel médical choisit librement ses donneurs"
+      },
+      {
+        "key": "c",
+        "text": "Non, les critères de sélection doivent reposer uniquement sur la sécurité sanitaire, sans discrimination"
+      },
+      {
+        "key": "d",
+        "text": "Non, mais uniquement si la personne est mariée"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Non. Refuser un don de sang au motif de l’orientation sexuelle du donneur est une discrimination interdite. Seuls des critères médicaux liés à la sécurité sanitaire du receveur peuvent justifier un refus (par exemple, certains facteurs de risque), mais en aucun cas l’orientation sexuelle du donneur. La loi impose l’égalité de traitement et l’absence de discrimination.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q17",
+    "prompt": "La liberté d’expression est un droit fondamental en France. Toutefois, a-t-on le droit de tout dire publiquement sans aucune limite ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, absolument tout est permis, c’est le principe de la liberté d’expression"
+      },
+      {
+        "key": "b",
+        "text": "Non, par exemple les propos incitant à la haine raciale ou religieuse sont interdits par la loi"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais seulement si on cite des personnages publics"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf si l’on s’exprime de façon anonyme"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La liberté d’expression est garantie, mais elle connaît des limites légales. En particulier, les injures, la diffamation ou l’incitation à la haine envers un groupe de personnes en raison de leur origine, religion, orientation sexuelle, etc., sont interdites et pénalement sanctionnées (loi sur la presse de 1881 et lois subséquentes). On peut donc s’exprimer librement, mais dans le respect de la loi et des droits d’autrui.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q18",
+    "prompt": "Qui doit respecter les lois de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Toutes les personnes se trouvant en France, qu’elles soient citoyennes ou étrangères"
+      },
+      {
+        "key": "b",
+        "text": "Uniquement les citoyens français"
+      },
+      {
+        "key": "c",
+        "text": "Uniquement les adultes (les mineurs ne sont pas concernés)"
+      },
+      {
+        "key": "d",
+        "text": "Seulement les agents de l’État"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Nul n’est au-dessus de la loi : toutes les personnes sur le sol français – citoyens, résidents, visiteurs – doivent respecter les lois de la République. Ce principe d’égalité devant la loi est fondamental pour garantir l’ordre public et la justice pour tous.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q19",
+    "prompt": "Lequel de ces symboles est officiel de la République française (inscrit dans la Constitution) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le drapeau tricolore bleu-blanc-rouge"
+      },
+      {
+        "key": "b",
+        "text": "Le coq gaulois"
+      },
+      {
+        "key": "c",
+        "text": "La fleur de lys"
+      },
+      {
+        "key": "d",
+        "text": "La Semeuse (figure sur certaines pièces)"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le drapeau bleu, blanc, rouge est nommé explicitement comme emblème national à l’article 2 de la Constitution. L’hymne La Marseillaise, la devise « Liberté, Égalité, Fraternité » et le principe de laïcité sont aussi des symboles officiels. En revanche, le coq gaulois est un symbole populaire et historique (notamment dans le sport), mais il n’a pas de statut officiel.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q20",
+    "prompt": "Quel texte fondamental adopté pendant la Révolution proclame les droits et libertés essentiels des citoyens français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Déclaration des Droits de l’Homme et du Citoyen de 1789"
+      },
+      {
+        "key": "b",
+        "text": "Le Code civil de 1804"
+      },
+      {
+        "key": "c",
+        "text": "La Charte de l’ONU de 1945"
+      },
+      {
+        "key": "d",
+        "text": "La Constitution de 1958"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La Déclaration des Droits de l’Homme et du Citoyen (DDHc. du 26 août 1789. Ce texte révolutionnaire énonce les droits naturels et imprescriptibles (liberté, propriété, sûreté, résistance à l’oppression) et sert de base aux valeurs républicaines. La Constitution française y fait référence et en garantit les principes.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q21",
+    "prompt": "Comment s’appelle le document que tout nouveau citoyen français doit signer pour affirmer son adhésion aux principes et valeurs de la République ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Charte des droits et devoirs du citoyen français"
+      },
+      {
+        "key": "b",
+        "text": "Le Code de la nationalité"
+      },
+      {
+        "key": "c",
+        "text": "Le Contrat d’Intégration Républicaine"
+      },
+      {
+        "key": "d",
+        "text": "Le Livret de famille"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La Charte des droits et devoirs du citoyen français est remise aux personnes qui acquièrent la nationalité. En la signant, le nouveau citoyen s’engage à respecter les valeurs républicaines et les lois de la France (et la Charte rappelle ses droits et devoirs en tant que Français).",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q22",
+    "prompt": "La France a-t-elle une religion officielle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, aucune religion n’est officielle, l’État est neutre envers tous les cultes"
+      },
+      {
+        "key": "b",
+        "text": "Oui, le catholicisme est religion d’État"
+      },
+      {
+        "key": "c",
+        "text": "Oui, le christianisme (protestant et catholique) est reconnu officiellement"
+      },
+      {
+        "key": "d",
+        "text": "Oui, toutes les religions reconnues par l’État sont financées publiquement"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Non, la France n’a plus de religion d’État depuis 1905. La République est laïque : elle ne reconnaît ni ne salarie aucun culte. L’État garantit la liberté de religion, mais reste neutre et n’en favorise aucune (sauf en Alsace-Moselle où subsiste un régime concordataire historique, seule exception limitée).",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q23",
+    "prompt": "En ramassant votre courrier, vous trouvez un portefeuille contenant de l’argent et la carte d’identité d’une personne que vous ne connaissez pas. Que devez-vous faire selon les lois et principes civiques ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le garder, « trouvaille = propriété »"
+      },
+      {
+        "key": "b",
+        "text": "Le cacher et attendre qu’on vous le réclame avec une récompense"
+      },
+      {
+        "key": "c",
+        "text": "Le rapporter sans tarder au commissariat de police ou à la mairie, afin qu’il soit restitué à son propriétaire"
+      },
+      {
+        "key": "d",
+        "text": "Le déposer devant la porte de l’immeuble"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Il faut rapporter l’objet trouvé aux autorités (police, gendarmerie ou mairie). Ne pas le faire peut être considéré comme un détournement de bien trouvé. Le civisme commande d’agir honnêtement. La personne ayant perdu son portefeuille pourra ainsi le récupérer grâce à votre démarche citoyenne.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q24",
+    "prompt": "Parmi ces actions, laquelle illustre le mieux la valeur de fraternité prônée par la République ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Faire du bénévolat pour aider des personnes en difficulté, par exemple dans une association caritative"
+      },
+      {
+        "key": "b",
+        "text": "Refuser toute aide aux autres pour « chacun pour soi »"
+      },
+      {
+        "key": "c",
+        "text": "Traiter différemment les gens selon leur origine"
+      },
+      {
+        "key": "d",
+        "text": "Ignorer ses voisins et vivre isolé"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La fraternité consiste à promouvoir la solidarité et l’entraide entre les citoyens. S’engager bénévolement pour aider autrui est un exemple concret de fraternité. Au contraire, l’égoïsme ou la discrimination vont à l’encontre de cette valeur républicaine de cohésion sociale et de respect mutuel.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q25",
+    "prompt": "Un agent du service public (par exemple un enseignant ou un policier en service) a-t-il le droit d’afficher ses convictions politiques ou religieuses pendant son travail ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, il peut exprimer librement ses opinions même en service"
+      },
+      {
+        "key": "b",
+        "text": "Non, il est tenu à un devoir de stricte neutralité dans l’exercice de ses fonctions"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais seulement si ses supérieurs sont d’accord"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf le jour de la fête nationale"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non. Les fonctionnaires et agents publics ont un devoir de neutralité : ils ne doivent pas manifester leurs opinions politiques ou religieuses dans l’exercice de leurs fonctions. Par exemple, un professeur d’école publique ne portera pas de signe religieux ostensible et un policier en uniforme n’exprimera pas d’opinion politique. Cela garantit l’impartialité du service public envers tous les usagers.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q26",
+    "prompt": "La laïcité concerne l’État et ses agents, mais qu’en est-il des usagers des services publics (citoyens) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Eux aussi doivent obligatoirement être neutres et sans aucun signe religieux"
+      },
+      {
+        "key": "b",
+        "text": "Eux conservent leur liberté de conviction : ils peuvent porter des signes religieux, tant qu’ils ne tentent pas d’imposer leurs règles et que l’ordre public est respecté"
+      },
+      {
+        "key": "c",
+        "text": "Ils doivent suivre la religion de la majorité"
+      },
+      {
+        "key": "d",
+        "text": "Ils ne peuvent accéder aux services publics que s’ils sont laïcs"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Les usagers des services publics gardent leur liberté religieuse : un patient d’hôpital ou un usager d’une mairie peut porter un signe religieux (croix, voile, turban…) s’il le souhaite. La neutralité s’impose aux agents du service public, pas aux usagers. Bien sûr, les usagers doivent respecter l’ordre public et ne pas troubler le fonctionnement normal du service par un prosélytisme abusif.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q27",
+    "prompt": "Quelle valeur de la devise « Liberté, Égalité, Fraternité » incite à la solidarité et à l’entraide entre citoyens ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Liberté"
+      },
+      {
+        "key": "b",
+        "text": "L’Égalité"
+      },
+      {
+        "key": "c",
+        "text": "La Fraternité"
+      },
+      {
+        "key": "d",
+        "text": "La Laïcité"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "C’est la Fraternité. Au-delà de la liberté individuelle et de l’égalité en droits, la fraternité ajoute une dimension de solidarité : se considérer comme membres d’une même communauté nationale, agir avec bienveillance et s’entraider. Elle s’exprime par exemple par la générosité, le bénévolat, la protection des plus vulnérables.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q28",
+    "prompt": "Quelle valeur républicaine garantit l’absence de discrimination et l’égalité de tous devant la loi ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Liberté"
+      },
+      {
+        "key": "b",
+        "text": "L’Égalité"
+      },
+      {
+        "key": "c",
+        "text": "La Tradition"
+      },
+      {
+        "key": "d",
+        "text": "La Fraternité"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "C’est le principe d’Égalité. Il assure que chaque citoyen est traité de la même façon par la loi, sans privilège ni discrimination. Ce principe implique l’égalité des droits civiques (même droit de vote, d’accès aux emplois publics, à l’éducation…) pour tous, indépendamment de l’origine, du sexe, de la religion, etc.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q29",
+    "prompt": "La Constitution et les lois françaises garantissent-elles l’égalité des femmes et des hommes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, absolument : les hommes et les femmes ont les mêmes droits dans tous les domaines (civils, politiques, économiques)"
+      },
+      {
+        "key": "b",
+        "text": "Oui, sauf pour le droit de vote"
+      },
+      {
+        "key": "c",
+        "text": "Non, les femmes ont moins de droits que les hommes"
+      },
+      {
+        "key": "d",
+        "text": "Non, cela dépend des religions de chacun"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. L’égalité entre les femmes et les hommes est un principe constitutionnel et légal en France. Par exemple, les femmes votent et peuvent être élues depuis 1944, toute discrimination fondée sur le sexe est interdite, et des lois imposent l’égalité professionnelle. Bien que des inégalités de fait puissent subsister, la loi, elle, ne fait aucune distinction et promeut l’égalité réelle.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q30",
+    "prompt": "Sur les représentations de Marianne, symbole de la République, quel objet porte-t-elle sur la tête ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une couronne royale"
+      },
+      {
+        "key": "b",
+        "text": "Un bonnet phrygien, coiffure emblématique de la liberté"
+      },
+      {
+        "key": "c",
+        "text": "Un voile tricolore"
+      },
+      {
+        "key": "d",
+        "text": "Un casque gaulois ailé"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Marianne est généralement représentée coiffée d’un bonnet phrygien rouge, symbole de la liberté et de l’émancipation depuis la Révolution française. Ce bonnet, porté dans l’Antiquité par les esclaves affranchis, est devenu durant la Révolution le signe de la liberté reconquise. On retrouve Marianne et son bonnet phrygien sur les statues de mairies et les logos officiels de la République.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q31",
+    "prompt": "Que signifie la liberté de conscience garantie en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Qu’on peut penser ce qu’on veut en privé, mais qu’on ne peut pas changer de religion"
+      },
+      {
+        "key": "b",
+        "text": "Qu’on est obligé de choisir une religion à sa majorité"
+      },
+      {
+        "key": "c",
+        "text": "Qu’on est libre de croire ou de ne pas croire, et d’adopter la religion ou les convictions de son choix"
+      },
+      {
+        "key": "d",
+        "text": "Qu’il est interdit d’avoir des convictions politiques ou philosophiques différentes"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La liberté de conscience signifie que chacun est libre d’avoir les convictions religieuses, spirituelles ou philosophiques de son choix – ou de n’en avoir aucune. C’est un droit fondamental proclamé dès 1789, qui va de pair avec la liberté d’expression et la laïcité de l’État. Chacun peut donc pratiquer une religion, en changer ou n’en pratiquer aucune sans pression de l’État, dans le respect des lois.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q32",
+    "prompt": "Ne pas porter secours à une personne en danger alors qu’on pourrait le faire sans risque, est-ce puni par la loi ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui. La non-assistance à personne en danger est un délit passible de sanctions"
+      },
+      {
+        "key": "b",
+        "text": "Non, c’est un choix moral mais pas une obligation légale"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais seulement si la personne en danger est un mineur"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf pour les professionnels de santé"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. Ne pas porter assistance à une personne en péril est un délit pénal (article 223-6 du Code pénal). Le devoir de fraternité a une traduction juridique : toute personne qui peut empêcher, sans danger pour elle, un dommage grave envers autrui doit le faire. Par exemple, alerter les secours en voyant un accident est une obligation civique et légale. Le non-respect de cette obligation est passible de 5 ans d’emprisonnement et 75 000 € d’amende.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q33",
+    "prompt": "L’État français reconnaît-il et respecte-t-il toutes les croyances religieuses de ses citoyens ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui. La laïcité implique le respect de toutes les croyances dans le cadre de la loi"
+      },
+      {
+        "key": "b",
+        "text": "L’État ne tolère que les croyances chrétiennes"
+      },
+      {
+        "key": "c",
+        "text": "Certaines religions sont interdites en France"
+      },
+      {
+        "key": "d",
+        "text": "L’État impose aux citoyens d’avoir une religion"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. La République assure le respect de toutes les croyances: chacun peut pratiquer librement sa religion ou n’en pratiquer aucune. L’État n’en privilégie ou n’en stigmatise aucune. Bien sûr, ce respect vaut dans la limite du respect des lois – toute pratique religieuse doit se conformer au droit (par exemple, les rites ne sauraient justifier un acte illégal).",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q34",
+    "prompt": "Dans la devise « indivisible, laïque, démocratique et sociale » de l’article 1ᵉʳ de la Constitution, que signifie le terme « indivisible » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Que la France est une fédération d’États"
+      },
+      {
+        "key": "b",
+        "text": "Que la souveraineté nationale est unique et ne peut être fragmentée"
+      },
+      {
+        "key": "c",
+        "text": "Que le pays est composé de plusieurs royaumes"
+      },
+      {
+        "key": "d",
+        "text": "Que chaque région est indépendante"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’indivisibilité signifie que la souveraineté appartient à la Nation tout entière et qu’aucune portion du territoire ne peut se prévaloir d’une autonomie politique.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q35",
+    "prompt": "Dans la Déclaration des Droits de l’Homme et du Citoyen de 1789, quel droit est qualifié d’ « inviolable et sacré » et ne peut être porté atteinte que pour cause d’utilité publique avec indemnité ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le droit à la résistance à l’oppression"
+      },
+      {
+        "key": "b",
+        "text": "Le droit de vote"
+      },
+      {
+        "key": "c",
+        "text": "Le droit de propriété"
+      },
+      {
+        "key": "d",
+        "text": "Le droit à l’éducation"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "L’article 17 de la Déclaration de 1789 affirme que la propriété est un droit inviolable et sacré, ne pouvant être supprimé que pour cause d’utilité publique moyennant une juste indemnité.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q36",
+    "prompt": "Selon l’article 2 de la Constitution de 1958, quels sont les trois symboles officiels de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Marianne, la cocarde et la Semeuse"
+      },
+      {
+        "key": "b",
+        "text": "Le drapeau tricolore, l’hymne national et la devise Liberté Égalité Fraternité"
+      },
+      {
+        "key": "c",
+        "text": "La fleur de lys, le coq et la monnaie euro"
+      },
+      {
+        "key": "d",
+        "text": "Les Armes de Paris, la Tour Eiffel et le bonnet phrygien"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’article 2 de la Constitution désigne comme symboles de la République le drapeau bleu‑blanc‑rouge, l’hymne national (*La Marseillaise*) et la devise « Liberté, Égalité, Fraternité  ».",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q37",
+    "prompt": "Quel objet coiffant Marianne est devenu un symbole de liberté depuis la Révolution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La couronne royale"
+      },
+      {
+        "key": "b",
+        "text": "Le chapeau de Napoléon"
+      },
+      {
+        "key": "c",
+        "text": "Le bonnet phrygien"
+      },
+      {
+        "key": "d",
+        "text": "Le béret basque"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le bonnet phrygien, porté par Marianne, est un symbole hérité de l’Antiquité qui représente la liberté et l’émancipation des peuples.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q38",
+    "prompt": "Quelle est la signification principale de la fraternité dans la devise « Liberté, Égalité, Fraternité » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’égalité de tous devant la loi"
+      },
+      {
+        "key": "b",
+        "text": "La solidarité et l’entraide entre les citoyens"
+      },
+      {
+        "key": "c",
+        "text": "La séparation de l’Église et de l’État"
+      },
+      {
+        "key": "d",
+        "text": "L’obéissance aux autorités"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La fraternité exprime la solidarité et la bienveillance entre les membres de la communauté nationale, complément indispensable à la liberté et à l’égalité.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q39",
+    "prompt": "Quelle institution veille à ce que les lois respectent la Constitution et peut être saisie par les parlementaires ou par des citoyens lors d’une question prioritaire de constitutionnalité ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Conseil d’État"
+      },
+      {
+        "key": "b",
+        "text": "Le Conseil constitutionnel"
+      },
+      {
+        "key": "c",
+        "text": "La Cour de cassation"
+      },
+      {
+        "key": "d",
+        "text": "Le Sénat"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Conseil constitutionnel contrôle la conformité des lois à la Constitution et protège les droits et libertés garantis par celle‑ci.",
+    "category": "Principes et symboles de la République"
+  },
+  {
+    "id": "q40",
+    "prompt": "Quelle affirmation décrit le mieux la séparation des pouvoirs dans la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Tous les pouvoirs sont concentrés dans les mains du Président"
+      },
+      {
+        "key": "b",
+        "text": "Les pouvoirs exécutif, législatif et judiciaire sont indépendants et se contrôlent mutuellement"
+      },
+      {
+        "key": "c",
+        "text": "Le pouvoir législatif dirige le pouvoir exécutif"
+      },
+      {
+        "key": "d",
+        "text": "Le pouvoir judiciaire prend toutes les décisions politiques"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le principe de séparation des pouvoirs veut que l’exécutif (Président et Gouvernement), le législatif (Parlement) et le judiciaire soient distincts, afin de garantir les libertés et d’éviter l’arbitraire. --------",
+    "category": "Principes et symboles de la République"
+  }
+]

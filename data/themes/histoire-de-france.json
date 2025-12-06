@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q81",
+    "prompt": "Que s’est-il passé le 14 juillet 1789 en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’abolition de la monarchie par Napoléon Bonaparte"
+      },
+      {
+        "key": "b",
+        "text": "La prise de la Bastille, événement marquant le début de la Révolution française"
+      },
+      {
+        "key": "c",
+        "text": "Le couronnement de Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "La déclaration de la Première Guerre mondiale"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le 14 juillet 1789, les Parisiens ont pris d’assaut la forteresse de la Bastille, prison royale symbolisant l’arbitraire du pouvoir. Cet événement déclencheur de la Révolution française est commémoré comme la fête nationale, car il symbolise la fin de l’Ancien Régime absolu.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q82",
+    "prompt": "En quelle année a débuté la Révolution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1776"
+      },
+      {
+        "key": "b",
+        "text": "1815"
+      },
+      {
+        "key": "c",
+        "text": "1789"
+      },
+      {
+        "key": "d",
+        "text": "1792"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "1789 est l’année du début de la Révolution française. Elle est marquée par des événements majeurs : la convocation des États généraux et le Serment du Jeu de Paume (juin 1789), la prise de la Bastille (14 juillet 1789) et la Déclaration des Droits de l’Homme et du Citoyen (26 août 1789). (À noter : 1776 correspond à la Déclaration d’indépendance américaine ; 1792 est l’an I de la République suite à la chute de la monarchie.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q83",
+    "prompt": "Quel roi était sur le trône lors de la Révolution de 1789 et fut renversé par elle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Louis XIV"
+      },
+      {
+        "key": "b",
+        "text": "Louis XV"
+      },
+      {
+        "key": "c",
+        "text": "Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "Charles X"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Louis XVI régnait en 1789 pendant le déclenchement de la Révolution. Il fut le dernier roi de l’Ancien Régime : la monarchie absolue a vacillé en 1789 et Louis XVI a été finalement destitué, jugé puis guillotiné en 1793 pendant la Terreur.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q84",
+    "prompt": "Qui était Louis XIV, surnommé le « Roi-Soleil » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un roi de France du XVIIe siècle, symbole de la monarchie absolue"
+      },
+      {
+        "key": "b",
+        "text": "Un empereur romain ayant régné sur toutes les Gaules"
+      },
+      {
+        "key": "c",
+        "text": "Un héros de la Révolution française de 1789"
+      },
+      {
+        "key": "d",
+        "text": "Un président de la IIIe République"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Louis XIV (1638-1715) fut roi de France pendant 72 ans (de 1643 à 1715), incarnation de la monarchie absolue de droit divin. Surnommé le « Roi-Soleil », il a construit le château de Versailles et centralisé le pouvoir autour de sa personne. Son règne, le plus long de l’histoire de France, a fortement marqué le pays par son rayonnement culturel et ses guerres. (Options b, c, d sont incorrectes – Louis XIV n’est pas révolutionnaire ni président évidemment.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q85",
+    "prompt": "Sous le règne de quel roi le château de Versailles a-t-il été construit et embelli pour devenir la résidence principale de la cour ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sous Louis XIV"
+      },
+      {
+        "key": "b",
+        "text": "Sous Napoléon Ier"
+      },
+      {
+        "key": "c",
+        "text": "Sous Louis XVI"
+      },
+      {
+        "key": "d",
+        "text": "Sous François Ier"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Louis XIV est le roi qui a fait agrandir et embellir le château de Versailles dans les années 1660-1680. Il en a fait le siège de sa cour à partir de 1682. Versailles est devenu le symbole du faste de la monarchie absolue. (Louis XVI y résidait encore en 1789, mais c’est bien Louis XIV qui a fait de Versailles ce palais grandiose.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q86",
+    "prompt": "Quel texte fondamental de 1789 proclame que « les hommes naissent et demeurent libres et égaux en droits » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Déclaration des Droits de l’Homme et du Citoyen (DDHc. de 1789"
+      },
+      {
+        "key": "b",
+        "text": "La Constitution civile du clergé"
+      },
+      {
+        "key": "c",
+        "text": "L’Édit de Nantes promulgué par le roi de France Henri IV"
+      },
+      {
+        "key": "d",
+        "text": "Le Code Napoléon, qui regroupe les lois relatives au droit civil français"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Cette phrase figure dans l’article 1er de la Déclaration des Droits de l’Homme et du Citoyen du 26 août 1789. Ce texte, adopté pendant la Révolution, énonce les droits naturels universels (liberté, égalité, sûreté, etc.) et sert de fondement à nos lois. La DDHC fait partie du patrimoine constitutionnel français.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q87",
+    "prompt": "En quelle année le suffrage universel (masculin) a-t-il été instauré en France pour la première fois ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1789"
+      },
+      {
+        "key": "b",
+        "text": "1848"
+      },
+      {
+        "key": "c",
+        "text": "1944"
+      },
+      {
+        "key": "d",
+        "text": "1962"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "1848. Sous la Deuxième République naissante, un décret de mars 1848 instaure le suffrage universel masculin (tous les hommes citoyens de plus de 21 ans peuvent voter, sans condition de cens). C’est un progrès considérable par rapport au suffrage censitaire antérieur. (Le suffrage devient réellement universel hommes-femmes en 1944 – option c – lorsque les femmes obtiennent enfin le droit de vote).",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q88",
+    "prompt": "En quelle année l’esclavage a-t-il été aboli définitivement en France (dans les colonies françaises) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1789"
+      },
+      {
+        "key": "b",
+        "text": "1848"
+      },
+      {
+        "key": "c",
+        "text": "1948"
+      },
+      {
+        "key": "d",
+        "text": "1794"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "1848. Bien que la Convention ait déjà aboli l’esclavage en 1794, Napoléon l’avait rétabli en 1802. L’abolition définitive de l’esclavage dans les colonies françaises est l’œuvre de la Deuxième République : le décret du 27 avril 1848, préparé par Victor Schoelcher, met fin à l’esclavage. Plus de 250 000 esclaves ont ainsi été libérés en 1848 dans les colonies françaises (Martinique, Guadeloupe, Guyane, Réunion…).",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q89",
+    "prompt": "Qui était Jules Ferry (1832-1893) et quelle réforme majeure a-t-il portée ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un général de Napoléon"
+      },
+      {
+        "key": "b",
+        "text": "Un homme d’État de la IIIe République, connu pour avoir rendu l’école primaire gratuite, laïque et obligatoire en 1881-1882"
+      },
+      {
+        "key": "c",
+        "text": "Un scientifique ayant découvert le vaccin contre la rage"
+      },
+      {
+        "key": "d",
+        "text": "Un révolutionnaire de 1848 qui a aboli l’esclavage"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Jules Ferry était un ministre de l’Instruction publique sous la IIIe République. Il est l’artisan des lois de 1881-1882 qui ont instauré l’enseignement primaire gratuit, laïque et obligatoire en France. Ces lois scolaires, dites lois Ferry, ont permis à tous les enfants (garçons et filles) de 6 à 13 ans d’accéder à une éducation commune, gratuite et neutre religieusement – un pilier de la République. (Option d : l’abolition de l’esclavage en 1848 est due à Schoelcher.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q90",
+    "prompt": "Que symbolise la prise de la Bastille le 14 juillet 1789 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La fin de la Première Guerre mondiale"
+      },
+      {
+        "key": "b",
+        "text": "La fin de l’arbitraire royal et le début de la liberté conquise par le peuple"
+      },
+      {
+        "key": "c",
+        "text": "La victoire de Napoléon à Austerlitz"
+      },
+      {
+        "key": "d",
+        "text": "Le départ du roi en exil"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Bastille était une prison royale où l’on enfermait arbitrairement des opposants sur lettre de cachet. Sa prise le 14 juillet 1789 symbolise la chute du despotisme et la libération du peuple de l’arbitraire royal. C’est le premier acte populaire fort de la Révolution, marquant la fin de la peur du pouvoir absolu et le passage vers une société de citoyens libres.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q91",
+    "prompt": "Qui fut le premier président de la Ve République française, prenant ses fonctions en 1959 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Valéry Giscard d’Estaing"
+      },
+      {
+        "key": "b",
+        "text": "Charles de Gaulle"
+      },
+      {
+        "key": "c",
+        "text": "René Coty"
+      },
+      {
+        "key": "d",
+        "text": "Philippe Pétain"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le général Charles de Gaulle a été le premier Président de la Ve République, élu en décembre 1958 (il a pris ses fonctions en janvier 1959). Artisan de la nouvelle Constitution de 1958, il a fondé la Ve République après la crise de mai 1958. René Coty (option c. était le dernier président de la IVe République et a fait appel à De Gaulle en 1958. De Gaulle a présidé la France jusqu’en 1969.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q92",
+    "prompt": "Quand a eu lieu la Première Guerre mondiale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "De 1914 à 1918"
+      },
+      {
+        "key": "b",
+        "text": "De 1939 à 1945"
+      },
+      {
+        "key": "c",
+        "text": "En 1870-1871"
+      },
+      {
+        "key": "d",
+        "text": "De 1792 à 1799"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La Première Guerre mondiale s’est déroulée de 1914 à 1918. Elle a commencé en août 1914 et s’est terminée par l’armistice du 11 novembre 1918. Ce conflit mondial a opposé principalement la France et ses alliés (Triple-Entente) à l’Allemagne et ses alliés (Triplice). (Option b correspond à la Seconde Guerre mondiale ; 1870-1871 est la guerre franco-prussienne.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q93",
+    "prompt": "Que commémore le 11 novembre en France, qui est un jour férié chaque année ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La prise de la Bastille (1789)"
+      },
+      {
+        "key": "b",
+        "text": "La fin de la Seconde Guerre mondiale (1945)"
+      },
+      {
+        "key": "c",
+        "text": "L’armistice du 11 novembre 1918, marquant la fin de la Première Guerre mondiale et rendant hommage à tous les morts pour la France"
+      },
+      {
+        "key": "d",
+        "text": "La Toussaint (fête de tous les saints)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le 11 novembre célèbre l’armistice signé le 11 novembre 1918 entre la France (et les Alliés) et l’Allemagne, qui a mis fin aux combats de la Première Guerre mondiale sur le front occidental. C’est le « jour du Souvenir » : on honore la mémoire de tous les soldats tombés pour la France, notamment lors de la Grande Guerre. Des cérémonies ont lieu dans chaque commune devant les monuments aux morts.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q94",
+    "prompt": "Que commémore le 8 mai en France (jour férié également) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Révolution de 1789 (et prise de la Bastille)"
+      },
+      {
+        "key": "b",
+        "text": "La victoire des Alliés sur l’Allemagne nazie en 1945 (fin de la Seconde Guerre mondiale en Europe)"
+      },
+      {
+        "key": "c",
+        "text": "La bataille de Verdun"
+      },
+      {
+        "key": "d",
+        "text": "Le début de la Décolonisation"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le 8 mai 1945 marque la capitulation sans condition de l’Allemagne nazie et la fin de la Seconde Guerre mondiale en Europe. C’est la « Victoire de 1945 ». Chaque 8 mai, la France commémore la victoire des Alliés et rend hommage aux combattants de la Seconde Guerre mondiale qui ont permis la libération du pays du joug nazi.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q95",
+    "prompt": "Comment s’appelait le régime politique instauré en France pendant l’Occupation allemande de 1940 à 1944, sous l’autorité du maréchal Pétain ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La IIIe République"
+      },
+      {
+        "key": "b",
+        "text": "La Commune de Paris"
+      },
+      {
+        "key": "c",
+        "text": "Le régime de Vichy, aussi appelé l’« État français »"
+      },
+      {
+        "key": "d",
+        "text": "La Ve République"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "De 1940 à 1944, après la défaite face à l’Allemagne, la IIIe République a pris fin et le maréchal Pétain a instauré l’« État français », communément appelé régime de Vichy (du nom de sa capitale). Ce régime autoritaire et collaborateur a suspendu la démocratie et collaboré avec l’occupant nazi (antisémite, il a notamment promulgué le statut des Juifs). Le régime de Vichy a cessé avec la Libération en 1944.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q96",
+    "prompt": "Qui a lancé l’Appel du 18 Juin 1940 exhortant les Français à poursuivre la Résistance contre l’occupant nazi ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Philippe Pétain"
+      },
+      {
+        "key": "b",
+        "text": "Winston Churchill"
+      },
+      {
+        "key": "c",
+        "text": "Le général Charles de Gaulle"
+      },
+      {
+        "key": "d",
+        "text": "Jean Moulin"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "C’est Charles de Gaulle qui, le 18 juin 1940 depuis Londres sur les ondes de la BBC, a appelé les Français à refuser la défaite et à continuer le combat aux côtés des Alliés. Cet appel, peu entendu sur le moment, est devenu le texte fondateur de la Résistance française. De Gaulle a ensuite dirigé la France Libre pendant la guerre.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q97",
+    "prompt": "Qui était Jean Moulin (1919-1943) dans l’Histoire de France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un héros de la Première Guerre mondiale"
+      },
+      {
+        "key": "b",
+        "text": "Unificateur de la Résistance française intérieure pendant la Seconde Guerre mondiale"
+      },
+      {
+        "key": "c",
+        "text": "Un chef militaire de la guerre de 1870"
+      },
+      {
+        "key": "d",
+        "text": "Un homme politique de la IVe République"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Jean Moulin est le haut fonctionnaire envoyé par de Gaulle en 1942 pour unifier les différents mouvements de la Résistance intérieure sous l’autorité de Londres. Président du Conseil national de la Résistance (CNR) créé en 1943, il a joué un rôle majeur dans la coordination de la lutte clandestine contre l’occupant nazi. Arrêté par la Gestapo en juin 1943, il est mort des suites de la torture sans avoir parlé. Il est honoré comme l’un des grands héros de la Résistance française.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q98",
+    "prompt": "En quelle année Paris a-t-elle été libérée de l’Occupation allemande pendant la Seconde Guerre mondiale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1944"
+      },
+      {
+        "key": "b",
+        "text": "1940"
+      },
+      {
+        "key": "c",
+        "text": "1945"
+      },
+      {
+        "key": "d",
+        "text": "1964"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Paris a été libérée fin août 1944. Après le débarquement de Normandie (6 juin 1944), l’insurrection parisienne et l’avancée de la 2e Division Blindée du général Leclerc ont abouti à la capitulation des troupes allemandes à Paris le 25 août 1944. C’est un moment fort de la Libération de la France. L’ensemble du territoire a été progressivement libéré fin 1944, et la guerre s’est terminée en Europe le 8 mai 1945.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q99",
+    "prompt": "En quelle année la Ve République (notre régime politique actuel) a-t-elle été instaurée en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1946"
+      },
+      {
+        "key": "b",
+        "text": "1958"
+      },
+      {
+        "key": "c",
+        "text": "1962"
+      },
+      {
+        "key": "d",
+        "text": "1789"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Ve République a été fondée en 1958. La nouvelle Constitution a été adoptée le 4 octobre 1958, à la suite de la crise politique liée à la guerre d’Algérie. Le général de Gaulle, revenu au pouvoir, a conçu ce régime stable accordant un rôle fort au président. La IVe République (1946-1958) a donc laissé place en 1958 à la Ve République, qui est toujours en vigueur aujourd’hui.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q100",
+    "prompt": "Combien de Républiques (c’est-à-dire de Constitutions républicaines différentes) la France a-t-elle connues dans son histoire ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "3"
+      },
+      {
+        "key": "b",
+        "text": "5"
+      },
+      {
+        "key": "c",
+        "text": "6"
+      },
+      {
+        "key": "d",
+        "text": "2"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La France a connu 5 Républiques successives : la Ire (1792-1804), la IIe (1848-1852), la IIIe (1870-1940), la IVe (1946-1958) et l’actuelle Ve (depuis 1958). Certains évoquent parfois l’hypothèse d’une VIe République en cas de nouvelle réforme constitutionnelle majeure, mais en 2025 nous sommes toujours sous la Ve République.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q101",
+    "prompt": "Qui était Napoléon Bonaparte (1769-1821) dans l’histoire de France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un révolutionnaire qui a refusé tout titre"
+      },
+      {
+        "key": "b",
+        "text": "Un général de la Révolution devenu Empereur des Français, ayant réorganisé l’État (Code civil…)"
+      },
+      {
+        "key": "c",
+        "text": "Un roi constitutionnel sous la Restauration"
+      },
+      {
+        "key": "d",
+        "text": "Un président de la Deuxième République"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Napoléon Bonaparte est d’abord un général brillant de la Révolution française. Il prend le pouvoir par le coup d’État de 1799, se fait Premier consul puis se proclame Empereur des Français en 1804 sous le nom de Napoléon Ier. Son règne (Premier Empire, 1804-1815) est marqué par de grandes réformes : il a notamment promulgué le Code civil en 1804 (appelé Code Napoléon) qui unifie le droit civil français, créé les lycées, l’Université, la Banque de France, la Légion d’honneur, etc. Il a aussi conquis une grande partie de l’Europe avant la chute de l’Empire en 1815.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q102",
+    "prompt": "Quelles principales réformes Napoléon Ier a-t-il laissées à la France qui existent encore aujourd’hui ? (Plusieurs réponses peuvent être exactes.)",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Code civil (1804), base du droit civil français"
+      },
+      {
+        "key": "b",
+        "text": "La création des lycées d’État et d’un système d’éducation laïque centralisé"
+      },
+      {
+        "key": "c",
+        "text": "La division du territoire en départements administrés par des préfets (organisation héritée de la Révolution et consolidée sous l’Empire)"
+      },
+      {
+        "key": "d",
+        "text": "La Sécurité sociale"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": ", b. et c. Napoléon Bonaparte a durablement structuré la France : il a promulgué le Code civil qui régit encore notre vie quotidienne (mariage, héritage, propriété…), fondé les lycées publics pour former les élites, consolidé l’organisation administrative en départements avec à leur tête des préfets représentant l’État (système toujours en place). Il a également créé la Banque de France et la Légion d’honneur. (La Sécurité sociale, option d, date de 1945 – Napoléon n’y est pour rien.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q103",
+    "prompt": "Qui était Jeanne d’Arc (vers 1412-1431) dans l’Histoire de France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une héroïne de la guerre de Cent Ans qui a aidé la France à vaincre les Anglais"
+      },
+      {
+        "key": "b",
+        "text": "L’épouse de Louis XVI"
+      },
+      {
+        "key": "c",
+        "text": "Une scientifique du XXe siècle"
+      },
+      {
+        "key": "d",
+        "text": "Une Première ministre sous la Ve République"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Jeanne d’Arc est une figure emblématique de l’histoire de France. Simple paysanne lorraine, elle entendit des « voix » et réussit à convaincre le roi Charles VII de la laisser conduire ses troupes en 1429. Elle a remporté la victoire d’Orléans contre les Anglais, permettant le redressement français pendant la guerre de Cent Ans. Capturée, elle fut brûlée vive pour hérésie en 1431 à Rouen. Réhabilitée par la suite, elle est devenue un symbole du patriotisme et une sainte de l’Église catholique.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q104",
+    "prompt": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Louis XIV, en 1715"
+      },
+      {
+        "key": "b",
+        "text": "Louis XVI, en 1793"
+      },
+      {
+        "key": "c",
+        "text": "Charles X, en 1836"
+      },
+      {
+        "key": "d",
+        "text": "Napoléon III, en 1873"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Louis XVI est le roi qui a été guillotiné le 21 janvier 1793 à Paris, sur décision de la Convention nationale révolutionnaire. Reconnu coupable de trahison envers la Nation après la chute de la monarchie, il fut exécuté place de la Révolution (actuelle place de la Concorde). Son épouse Marie-Antoinette a subi le même sort quelques mois plus tard, en octobre 1793. (Louis XIV est mort sur son lit en 1715 ; Charles X est parti en exil en 1830 ; Napoléon III est un empereur du XIXe qui s’est exilé en 1870.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q105",
+    "prompt": "Quelle bataille Napoléon a-t-il perdue en juin 1815, marquant sa chute finale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Austerlitz"
+      },
+      {
+        "key": "b",
+        "text": "Waterloo"
+      },
+      {
+        "key": "c",
+        "text": "Marengo"
+      },
+      {
+        "key": "d",
+        "text": "Valmy"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Waterloo. Le 18 juin 1815, Napoléon Bonaparte a subi une défaite décisive face aux armées anglo-prussiennes près du village de Waterloo (en Belgique actuelle). Cette défaite met un terme définitif à l’épopée napoléonienne : Napoléon abdique quelques jours plus tard et est exilé à Sainte-Hélène. (Austerlitz et Marengo sont au contraire de grandes victoires de Napoléon ; Valmy, en 1792, est une victoire des révolutionnaires français.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q106",
+    "prompt": "Qui était Victor Hugo (1802-1885) dans la culture française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un célèbre homme politique du XXe siècle"
+      },
+      {
+        "key": "b",
+        "text": "Un immense écrivain du XIXe siècle, auteur de Notre-Dame de Paris et Les Misérables, et un intellectuel engagé en politique"
+      },
+      {
+        "key": "c",
+        "text": "Un scientifique ayant découvert la radioactivité"
+      },
+      {
+        "key": "d",
+        "text": "Un peintre impressionniste"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Victor Hugo est l’un des plus grands écrivains français. Romancier (Les Misérables, Notre-Dame de Paris), poète (Les Contemplations), dramaturge (Hernani), il a marqué le XIXe siècle. Il a aussi été un homme engagé politiquement : élu député, il s’est battu pour la liberté, l’éducation, la justice sociale et contre la peine de mort. À sa mort en 1885, il a eu des funérailles nationales et repose au Panthéon.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q107",
+    "prompt": "Qui a écrit le roman Les Misérables, tableau de la société française au XIXe siècle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Émile Zola"
+      },
+      {
+        "key": "b",
+        "text": "Honoré de Balzac"
+      },
+      {
+        "key": "c",
+        "text": "Victor Hugo"
+      },
+      {
+        "key": "d",
+        "text": "Gustave Flaubert"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le roman Les Misérables (1862), qui raconte la vie de Jean Valjean et dénonce les injustices sociales, est l’œuvre de Victor Hugo. Ce roman fleuve est l’un des plus célèbres de la littérature française et mondiale. (Zola a écrit Les Rougon-Macquart, Balzac La Comédie humaine, Flaubert Madame Bovary, etc.)",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q108",
+    "prompt": "Qu’est-ce que l’affaire Dreyfus (1894-1906) dans l’histoire française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un scandale de corruption sous la Ve République"
+      },
+      {
+        "key": "b",
+        "text": "Une crise politico-judiciaire autour d’une erreur judiciaire : le capitaine Dreyfus, accusé d’espionnage à tort, a été réhabilité après une longue bataille"
+      },
+      {
+        "key": "c",
+        "text": "Une victoire militaire de la France sur la Prusse"
+      },
+      {
+        "key": "d",
+        "text": "L’affaire du Watergate français"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’Affaire Dreyfus est une affaire qui a profondément divisé la France à la fin du XIXe siècle. Alfred Dreyfus, capitaine juif alsacien, est accusé en 1894 d’espionnage au profit de l’Allemagne et condamné à tort pour trahison. Malgré les preuves de son innocence, l’armée a couvert l’erreur. Il a fallu une longue mobilisation d’« dreyfusards » (comme Émile Zola qui a écrit « J’accuse… ! » en 1898) pour que Dreyfus soit finalement innocenté et réhabilité en 1906. Cette affaire a révélé l’antisémitisme et les dysfonctionnements de la justice, et a conduit à des réformes.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q109",
+    "prompt": "Qui était Charles de Gaulle (1890-1970) dans l’Histoire de France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le chef de la France Libre pendant la Seconde Guerre mondiale et le fondateur de la Ve République (il en fut le premier président)"
+      },
+      {
+        "key": "b",
+        "text": "Un chef militaire de la Première Guerre mondiale"
+      },
+      {
+        "key": "c",
+        "text": "Un roi du début du XXe siècle"
+      },
+      {
+        "key": "d",
+        "text": "Un chanteur célèbre des années 1960"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Charles de Gaulle est l’un des personnages les plus importants du XXe siècle français. Général refusant la défaite de 1940, il s’est exilé à Londres d’où il a dirigé la France Libre contre l’occupation nazie (c’est lui qui prononce l’Appel du 18 Juin 1940). Après la Libération, puis une traversée du désert, il revient au pouvoir en 1958 pendant la crise de la IVe République et fonde la Ve République, dont il devient le premier Président (1959-1969). Son action a modernisé les institutions et accompagné la décolonisation. Il est resté comme l’incarnation du refus de la défaite et de l’indépendance nationale.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q110",
+    "prompt": "Qui était Simone Veil (1927-2017), figure majeure de l’histoire contemporaine française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une astronaute française qui a fait un record de voyages dans la Station Spatiale Internationnale (ISS)"
+      },
+      {
+        "key": "b",
+        "text": "Une femme politique rescapée de la Shoah, ministre de la Santé en 1974 qui a fait adopter la loi légalisant l’IVG (avortement)"
+      },
+      {
+        "key": "c",
+        "text": "La première femme maire de Paris"
+      },
+      {
+        "key": "d",
+        "text": "Une championne sportive des années 60"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Simone Veil est une femme politique française emblématique. Déportée à 16 ans à Auschwitz, elle a survécu à la Shoah. Devenue ministre de la Santé en 1974, elle a porté la loi de 1975 légalisant l’interruption volontaire de grossesse (loi Veil), un texte majeur pour le droit des femmes. Elle fut ensuite la première présidente du Parlement européen (1979). Respectée de tous pour son courage et son humanisme, Simone Veil repose depuis 2018 au Panthéon, symbole de la reconnaissance de la Nation.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q111",
+    "prompt": "Quelle ordonnance royale de 1539, prise sous François Iᵉʳ, imposa que tous les actes juridiques et administratifs soient rédigés en français et non en latin ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’édit de Nantes"
+      },
+      {
+        "key": "b",
+        "text": "L’ordonnance de Villers-Cotterêts"
+      },
+      {
+        "key": "c",
+        "text": "La Déclaration des droits de l’homme et du citoyen"
+      },
+      {
+        "key": "d",
+        "text": "La constitution civile du clergé"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’ordonnance de Villers‑Cotterêts de 1539 ordonne l’usage du « langage maternel français » pour les actes juridiques afin d’être compris de tous.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q112",
+    "prompt": "Quel édit de tolérance, promulgué en 1598 par Henri IV, mit fin aux guerres de Religion et accorda des droits civils et religieux aux protestants ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’édit de Fontainebleau"
+      },
+      {
+        "key": "b",
+        "text": "L’édit de Milan"
+      },
+      {
+        "key": "c",
+        "text": "L’édit de Nantes"
+      },
+      {
+        "key": "d",
+        "text": "L’édit d’Avignon"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "L’édit de Nantes (1598) fut un acte de tolérance qui garantit la liberté de culte aux protestants et leur accorda des droits civils et politiques.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q113",
+    "prompt": "Quelle bataille de 732 vit le maire du palais Charles Martel arrêter l’avancée des troupes arabes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La bataille de Bouvines"
+      },
+      {
+        "key": "b",
+        "text": "La bataille de Poitiers"
+      },
+      {
+        "key": "c",
+        "text": "La bataille d’Austerlitz"
+      },
+      {
+        "key": "d",
+        "text": "La bataille d’Azincourt"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "En octobre 732, Charles Martel remporta la bataille de Poitiers, stoppant l’expansion des Omeyyades en Gaule.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q114",
+    "prompt": "Comment s’appelle le massacre de protestants survenu à Paris dans la nuit du 23 au 24 août 1572, qui se prolongea dans d’autres villes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La nuit du 4 août"
+      },
+      {
+        "key": "b",
+        "text": "La Saint‑Barthélemy"
+      },
+      {
+        "key": "c",
+        "text": "La nuit de la foi"
+      },
+      {
+        "key": "d",
+        "text": "La nuit des longs couteaux"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le massacre de la Saint‑Barthélemy, le 24 août 1572, vit des milliers de protestants huguenots être tués à Paris et en province.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q115",
+    "prompt": "Quelle date marque la proclamation de la Première République française, mettant fin à la monarchie de Louis XVI ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "14 juillet 1789"
+      },
+      {
+        "key": "b",
+        "text": "10 août 1792"
+      },
+      {
+        "key": "c",
+        "text": "21 septembre 1792"
+      },
+      {
+        "key": "d",
+        "text": "9 thermidor an II"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le 21 septembre 1792, l’Assemblée nationale proclamait la Première République et abolissait la royauté.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q116",
+    "prompt": "Quel roi, dernier souverain de la monarchie de Juillet, abdique en février 1848 lors de la révolution et s’exile en Angleterre ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Charles X"
+      },
+      {
+        "key": "b",
+        "text": "Louis‑Philippe Iᵉʳ"
+      },
+      {
+        "key": "c",
+        "text": "Napoléon III"
+      },
+      {
+        "key": "d",
+        "text": "Henri IV"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Louis‑Philippe Iᵉʳ, dernier roi des Français, abdique le 24 février 1848 et s’exile en Angleterre.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q117",
+    "prompt": "Quel affrontement décisif de la guerre franco‑prussienne du 1ᵉʳ septembre 1870 conduit à la capture de Napoléon III et à la chute du Second Empire ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La bataille de Verdun"
+      },
+      {
+        "key": "b",
+        "text": "La bataille de Sedan"
+      },
+      {
+        "key": "c",
+        "text": "La bataille de la Marne"
+      },
+      {
+        "key": "d",
+        "text": "La bataille d’Iéna"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "À Sedan, le 1ᵉʳ septembre 1870, l’armée française est vaincue et l’empereur Napoléon III est capturé, entraînant la proclamation de la IIIᵉ République.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q118",
+    "prompt": "Quelle insurrection populaire de mars 1871 établit un gouvernement autonome à Paris avant d’être réprimée par les troupes versaillaises ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Commune de Paris"
+      },
+      {
+        "key": "b",
+        "text": "La Révolution de Juillet"
+      },
+      {
+        "key": "c",
+        "text": "La Semaine sanglante"
+      },
+      {
+        "key": "d",
+        "text": "La Terreur"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La Commune de Paris, du 18 mars au 28 mai 1871, fut une expérience d’autogouvernement réprimée par l’armée française.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q119",
+    "prompt": "Comment s’appelle le vaste mouvement étudiant et ouvrier qui a ébranlé la société française au printemps 1968 et conduit à des accords sociaux et politiques ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Front populaire"
+      },
+      {
+        "key": "b",
+        "text": "Mai 1968"
+      },
+      {
+        "key": "c",
+        "text": "La révolution des Œillets"
+      },
+      {
+        "key": "d",
+        "text": "La révolte des canuts"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Les événements de Mai 1968 ont débuté par des manifestations étudiantes et des grèves générales, entraînant des réformes sociales et culturelles.",
+    "category": "Histoire de France"
+  },
+  {
+    "id": "q120",
+    "prompt": "En quelle année la peine de mort a-t-elle été abolie en France, grâce à une loi portée par le garde des Sceaux Robert Badinter ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1975"
+      },
+      {
+        "key": "b",
+        "text": "1979"
+      },
+      {
+        "key": "c",
+        "text": "1981"
+      },
+      {
+        "key": "d",
+        "text": "1985"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La loi du 9 octobre 1981, défendue par Robert Badinter, abolit définitivement la peine de mort en France. --------",
+    "category": "Histoire de France"
+  }
+]

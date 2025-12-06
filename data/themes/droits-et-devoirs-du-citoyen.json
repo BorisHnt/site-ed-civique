@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q121",
+    "prompt": "Est-il obligatoire de payer ses impôts en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui. Tout résident a le devoir légal de contribuer aux charges publiques en payant ses impôts selon ses revenus"
+      },
+      {
+        "key": "b",
+        "text": "Ce n’est obligatoire que pour les fonctionnaires"
+      },
+      {
+        "key": "c",
+        "text": "Non, chacun paie s’il le souhaite"
+      },
+      {
+        "key": "d",
+        "text": "Non, seuls les entreprises et les étrangers paient des impôts"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui, payer ses impôts est une obligation légale pour tous (particuliers comme entreprises) ayant des revenus imposables en France. C’est un devoir civique : ces contributions financières servent à financer les services publics (écoles, hôpitaux, infrastructures, etc.) et le fonctionnement de l’État. Le refus de payer l’impôt est passible de sanctions (majorations, poursuites).",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q122",
+    "prompt": "Qu’est-ce que la Journée Défense et Citoyenneté (JDc. pour les jeunes Français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une journée de vote obligatoire à 18 ans"
+      },
+      {
+        "key": "b",
+        "text": "Une session d’information civique et militaire que tous les citoyens français doivent accomplir vers 16-18 ans, remplaçant le service militaire"
+      },
+      {
+        "key": "c",
+        "text": "Une journée de défense des droits de l’homme"
+      },
+      {
+        "key": "d",
+        "text": "Une manifestation nationale en soutien à l’armée"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La JDC est une Journée Défense et Citoyenneté que tous les jeunes Français (garçons et filles) doivent effectuer généralement à l’âge de 17 ans. Instaurée après la suspension du service militaire, cette journée – organisée par le ministère des Armées – informe sur le rôle de la défense nationale et rappelle les droits et devoirs du citoyen. À l’issue, une attestation JDC est délivrée, nécessaire pour s’inscrire à certains examens ou concours. (Elle a succédé à la Journée d’Appel de Préparation à la Défense, JAPD, en 2011.)",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q123",
+    "prompt": "Le refus d’embaucher quelqu’un en raison de sa religion, de son sexe ou de son origine est-il autorisé par la loi ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, un employeur est libre de ses choix"
+      },
+      {
+        "key": "b",
+        "text": "Non, il s’agit d’une discrimination interdite et punie par la loi"
+      },
+      {
+        "key": "c",
+        "text": "Oui, seulement dans les petites entreprises"
+      },
+      {
+        "key": "d",
+        "text": "Cela dépend du motif religieux invoqué"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non. Refuser d’embaucher une personne pour des motifs tels que la religion, le sexe, l’origine ethnique, l’orientation sexuelle, l’état de santé, etc., constitue une discrimination illégale. Le Code du travail prohibe formellement toute discrimination à l’embauche. Seules les compétences et l’expérience professionnelles doivent guider un recrutement. En cas de discrimination avérée, l’employeur risque des sanctions civiles et pénales (jusqu’à 3 ans de prison et 45 000 € d’amende).",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q124",
+    "prompt": "Les femmes ont-elles le droit de voter et d’être élues en France au même titre que les hommes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, depuis 1944 les femmes disposent des mêmes droits politiques que les hommes (vote et éligibilité)"
+      },
+      {
+        "key": "b",
+        "text": "Non, elles ne peuvent qu’élire mais pas être élues"
+      },
+      {
+        "key": "c",
+        "text": "Non, elles ont obtenu le droit de vote mais pas avant 1993"
+      },
+      {
+        "key": "d",
+        "text": "Oui, sauf pour la fonction de Président de la République"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. Depuis l’ordonnance du 21 avril 1944, les femmes françaises sont électrices et éligibles dans les mêmes conditions que les hommes. Les Françaises ont voté pour la première fois en 1945. Aujourd’hui, la Constitution affirme l’égalité des droits politiques : des lois encouragent même la parité (égale présence) femmes-hommes dans les candidatures aux élections. (Les premières femmes députées ont été élues en 1945. Aujourd’hui une femme peut tout à fait être présidente de la République si elle est élue.)",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q125",
+    "prompt": "Le mariage entre personnes de même sexe est-il autorisé par la loi en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, depuis la loi « Mariage pour tous » de 2013, deux personnes du même sexe peuvent se marier"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais seulement sous forme de PACS"
+      },
+      {
+        "key": "c",
+        "text": "Non, il est interdit"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf s’ils élèvent des enfants ensemble"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. Depuis la loi du 17 mai 2013, surnommée Mariage pour tous, le mariage civil est ouvert aux couples de même sexe en France. Les époux homosexuels ont les mêmes droits et devoirs que n’importe quels époux (y compris la possibilité d’adopter). Auparavant, les couples de même sexe pouvaient seulement conclure un PACS ; désormais, ils peuvent choisir de se pacser ou de se marier.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q126",
+    "prompt": "La polygamie (le fait d’avoir plusieurs époux ou épouses en même temps) est-elle autorisée en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, si la religion l’autorise"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais uniquement pour les hommes"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est interdit par le Code civil"
+      },
+      {
+        "key": "d",
+        "text": "Cela dépend du pays d’origine"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Non, la polygamie est illégale en France. Le Code civil ne permet qu’une union simultanée : on ne peut pas être marié à plus d’une personne à la fois. La bigamie/polygamie est un délit pénal. De plus, si un étranger polygame acquiert la nationalité française, il doit renoncer à la polygamie (il ne peut faire venir qu’une seule conjointe par le regroupement familial). Le principe républicain d’égalité entre époux et de monogamie est fermement établi.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q127",
+    "prompt": "Les mutilations génitales féminines (excision) sont-elles autorisées en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, si c’est une tradition culturelle"
+      },
+      {
+        "key": "b",
+        "text": "Non, ce sont des violences pénalement réprimées"
+      },
+      {
+        "key": "c",
+        "text": "Uniquement avec le consentement de la personne majeure"
+      },
+      {
+        "key": "d",
+        "text": "Tolérées sur autorisation médicale"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, l’excision et toute mutilation sexuelle sont absolument interdites et assimilées à des violences très graves. En France, pratiquer ou laisser pratiquer l’excision sur une mineure est un crime passible de lourdes peines (jusqu’à 20 ans de réclusion criminelle). Même si c’est une coutume dans certains pays, la loi française protège l’intégrité du corps des fillettes et punit sévèrement ces actes, considérés comme des atteintes aux droits humains.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q128",
+    "prompt": "À partir de quel âge un jeune peut-il travailler à temps plein en France (hors apprentissage encadré) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "14 ans"
+      },
+      {
+        "key": "b",
+        "text": "16 ans"
+      },
+      {
+        "key": "c",
+        "text": "18 ans"
+      },
+      {
+        "key": "d",
+        "text": "21 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "16 ans est l’âge légal minimal pour travailler à temps plein en France. La scolarité obligatoire s’étend jusqu’à 16 ans, et avant cet âge il est interdit d’employer un enfant (sauf exceptions très encadrées comme le travail artistique ou l’apprentissage dès 15 ans sous statut scolaire). À partir de 16 ans, un jeune peut signer un contrat de travail, mais jusqu’à 18 ans certaines activités dangereuses lui restent interdites et la médecine du travail veille à son aptitude.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q129",
+    "prompt": "Que signifie l’acronyme SMIC dans le contexte du travail en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un diplôme de fin d’études"
+      },
+      {
+        "key": "b",
+        "text": "Le Salaire Minimum Interprofessionnel de Croissance, c’est-à-dire le salaire minimum légal mensuel en France"
+      },
+      {
+        "key": "c",
+        "text": "Un syndicat de commerces"
+      },
+      {
+        "key": "d",
+        "text": "Un impôt sur le revenu"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "SMIC veut dire Salaire Minimum Interprofessionnel de Croissance. C’est le salaire horaire minimum légal en France, en dessous duquel aucun salarié ne peut être payé (pour un temps plein, il correspond à un montant mensuel brut d’environ 1 747 € en 2025). Le SMIC est revalorisé régulièrement en fonction de l’inflation et de la croissance, d’où son nom.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q130",
+    "prompt": "Quelle est la durée légale hebdomadaire du travail en France (pour un emploi à temps plein) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "39 heures"
+      },
+      {
+        "key": "b",
+        "text": "40 heures"
+      },
+      {
+        "key": "c",
+        "text": "35 heures"
+      },
+      {
+        "key": "d",
+        "text": "30 heures"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "35 heures par semaine est la durée légale du travail à temps plein en France. Au-delà, les heures effectuées sont comptées en heures supplémentaires. Cette durée de 35 h a été instaurée par les lois Aubry entre 1998 et 2002, pour favoriser l’emploi. Bien sûr, de nombreux salariés travaillent plus via les heures supplémentaires, mais 35 h demeure la référence légale (en moyenne sur la semaine ou sur l’année selon les accords).",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q131",
+    "prompt": "Un salarié a-t-il le droit de rejoindre un syndicat de son choix pour défendre ses intérêts ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, ce sont les employeurs qui choisissent les syndicats"
+      },
+      {
+        "key": "b",
+        "text": "Oui, la liberté syndicale est garantie : chacun peut adhérer ou créer un syndicat librement"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais uniquement dans les grandes entreprises"
+      },
+      {
+        "key": "d",
+        "text": "Non, les syndicats sont interdits dans le secteur public"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, la liberté syndicale est un droit fondamental (prévue par le préambule de 1946 et le Code du travail). Tout salarié (du public ou du privé) peut librement adhérer au syndicat de son choix, ou même en créer un, sans que l’employeur puisse s’y opposer. La discrimination syndicale (sanctionner ou refuser d’embaucher quelqu’un à cause de ses activités syndicales) est illégale. Les syndicats jouent un rôle essentiel de représentation des salariés.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q132",
+    "prompt": "Les salariés français ont-ils le droit de faire grève (cesser le travail pour revendiquer) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, le droit de grève est reconnu par la Constitution depuis 1946"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais uniquement avec l’autorisation de l’employeur"
+      },
+      {
+        "key": "c",
+        "text": "Non, la grève est illégale"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf dans le service public"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui, le droit de grève est un droit constitutionnel en France. Tout salarié peut faire grève pour appuyer des revendications professionnelles, en respectant certaines modalités (préavis dans les services publics, grève collective et non personnelle, etc.). Ce droit, inscrit dans le Préambule de 1946, a été un acquis social majeur. Bien sûr, il existe des limitations pour certaines professions (policiers n’ont pas le droit de grève) ou pour assurer un service minimum (transports, hôpitaux), mais de manière générale, c’est une liberté fondamentale des travailleurs.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q133",
+    "prompt": "Qu’est-ce que la “présomption d’innocence” en droit français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’idée qu’un accusé est probablement coupable"
+      },
+      {
+        "key": "b",
+        "text": "Le principe selon lequel toute personne accusée est considérée comme innocente tant que sa culpabilité n’a pas été légalement prouvée"
+      },
+      {
+        "key": "c",
+        "text": "Une simple formule sans portée juridique"
+      },
+      {
+        "key": "d",
+        "text": "Un privilège réservé aux personnalités"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La présomption d’innocence signifie que toute personne poursuivie est considérée innocente tant qu’un jugement définitif n’a pas établi sa culpabilité. Inscrite dans la Déclaration des Droits de l’Homme de 1789 et le Code de procédure pénale, c’est une garantie essentielle : la charge de la preuve revient à l’accusation, et le doute doit profiter à l’accusé. En pratique, cela implique le droit à un procès équitable, le droit de ne pas être présenté publiquement comme coupable avant jugement, etc.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q134",
+    "prompt": "À quel âge devient-on majeur (atteint l’âge de la majorité légale) en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16 ans"
+      },
+      {
+        "key": "b",
+        "text": "18 ans"
+      },
+      {
+        "key": "c",
+        "text": "21 ans"
+      },
+      {
+        "key": "d",
+        "text": "20 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18 ans. En France, depuis 1974, la majorité civile est fixée à 18 ans. C’est l’âge auquel on est juridiquement considéré comme un adulte : on obtient la pleine capacité civile (signer des contrats, se marier sans consentement parental, etc.) et politique (droit de vote). Avant 1974, la majorité était à 21 ans. À 18 ans également s’appliquent d’autres droits/responsabilités (ex : recensement citoyen, JDC, etc.).",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q135",
+    "prompt": "La peine de mort existe-t-elle encore en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, pour les crimes terroristes uniquement"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais elle n’est plus appliquée"
+      },
+      {
+        "key": "c",
+        "text": "Non, elle a été abolie en 1981"
+      },
+      {
+        "key": "d",
+        "text": "Cela dépend des régions d’outre-mer"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Non, la peine de mort est abolie en France depuis la loi du 9 octobre 1981 (présentée par Robert Badinter). La France a ainsi rejoint les pays abolissant la peine capitale. Depuis, aucune condamnation à mort ne peut être prononcée ni exécutée. Cette abolition est désormais inscrite dans la Constitution (Préambule de 1946) et la France milite à l’international pour l’abolition universelle de la peine de mort.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q136",
+    "prompt": "Dans quelles conditions l’État peut-il exproprier un propriétaire de son bien (le lui retirer contre son gré) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "S’il a des démêlés avec la justice"
+      },
+      {
+        "key": "b",
+        "text": "Uniquement si l’utilité publique le justifie et avec une juste et préalable indemnité versée au propriétaire"
+      },
+      {
+        "key": "c",
+        "text": "À la demande de la majorité des voisins"
+      },
+      {
+        "key": "d",
+        "text": "Sur simple décision du maire, sans motif"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le droit de propriété est garanti, mais l’article 17 de la Déclaration de 1789 prévoit que l’expropriation n’est possible que pour cause d’utilité publique, et en échange d’une indemnisation juste et préalable. Autrement dit, l’État ou les collectivités peuvent, par exemple, exproprier des terrains pour construire une route ou un hôpital jugé d’intérêt général, mais cela doit être déclaré d’utilité publique et le propriétaire doit être indemnisé à la valeur du bien. Toute expropriation abusive sans indemnité serait inconstitutionnelle.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q137",
+    "prompt": "Une femme enceinte peut-elle être licenciée par son employeur en raison de sa grossesse ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, si son état perturbe l’entreprise"
+      },
+      {
+        "key": "b",
+        "text": "Non, le licenciement d’une femme en raison de sa grossesse est interdit par la loi"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais uniquement pendant le congé maternité"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf dans les trois premiers mois de grossesse"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, il est strictement interdit de licencier une femme en raison de sa grossesse. La loi protège les femmes enceintes : à partir du début de la grossesse et pendant le congé maternité (et même 10 semaines après), un employeur ne peut les licencier qu’en cas de faute grave sans lien avec la grossesse ou de motif économique sérieux. La grossesse ne doit entraîner ni sanction ni discrimination. Tout licenciement motivé par l’état de grossesse est nul et expose l’employeur à des sanctions.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q138",
+    "prompt": "Le harcèlement moral ou sexuel au travail est-il puni par la loi française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, ce sont des délits sanctionnés par le Code du travail et le Code pénal"
+      },
+      {
+        "key": "b",
+        "text": "Le harcèlement moral n’est pas défini légalement"
+      },
+      {
+        "key": "c",
+        "text": "Ce n’est pas grave, c’est toléré dans le privé"
+      },
+      {
+        "key": "d",
+        "text": "C’est uniquement du ressort de l’entreprise, pas de la justice"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui, le harcèlement moral comme le harcèlement sexuel sont strictement interdits et punis par la loi. Le Code du travail et le Code pénal les définissent précisément. Le harcèlement moral (faits répétés dégradant les conditions de travail) et le harcèlement sexuel (propos ou comportements à connotation sexuelle répétés portant atteinte à la dignité ou créant un environnement hostile) constituent des délits. L’auteur encourt jusqu’à 2 ans d’emprisonnement (3 ans en cas de circonstances aggravantes) et des amendes. L’entreprise a l’obligation de prévenir et sanctionner de tels faits, et la victime peut porter plainte.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q139",
+    "prompt": "Tous les citoyens français ont-ils droit au même salaire à travail égal, qu’ils soient homme ou femme ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, mais ce n’est pas écrit dans la loi"
+      },
+      {
+        "key": "b",
+        "text": "Oui, le principe « à travail égal, salaire égal » est inscrit dans la loi : une femme doit être payée comme un homme pour le même poste"
+      },
+      {
+        "key": "c",
+        "text": "Non, cela dépend des négociations individuelles"
+      },
+      {
+        "key": "d",
+        "text": "Non, les salaires des femmes peuvent être inférieurs selon les conventions"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, l’égalité salariale entre les femmes et les hommes est une obligation légale depuis 1972. Le Code du travail impose le principe « à travail égal, salaire égal » : aucune différence de rémunération ne peut être fondée sur le sexe du salarié. Malgré cela, des écarts de salaire persistent en pratique pour des raisons diverses (temps partiels, types de postes…), mais légalement, une femme occupant le même poste, avec la même expérience et qualification, doit percevoir le même salaire qu’un homme. Les employeurs peuvent être sanctionnés s’ils pratiquent des inégalités salariales injustifiées.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q140",
+    "prompt": "Les étrangers bénéficiaires de l’asile (réfugiés) en France ont-ils les mêmes droits fondamentaux que les citoyens français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui. Une personne reconnue réfugiée a droit à la protection et aux mêmes droits fondamentaux (logement, travail, santé…) que tout résident légal"
+      },
+      {
+        "key": "b",
+        "text": "Non, ils vivent dans des camps sans droits"
+      },
+      {
+        "key": "c",
+        "text": "Ils ont la protection mais ne peuvent ni travailler ni se soigner"
+      },
+      {
+        "key": "d",
+        "text": "Ils doivent renoncer à leur religion"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Oui. Le droit d’asile est un principe constitutionnel en France : toute personne persécutée peut être protégée et, une fois reconnue réfugiée par l’OFPRA, elle obtient un titre de séjour et bénéficie des mêmes droits sociaux que n’importe quel résident (droit au travail, à l’éducation, aux aides sociales, à la santé, etc.). Les réfugiés sont tenus, comme tout le monde, de respecter les lois françaises, mais ils sont protégés contre le renvoi dans leur pays d’origine et jouissent d’une pleine intégration juridique.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q141",
+    "prompt": "Quel est l’âge légal pour voter en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16 ans"
+      },
+      {
+        "key": "b",
+        "text": "18 ans"
+      },
+      {
+        "key": "c",
+        "text": "20 ans"
+      },
+      {
+        "key": "d",
+        "text": "21 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18 ans. En France, le droit de vote est acquis à la majorité, fixée à 18 ans.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q142",
+    "prompt": "Quel document permet à un citoyen français de prouver son identité à l’étranger ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le permis de conduire"
+      },
+      {
+        "key": "b",
+        "text": "La carte d’électeur"
+      },
+      {
+        "key": "c",
+        "text": "Le passeport"
+      },
+      {
+        "key": "d",
+        "text": "La carte Vitale"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le passeport. Le passeport est le document officiel pour voyager et s’identifier à l’étranger.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q143",
+    "prompt": "Qu’est-ce qu’un jury populaire en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Des citoyens élus par le maire"
+      },
+      {
+        "key": "b",
+        "text": "Un groupe de policiers"
+      },
+      {
+        "key": "c",
+        "text": "Des citoyens tirés au sort pour un procès en cour d’assises"
+      },
+      {
+        "key": "d",
+        "text": "Un comité politique local"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Des citoyens tirés au sort pour un procès en cour d’assises. Ils participent aux décisions de justice dans les affaires les plus graves.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q144",
+    "prompt": "Quel est le rôle principal du Défenseur des droits ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Organiser les élections"
+      },
+      {
+        "key": "b",
+        "text": "Défendre les avocats"
+      },
+      {
+        "key": "c",
+        "text": "Lutter contre les discriminations et défendre les droits des citoyens"
+      },
+      {
+        "key": "d",
+        "text": "Contrôler les mairies"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Lutter contre les discriminations et défendre les droits des citoyens. C’est une autorité indépendante créée en 2011.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q145",
+    "prompt": "En France, que risque-t-on si on ne paie pas ses impôts ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une simple lettre de rappel"
+      },
+      {
+        "key": "b",
+        "text": "Une médaille de civisme"
+      },
+      {
+        "key": "c",
+        "text": "Des pénalités financières et des poursuites"
+      },
+      {
+        "key": "d",
+        "text": "Rien du tout"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Des pénalités financières et des poursuites. Le paiement des impôts est un devoir constitutionnel.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q146",
+    "prompt": "Le travail des enfants est-il autorisé en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui dès 10 ans"
+      },
+      {
+        "key": "b",
+        "text": "Oui à partir de 14 ans avec dérogation"
+      },
+      {
+        "key": "c",
+        "text": "Non, interdit dans tous les cas"
+      },
+      {
+        "key": "d",
+        "text": "Oui mais uniquement dans le secteur agricole"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui à partir de 14 ans avec dérogation. Il est strictement encadré et soumis à autorisation parentale et administrative.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q147",
+    "prompt": "Quel texte fondateur garantit les libertés fondamentales en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Code civil"
+      },
+      {
+        "key": "b",
+        "text": "Le Code du travail"
+      },
+      {
+        "key": "c",
+        "text": "La Déclaration des Droits de l’Homme et du Citoyen"
+      },
+      {
+        "key": "d",
+        "text": "Le Code pénal"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La Déclaration des Droits de l’Homme et du Citoyen. Elle date de 1789 et est toujours citée dans la Constitution.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q148",
+    "prompt": "Quelle est la durée légale hebdomadaire du travail en France (déc. 2025) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "35 heures"
+      },
+      {
+        "key": "b",
+        "text": "37 heures"
+      },
+      {
+        "key": "c",
+        "text": "40 heures"
+      },
+      {
+        "key": "d",
+        "text": "45 heures"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "35 heures. C’est la durée légale hebdomadaire pour un emploi à temps plein.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q149",
+    "prompt": "À quoi sert la carte Vitale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "À voter"
+      },
+      {
+        "key": "b",
+        "text": "À voyager en train"
+      },
+      {
+        "key": "c",
+        "text": "À prouver son identité"
+      },
+      {
+        "key": "d",
+        "text": "À bénéficier du remboursement des soins de santé"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "À bénéficier du remboursement des soins de santé. Elle est liée à l’Assurance maladie.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q150",
+    "prompt": "Un citoyen français peut-il critiquer librement le gouvernement ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, c’est interdit"
+      },
+      {
+        "key": "b",
+        "text": "Oui, dans la limite du respect des lois"
+      },
+      {
+        "key": "c",
+        "text": "Oui, uniquement lors des élections"
+      },
+      {
+        "key": "d",
+        "text": "Non, sauf autorisation judiciaire"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, dans la limite du respect des lois. La liberté d’expression est un droit, mais elle doit respecter les lois (diffamation, haine, etc.).",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q151",
+    "prompt": "La déclaration d’impôt est-elle obligatoire en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, seulement pour les riches"
+      },
+      {
+        "key": "b",
+        "text": "Oui, pour tout contribuable majeur"
+      },
+      {
+        "key": "c",
+        "text": "Non, uniquement si l’on est salarié"
+      },
+      {
+        "key": "d",
+        "text": "Oui, mais seulement tous les 5 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, pour tout contribuable majeur. Même si l’impôt est à 0 €, la déclaration reste une obligation annuelle.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q152",
+    "prompt": "La justice française est-elle indépendante du pouvoir politique ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, elle est dirigée par le président"
+      },
+      {
+        "key": "b",
+        "text": "Oui, mais sous surveillance du Sénat"
+      },
+      {
+        "key": "c",
+        "text": "Oui, c’est un principe fondamental de la République"
+      },
+      {
+        "key": "d",
+        "text": "Non, elle dépend du gouvernement"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Oui, c’est un principe fondamental de la République. Le pouvoir judiciaire est séparé des pouvoirs exécutif et législatif.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q153",
+    "prompt": "Quelle est la mission de l’école publique en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Transmettre la culture française uniquement"
+      },
+      {
+        "key": "b",
+        "text": "Former des militaires"
+      },
+      {
+        "key": "c",
+        "text": "Instruire, éduquer et garantir l’égalité des chances"
+      },
+      {
+        "key": "d",
+        "text": "Apprendre uniquement les mathématiques"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Instruire, éduquer et garantir l’égalité des chances. L’école publique a une mission républicaine de formation et d’émancipation.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q154",
+    "prompt": "Le service militaire est-il obligatoire en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, dès 16 ans"
+      },
+      {
+        "key": "b",
+        "text": "Non, mais une Journée Défense et Citoyenneté est obligatoire"
+      },
+      {
+        "key": "c",
+        "text": "Oui pour les hommes seulement"
+      },
+      {
+        "key": "d",
+        "text": "Oui mais uniquement en période de guerre"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, mais une Journée Défense et Citoyenneté est obligatoire. Elle permet d’informer sur les droits et devoirs liés à la défense.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q155",
+    "prompt": "Qui peut être candidat à une élection municipale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Uniquement les fonctionnaires"
+      },
+      {
+        "key": "b",
+        "text": "Tout citoyen français majeur inscrit sur les listes électorales"
+      },
+      {
+        "key": "c",
+        "text": "Les retraités uniquement"
+      },
+      {
+        "key": "d",
+        "text": "Les agents de police"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Tout citoyen français majeur inscrit sur les listes électorales.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q156",
+    "prompt": "Quelle autorité peut sanctionner un citoyen s’il commet un délit ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le maire"
+      },
+      {
+        "key": "b",
+        "text": "Le président"
+      },
+      {
+        "key": "c",
+        "text": "Un juge"
+      },
+      {
+        "key": "d",
+        "text": "Le préfet"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Un juge. Seule l’autorité judiciaire peut juger et sanctionner un délit.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q157",
+    "prompt": "Le vote blanc est-il comptabilisé dans les résultats officiels ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, comme un vote « contre »"
+      },
+      {
+        "key": "b",
+        "text": "Non, il n’est pas comptabilisé dans les suffrages exprimés"
+      },
+      {
+        "key": "c",
+        "text": "Oui, il annule les autres votes"
+      },
+      {
+        "key": "d",
+        "text": "Oui, il fait élire automatiquement le deuxième candidat"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, il n’est pas comptabilisé dans les suffrages exprimés. Il est distingué du vote nul, mais n’influence pas le résultat final.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q158",
+    "prompt": "Peut-on refuser un contrôle d’identité demandé par la police ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, toujours"
+      },
+      {
+        "key": "b",
+        "text": "Non, sauf si l’on est mineur"
+      },
+      {
+        "key": "c",
+        "text": "Non, c’est une infraction"
+      },
+      {
+        "key": "d",
+        "text": "Oui, si on est en retard"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Non, c’est une infraction. Le refus peut entraîner une sanction si le contrôle est justifié.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q159",
+    "prompt": "Quelle liberté permet à des citoyens de manifester dans la rue ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La liberté d’association"
+      },
+      {
+        "key": "b",
+        "text": "La liberté de circulation"
+      },
+      {
+        "key": "c",
+        "text": "La liberté de réunion"
+      },
+      {
+        "key": "d",
+        "text": "La liberté d’expression"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "La liberté d’expression. Le droit de manifester est une forme d’expression protégée par la loi, mais soumise à déclaration.",
+    "category": "Droits et devoirs du citoyen"
+  },
+  {
+    "id": "q160",
+    "prompt": "Peut-on publier n’importe quoi sur internet ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, c’est un espace libre"
+      },
+      {
+        "key": "b",
+        "text": "Non, la loi s’applique aussi en ligne"
+      },
+      {
+        "key": "c",
+        "text": "Oui, sauf pour les journalistes"
+      },
+      {
+        "key": "d",
+        "text": "Oui, si c’est sur un réseau privé"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, la loi s’applique aussi en ligne. Internet ne dispense pas du respect des règles (diffamation, incitation à la haine, fake news…). --------",
+    "category": "Droits et devoirs du citoyen"
+  }
+]

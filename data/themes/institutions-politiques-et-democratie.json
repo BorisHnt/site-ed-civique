@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q41",
+    "prompt": "Quel est le chef de l’État en France et comment est-il choisi ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Président de la République, élu au suffrage universel direct par les citoyens français"
+      },
+      {
+        "key": "b",
+        "text": "Le Roi de France, désigné héréditairement"
+      },
+      {
+        "key": "c",
+        "text": "Le Premier ministre, élu par le Parlement"
+      },
+      {
+        "key": "d",
+        "text": "Le Président du Sénat, élu par les maires"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le chef de l’État français est le Président de la République, élu directement par l’ensemble des citoyens lors d’une élection nationale. La France est une République et n’a plus de roi depuis 1848. Le président actuel est élu pour 5 ans et représente la nation à l’intérieur et à l’international.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q42",
+    "prompt": "Qui est le chef du gouvernement en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Président de l’Assemblée nationale"
+      },
+      {
+        "key": "b",
+        "text": "Le Premier ministre, nommé par le Président de la République"
+      },
+      {
+        "key": "c",
+        "text": "Le Président du Conseil constitutionnel"
+      },
+      {
+        "key": "d",
+        "text": "Le Ministre de l’Intérieur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le chef du Gouvernement est le Premier ministre. Il est nommé par le Président de la République et dirige l’action du gouvernement (les ministres). Le Premier ministre actuel est le responsable de la conduite des politiques publiques et rend des comptes devant le Parlement.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q43",
+    "prompt": "Pour combien de temps est élu le Président de la République française, et combien de mandats consécutifs peut-il exercer ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un mandat de 7 ans, renouvelable sans limite"
+      },
+      {
+        "key": "b",
+        "text": "Un mandat de 5 ans, renouvelable une seule fois consécutivement"
+      },
+      {
+        "key": "c",
+        "text": "Un mandat de 5 ans, sans aucune limite de renouvellement"
+      },
+      {
+        "key": "d",
+        "text": "Un mandat de 4 ans, renouvelable deux fois"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Président de la République est élu pour 5 ans (quinquennat). Depuis la révision constitutionnelle de 2008, il ne peut exercer que deux mandats consécutifs maximum. (Avant 2000, le mandat présidentiel était de 7 ans, appelé septennat, mais ce n’est plus le cas.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q44",
+    "prompt": "Qui élit le Président de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’ensemble des citoyens français inscrits sur les listes électorales (suffrage universel direct)"
+      },
+      {
+        "key": "b",
+        "text": "Le Parlement (députés et sénateurs)"
+      },
+      {
+        "key": "c",
+        "text": "Un collège de « grands électeurs » comme les maires et élus locaux"
+      },
+      {
+        "key": "d",
+        "text": "Le Conseil constitutionnel"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le Président est élu directement par le peuple français lors d’une élection au suffrage universel direct. Tous les citoyens français majeurs peuvent voter pour choisir le président, à l’issue d’un scrutin à deux tours. (Ce mode d’élection est en place depuis le référendum de 1962).",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q45",
+    "prompt": "Qui est chargé de faire respecter la Constitution en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le président du Conseil économique, social et environnemental"
+      },
+      {
+        "key": "b",
+        "text": "Le Conseil constitutionnel"
+      },
+      {
+        "key": "c",
+        "text": "L’Assemblée nationale"
+      },
+      {
+        "key": "d",
+        "text": "Le Premier ministre"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Conseil constitutionnel. Le Conseil constitutionnel veille à la conformité des lois à la Constitution. Il peut être saisi avant la promulgation d’une loi, ou après, par une procédure appelée Question Prioritaire de Constitutionnalité (QPC). Il est composé de neuf membres nommés pour neuf ans, et d’anciens présidents de la République qui en sont membres de droit. Son rôle est essentiel pour garantir le respect de l’État de droit et des principes fondamentaux de la République.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q46",
+    "prompt": "Qui peut voter aux élections politiques en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Tout citoyen français majeur jouissant de ses droits civiques"
+      },
+      {
+        "key": "b",
+        "text": "Tous les résidents en France, quelle que soit leur nationalité"
+      },
+      {
+        "key": "c",
+        "text": "Seules les personnes payant des impôts"
+      },
+      {
+        "key": "d",
+        "text": "Uniquement les fonctionnaires et militaires"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le droit de vote est réservé aux citoyens français de 18 ans ou plus disposant de leurs droits civiques. La nationalité française est requise pour les élections nationales. (Les ressortissants de l’Union européenne peuvent voter seulement aux élections municipales et européennes, voir plus loin.) Il n’y a pas de condition de niveau d’impôt ou de profession – le suffrage est universel.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q47",
+    "prompt": "Le vote est-il obligatoire en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, chaque citoyen a l’obligation légale de voter à chaque élection"
+      },
+      {
+        "key": "b",
+        "text": "Non, le vote est un droit mais pas une obligation – c’est un devoir civique moralement encouragé"
+      },
+      {
+        "key": "c",
+        "text": "Oui, mais seulement pour les élections présidentielles"
+      },
+      {
+        "key": "d",
+        "text": "Non, et voter est même réservé aux volontaires"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, en France le vote n’est pas obligatoire. C’est un droit fondamental que chacun est libre d’exercer. Il est fortement encouragé de voter pour faire vivre la démocratie, mais aucune sanction n’est prévue en cas d’abstention. (Dans certains pays le vote est obligatoire, mais pas en France.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q48",
+    "prompt": "Qu’est-ce qu’une démocratie, comme la France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un système où un seul dirigeant non élu décide de tout"
+      },
+      {
+        "key": "b",
+        "text": "Un régime où le pouvoir appartient à une élite héréditaire"
+      },
+      {
+        "key": "c",
+        "text": "Un régime politique où le pouvoir appartient au peuple, qui l’exerce notamment par l’élection de représentants"
+      },
+      {
+        "key": "d",
+        "text": "Un État religieux fondé sur la loi divine"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La démocratie est « le gouvernement du peuple, par le peuple, pour le peuple ». En France, c’est une démocratie représentative : les citoyens élisent leurs représentants (président, députés, maires, etc.) qui exercent le pouvoir en leur nom. Le suffrage est universel, égal et secret, garantissant la participation de tous les citoyens aux choix politiques.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q49",
+    "prompt": "Combien de chambres composent le Parlement français et comment se nomment-elles ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une seule chambre : l’Assemblée nationale"
+      },
+      {
+        "key": "b",
+        "text": "Deux chambres : l’Assemblée nationale (députés) et le Sénat (sénateurs)"
+      },
+      {
+        "key": "c",
+        "text": "Trois chambres : Assemblée, Sénat et Conseil d’État"
+      },
+      {
+        "key": "d",
+        "text": "Deux chambres : la Chambre des députés et la Chambre des lords"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Parlement français est bicaméral, il comporte deux assemblées : l’Assemblée nationale (577 députés élus au suffrage direct) et le Sénat (348 sénateurs élus au suffrage indirect). Ces deux chambres votent les lois et contrôlent le Gouvernement. (Options c et d sont incorrectes : le Conseil d’État n’est pas une chambre législative, et « Chambre des lords » existe au Royaume-Uni, pas en France.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q50",
+    "prompt": "L’Assemblée nationale et le Sénat forment le Parlement. Quel est le rôle principal du Parlement en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Voter les lois et contrôler l’action du Gouvernement"
+      },
+      {
+        "key": "b",
+        "text": "Élire directement le Président de la République"
+      },
+      {
+        "key": "c",
+        "text": "Rendre la justice au nom du peuple français"
+      },
+      {
+        "key": "d",
+        "text": "Gérer les communes et départements"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le Parlement fait la loi : son rôle central est de discuter, d’amender et de voter les projets et propositions de loi. Il contrôle également l’action du Gouvernement (questions au gouvernement, commissions d’enquête, vote du budget, etc.). Ce pouvoir législatif est exercé conjointement par l’Assemblée nationale et le Sénat. (La justice est rendue par les tribunaux, et l’administration des communes/départements revient aux collectivités locales.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q51",
+    "prompt": "Qui détient le pouvoir législatif en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Parlement (Assemblée nationale + Sénat)"
+      },
+      {
+        "key": "b",
+        "text": "Le Président de la République"
+      },
+      {
+        "key": "c",
+        "text": "Le Conseil constitutionnel"
+      },
+      {
+        "key": "d",
+        "text": "Le Premier ministre tout seul"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le pouvoir législatif appartient au Parlement, c’est-à-dire aux deux chambres que sont l’Assemblée nationale et le Sénat. Ce sont elles qui font et votent les lois. Le Président et le Gouvernement exercent le pouvoir exécutif, et le Conseil constitutionnel peut censurer des lois contraires à la Constitution, mais seul le Parlement détient directement le pouvoir législatif.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q52",
+    "prompt": "Qui exerce le pouvoir exécutif en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Président de la République et le Gouvernement (Premier ministre et ministres)"
+      },
+      {
+        "key": "b",
+        "text": "Le Parlement (Assemblée et Sénat)"
+      },
+      {
+        "key": "c",
+        "text": "Les juges et magistrats"
+      },
+      {
+        "key": "d",
+        "text": "Les préfets dans chaque département"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le pouvoir exécutif est confié au Président de la République et au Gouvernement. Le Président nomme le Premier ministre et, sur proposition de celui-ci, les ministres ; il définit les grandes orientations. Le Gouvernement, sous l’autorité du Premier ministre, met en œuvre les lois et conduit les politiques de la nation. (Le Parlement détient le législatif, et les juges le pouvoir judiciaire.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q53",
+    "prompt": "Qui est le chef des armées selon la Constitution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Premier ministre"
+      },
+      {
+        "key": "b",
+        "text": "Le Président de la République"
+      },
+      {
+        "key": "c",
+        "text": "Le ministre des Armées"
+      },
+      {
+        "key": "d",
+        "text": "Le chef d’état-major des armées"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Président de la République est le Chef des armées (art. 15 de la Constitution). À ce titre, il est responsable de la défense nationale, préside les conseils de défense et peut décider de l’engagement des forces nucléaires si nécessaire. Il délègue la conduite opérationnelle au Gouvernement et à l’état-major, mais c’est lui qui dispose de l’autorité suprême sur l’armée.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q54",
+    "prompt": "Qui préside le Conseil des ministres, réunion hebdomadaire où sont prises les décisions gouvernementales majeures ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Premier ministre"
+      },
+      {
+        "key": "b",
+        "text": "Le Président de la République"
+      },
+      {
+        "key": "c",
+        "text": "Le Président de l’Assemblée nationale"
+      },
+      {
+        "key": "d",
+        "text": "Le doyen des ministres"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "C’est le Président de la République qui préside le Conseil des ministres (généralement chaque mercredi). Tous les ministres s’y réunissent autour du Président et du Premier ministre pour délibérer et adopter les projets de loi, ordonnances, décrets importants, etc. Le Premier ministre dirige l’action du gouvernement au quotidien, mais c’est le Président qui préside formellement ces conseils.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q55",
+    "prompt": "Combien y a-t-il de régions en France métropolitaine (en Europe) et en comptant l’outre-mer ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "13 régions en tout"
+      },
+      {
+        "key": "b",
+        "text": "5 régions en tout"
+      },
+      {
+        "key": "c",
+        "text": "18 régions en tout (13 en métropole et 5 en outre-mer)"
+      },
+      {
+        "key": "d",
+        "text": "101 régions"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La France compte 18 régions administratives en tout : 13 régions en France métropolitaine (après la réforme territoriale de 2016) et 5 régions d’outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte), qui ont le même statut qu’une région. (Attention à ne pas confondre avec le nombre de départements, qui est 101.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q56",
+    "prompt": "Combien de départements la France compte-t-elle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "13"
+      },
+      {
+        "key": "b",
+        "text": "27"
+      },
+      {
+        "key": "c",
+        "text": "50"
+      },
+      {
+        "key": "d",
+        "text": "101"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Il y a 101 départements français au total. La France métropolitaine est divisée en 96 départements (y compris la Corse), et il y a 5 départements d’outre-mer (DOM) : la Guadeloupe, la Martinique, la Guyane, La Réunion et Mayotte. Chaque département est dirigé par un conseil départemental élu.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q57",
+    "prompt": "Comment appelle-t-on le représentant de l’État dans un département français, chargé d’y faire appliquer les lois ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le maire"
+      },
+      {
+        "key": "b",
+        "text": "Le préfet"
+      },
+      {
+        "key": "c",
+        "text": "Le gouverneur"
+      },
+      {
+        "key": "d",
+        "text": "Le député"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Préfet est le haut fonctionnaire nommé par le Président (sur proposition du gouvernement) pour représenter l’État dans chaque département. Il veille à l’exécution des lois, au maintien de l’ordre public, coordonne les services de l’État et peut prendre des décisions administratives (arrêtés) dans son ressort. (Le maire représente la commune, pas l’État ; il y a un préfet par département.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q58",
+    "prompt": "Qui célèbre les mariages civils ayant une valeur légale en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le maire (ou un officier d’état civil délégué de la mairie)"
+      },
+      {
+        "key": "b",
+        "text": "Le curé ou prêtre de la paroisse"
+      },
+      {
+        "key": "c",
+        "text": "Un notaire"
+      },
+      {
+        "key": "d",
+        "text": "Le préfet du département"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Seul le maire (ou un adjoint au maire), en tant qu’officier d’état civil, est habilité à célébrer le mariage civil en mairie. Le mariage civil républicain est le seul reconnu par la loi. Une cérémonie religieuse peut être organisée ensuite (si les époux le souhaitent), mais elle n’a pas de valeur juridique sans le passage préalable en mairie.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q59",
+    "prompt": "Comment s’appelle la résidence officielle du Président de la République française, à Paris ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Palais du Louvre"
+      },
+      {
+        "key": "b",
+        "text": "Le Palais de l’Élysée"
+      },
+      {
+        "key": "c",
+        "text": "L’Hôtel de Ville"
+      },
+      {
+        "key": "d",
+        "text": "Le Palais du Luxembourg"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le chef de l’État habite et travaille au Palais de l’Élysée, situé au 55, rue du Faubourg-Saint-Honoré à Paris. C’est le siège de la Présidence de la République. (Le Palais du Luxembourg est le siège du Sénat, l’Hôtel de Ville est la mairie de Paris, et le Palais du Louvre est un musée.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q60",
+    "prompt": "Quelle institution vérifie que les lois votées respectent la Constitution française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Conseil constitutionnel"
+      },
+      {
+        "key": "b",
+        "text": "Le Conseil d’État"
+      },
+      {
+        "key": "c",
+        "text": "La Cour de cassation"
+      },
+      {
+        "key": "d",
+        "text": "Le Sénat"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le Conseil constitutionnel est chargé du contrôle de constitutionnalité des lois. Il peut être saisi après le vote d’une loi pour vérifier qu’elle ne contredit pas la Constitution. S’il trouve des articles inconstitutionnels, ils ne pourront pas être promulgués. Il veille ainsi au respect de la Constitution de 1958 et des droits fondamentaux qu’elle garantit. (Le Conseil d’État conseille le gouvernement et juge l’administration ; la Cour de cassation vérifie la bonne application de la loi par les tribunaux.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q61",
+    "prompt": "Comment les députés sont-ils élus à l’Assemblée nationale ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Au suffrage universel direct, par tous les citoyens français inscrits, lors des élections législatives"
+      },
+      {
+        "key": "b",
+        "text": "Au suffrage indirect par les grands électeurs"
+      },
+      {
+        "key": "c",
+        "text": "Nommés par le Président de la République"
+      },
+      {
+        "key": "d",
+        "text": "Tirés au sort parmi les électeurs volontaires"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Les 577 députés de l’Assemblée nationale sont élus au suffrage universel direct (par les citoyens) lors des élections législatives, qui ont lieu tous les 5 ans (ou plus tôt en cas de dissolution). Le mode de scrutin est majoritaire à deux tours par circonscription. (Le suffrage indirect concerne les sénateurs, pas les députés.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q62",
+    "prompt": "Comment les sénateurs sont-ils élus au Sénat français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Au suffrage universel direct par tous les citoyens"
+      },
+      {
+        "key": "b",
+        "text": "Au suffrage universel indirect par un collège de « grands électeurs » (élus locaux)"
+      },
+      {
+        "key": "c",
+        "text": "Nommés à vie par le Président"
+      },
+      {
+        "key": "d",
+        "text": "Désignés par les députés"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Les 348 sénateurs sont élus au suffrage universel indirect. En pratique, ce sont des grands électeurs – principalement des élus locaux (maires, conseillers municipaux, départementaux, régionaux) – qui votent pour élire les sénateurs dans chaque département. Le mandat sénatorial dure 6 ans et le Sénat est renouvelé par moitié tous les 3 ans. (Ce système assure la représentation des collectivités territoriales au Parlement.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q63",
+    "prompt": "Combien de régions la France métropolitaine comptait-elle avant 2016 (avant la fusion de certaines régions) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "22 régions"
+      },
+      {
+        "key": "b",
+        "text": "13 régions"
+      },
+      {
+        "key": "c",
+        "text": "5 régions"
+      },
+      {
+        "key": "d",
+        "text": "18 régions"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Avant la réforme territoriale de 2016, la France métropolitaine comptait 22 régions. Depuis 2016, ce nombre est réduit à 13 en métropole (certaines régions ont fusionné, comme l’Alsace-Lorraine-Champagne-Ardenne devenue Grand Est). En ajoutant les 5 régions d’outre-mer, on retrouve les 18 régions actuelles.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q64",
+    "prompt": "Comment appelle-t-on la plus petite collectivité territoriale en France, administrée par un maire et un conseil municipal ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une commune"
+      },
+      {
+        "key": "b",
+        "text": "Un département"
+      },
+      {
+        "key": "c",
+        "text": "Une communauté d’agglomération"
+      },
+      {
+        "key": "d",
+        "text": "Un canton"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "La commune est la plus petite division administrative disposant d’une autonomie locale. La France compte environ 35 000 communes, chacune dirigée par un maire et un conseil municipal élu. (Le canton est une subdivision de département à fins électorales ; une communauté d’agglomération est un regroupement de communes.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q65",
+    "prompt": "Le pays de France est-il un État fédéral (comme l’Allemagne ou les États-Unis) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Oui, la France est une fédération de régions autonomes"
+      },
+      {
+        "key": "b",
+        "text": "Non, la France est un État unitaire : le pouvoir central délègue certaines compétences aux collectivités, mais il n’y a pas d’États fédérés"
+      },
+      {
+        "key": "c",
+        "text": "Oui, depuis la Constitution de 1958"
+      },
+      {
+        "key": "d",
+        "text": "Non, mais elle envisage de le devenir"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Non, la France est un État unitaire et indivisible. Cela signifie que toutes les lois et décisions émanent d’un pouvoir central unique (Parlement et Gouvernement). Les collectivités territoriales (régions, départements, communes) ont des compétences administratives propres (on parle de décentralisation), mais elles ne sont pas souveraines – elles restent dans le cadre fixé par l’État. (Donc la France n’est pas une fédération d’États comme peut l’être l’Allemagne.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q66",
+    "prompt": "Qu’est-ce que la « décentralisation » en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Un abandon des pouvoirs de l’État central"
+      },
+      {
+        "key": "b",
+        "text": "Un transfert de certaines compétences administratives de l’État vers les collectivités locales (régions, départements, communes)"
+      },
+      {
+        "key": "c",
+        "text": "La suppression des départements"
+      },
+      {
+        "key": "d",
+        "text": "La privatisation des services publics"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La décentralisation désigne le processus par lequel l’État confie aux collectivités territoriales la gestion de certaines affaires locales, avec des ressources et une autonomie administratives propres. Par exemple, les régions gèrent les lycées et les transports régionaux, les départements gèrent les collèges et l’aide sociale, les communes s’occupent des écoles primaires, de l’état civil, etc. Ce n’est pas un retrait de l’État, mais un aménagement pour être plus efficace et au plus près des citoyens.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q67",
+    "prompt": "Quel organisme représentatif défend les intérêts des communes, départements et régions au niveau national ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’Assemblée nationale"
+      },
+      {
+        "key": "b",
+        "text": "Le Sénat"
+      },
+      {
+        "key": "c",
+        "text": "Le Conseil économique, social et environnemental"
+      },
+      {
+        "key": "d",
+        "text": "Le Conseil constitutionnel"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Sénat est souvent qualifié de « représentant des collectivités territoriales ». En effet, les sénateurs sont élus par les élus locaux et le Sénat veille particulièrement aux intérêts des collectivités dans le processus législatif. C’est une des missions traditionnelles du Sénat depuis sa création. (L’Assemblée nationale représente surtout la population générale ; le CESE représente la société civile organisée.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q68",
+    "prompt": "Combien de députés siègent à l’Assemblée nationale française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "348"
+      },
+      {
+        "key": "b",
+        "text": "577"
+      },
+      {
+        "key": "c",
+        "text": "500"
+      },
+      {
+        "key": "d",
+        "text": "233"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’Assemblée nationale est composée de 577 députés. Ils sont élus au suffrage universel direct, chacun représentant une circonscription. Ce nombre est fixé par la loi (il évolue peu : par exemple, il était de 577 en 2022 et le restera sauf réforme). Le Sénat, pour comparaison, compte 348 membres.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q69",
+    "prompt": "Combien de sénateurs compte le Sénat français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "100"
+      },
+      {
+        "key": "b",
+        "text": "577"
+      },
+      {
+        "key": "c",
+        "text": "348"
+      },
+      {
+        "key": "d",
+        "text": "233"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "348 sénateurs siègent au Sénat. Ce nombre a légèrement varié avec le temps (par exemple, il était de 321 avant 2004). Les sénateurs sont renouvelés par moitié tous les trois ans et sont élus pour un mandat de 6 ans.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q70",
+    "prompt": "Qui contrôle l’action du Gouvernement en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Président uniquement"
+      },
+      {
+        "key": "b",
+        "text": "Le Parlement (Assemblée nationale surtout)"
+      },
+      {
+        "key": "c",
+        "text": "Le Conseil constitutionnel"
+      },
+      {
+        "key": "d",
+        "text": "Personne, le Gouvernement est souverain entre deux élections"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Gouvernement est politiquement responsable devant le Parlement. L’Assemblée nationale peut le renverser en votant une motion de censure. Les députés et sénateurs contrôlent l’action gouvernementale par des questions au gouvernement, des commissions d’enquête, la discussion du budget, etc. Ce contre-pouvoir parlementaire est essentiel à l’équilibre des institutions dans notre démocratie.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q71",
+    "prompt": "Qu’est-ce qu’un référendum en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une loi votée par le Parlement"
+      },
+      {
+        "key": "b",
+        "text": "Une procédure de vote permettant au peuple de se prononcer directement sur une question ou un projet de loi"
+      },
+      {
+        "key": "c",
+        "text": "Un décret du Président"
+      },
+      {
+        "key": "d",
+        "text": "Un vote d’approbation obligatoire par les maires"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Un référendum est un vote direct de l’ensemble du corps électoral sur une question donnée. En France, le Président peut organiser un référendum national (par exemple, sur une réforme constitutionnelle ou un projet de loi important). Si la majorité des votants approuve, le projet est adopté. C’est un outil de démocratie directe prévu par la Constitution (article 11). (Exemple : le référendum de 1962 sur l’élection du Président au suffrage universel direct, ou celui de 2005 sur le traité européen.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q72",
+    "prompt": "Quel est le rôle du Conseil constitutionnel lors des élections nationales (présidentielles, législatives) en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Il n’a aucun rôle, il ne s’occupe que des lois"
+      },
+      {
+        "key": "b",
+        "text": "Il veille à la régularité des élections et proclame les résultats officiels"
+      },
+      {
+        "key": "c",
+        "text": "Il organise matériellement le scrutin"
+      },
+      {
+        "key": "d",
+        "text": "Il choisit les candidats autorisés à se présenter"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Conseil constitutionnel s’assure du bon déroulement des élections nationales : il examine et valide la liste des candidats à l’élection présidentielle, contrôle la régularité des opérations de vote, statue sur d’éventuels recours et proclame les résultats officiels. Il joue donc un rôle d’arbitre garantissant la sincérité du scrutin. (Il veille aussi au respect des plafonds de dépenses de campagne et aux comptes de campagne des candidats.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q73",
+    "prompt": "Qu’est-ce que le Conseil d’État en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le gouvernement du Président"
+      },
+      {
+        "key": "b",
+        "text": "La plus haute juridiction administrative et le conseiller juridique du Gouvernement"
+      },
+      {
+        "key": "c",
+        "text": "La réunion des ministres et secrétaires d’État"
+      },
+      {
+        "key": "d",
+        "text": "L’assemblée des représentants des cultes"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Conseil d’État est une institution unique qui a un double rôle : c’est la plus haute juridiction de l’ordre administratif (il juge en dernier ressort les litiges entre les citoyens et l’administration) et il conseille le Gouvernement sur le plan juridique (il donne un avis sur les projets de lois, décrets importants, etc.). Ses membres sont des hauts fonctionnaires et magistrats spécialisés en droit public.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q74",
+    "prompt": "Que se passe-t-il si l’Assemblée nationale adopte une motion de censure contre le Gouvernement ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Président de la République doit démissionner"
+      },
+      {
+        "key": "b",
+        "text": "Le Premier ministre et son Gouvernement doivent démissionner"
+      },
+      {
+        "key": "c",
+        "text": "La motion n’a qu’une valeur symbolique, il n’y a pas de conséquence"
+      },
+      {
+        "key": "d",
+        "text": "Le Conseil constitutionnel doit approuver la censure"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Si une majorité de députés vote une motion de censure à l’Assemblée nationale, cela signifie qu’ils retirent leur confiance au Gouvernement. Dans ce cas, le Premier ministre est contraint de présenter la démission du Gouvernement au Président de la République (art. 50 de la Constitution). C’est le principal moyen pour l’Assemblée de renverser le Gouvernement. (Une motion de censure est donc un acte grave, qui s’est produit quelques fois sous la Ve République – par exemple en 1962.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q75",
+    "prompt": "Qu’est-ce qu’une collectivité territoriale en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une division de l’État sans autonomie"
+      },
+      {
+        "key": "b",
+        "text": "Une subdivision administrative gérée par des élus locaux disposant de compétences propres"
+      },
+      {
+        "key": "c",
+        "text": "Une entreprise publique nationale"
+      },
+      {
+        "key": "d",
+        "text": "Un groupement de pays de l’Union européenne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Une collectivité territoriale (ou collectivité locale) est une entité administrative distincte de l’État, dotée de la personnalité juridique, gérée par un conseil d’élus et exerçant des compétences locales. Les principales collectivités sont : la commune, le département, la région (auxquels on peut ajouter les collectivités d’outre-mer spécifiques). Elles peuvent prendre des décisions réglementaires dans leur domaine (transports, éducation locale, action sociale, etc.) et disposent d’un budget propre, tout en restant sous le contrôle de la loi nationale.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q76",
+    "prompt": "Le mandat des députés à l’Assemblée nationale est de :",
+    "options": [
+      {
+        "key": "a",
+        "text": "4 ans"
+      },
+      {
+        "key": "b",
+        "text": "5 ans"
+      },
+      {
+        "key": "c",
+        "text": "6 ans"
+      },
+      {
+        "key": "d",
+        "text": "Illimité, jusqu’à ce qu’ils démissionnent"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Les députés sont élus pour 5 ans (sauf dissolution anticipée de l’Assemblée). Cette période de cinq ans alignée sur le mandat présidentiel est en vigueur depuis 2002. On appelle cette durée un quinquennat pour le Président et un législature de 5 ans pour les députés. (Option c : 6 ans correspond au mandat des sénateurs.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q77",
+    "prompt": "Comment s’appelle le président de l’Assemblée nationale actuelle et quel est son rôle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le doyen d’âge – il inaugure simplement la session parlementaire"
+      },
+      {
+        "key": "b",
+        "text": "Le Premier ministre – il dirige aussi l’Assemblée"
+      },
+      {
+        "key": "c",
+        "text": "Le Président de l’Assemblée nationale, élu par les députés – il dirige les débats et assure le fonctionnement de l’Assemblée"
+      },
+      {
+        "key": "d",
+        "text": "Le Président du Sénat – il préside aussi l’Assemblée nationale"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "L’Assemblée nationale élit en son sein un Président de l’Assemblée nationale (actuellement une Présidente, en 2023 c’est Yaël Braun-Pivet, première femme à ce poste). Ce président dirige les séances, veille à l’application du règlement, organise les discussions et représente l’Assemblée. C’est la quatrième personnalité de l’État par l’ordre protocolaire. (Le Président du Sénat dirige le Sénat, pas l’Assemblée.)",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q78",
+    "prompt": "Qu’est-ce que le CESE (Conseil économique, social et environnemental) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Une commission du Parlement"
+      },
+      {
+        "key": "b",
+        "text": "Une assemblée consultative composée de représentants de la société civile (syndicats, associations…)"
+      },
+      {
+        "key": "c",
+        "text": "Un organe de direction des politiques économiques du gouvernement"
+      },
+      {
+        "key": "d",
+        "text": "Un conseil d’entreprise européen"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le CESE est la troisième assemblée de la République (après l’Assemblée et le Sénat), mais il n’a qu’un rôle consultatif. Il réunit des représentants de la société civile organisée : syndicats de salariés, organisations patronales, associations, ONG, etc. Le CESE peut être saisi par le Gouvernement ou le Parlement pour donner un avis sur des projets de loi ou des questions de société (économie, social, environnement). Ses recommandations n’ont pas de pouvoir contraignant, mais enrichissent la réflexion législative.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q79",
+    "prompt": "Quel est le rôle du Conseil constitutionnel en période électorale présidentielle ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Valider les candidatures et proclamer les résultats officiels de l’élection présidentielle"
+      },
+      {
+        "key": "b",
+        "text": "Organiser les bureaux de vote"
+      },
+      {
+        "key": "c",
+        "text": "Financer les campagnes des candidats"
+      },
+      {
+        "key": "d",
+        "text": "Faire campagne pour le président sortant"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Pendant l’élection présidentielle, le Conseil constitutionnel reçoit les parrainages (signatures) des élus pour les candidats et établit la liste officielle des candidats. Après les tours de scrutin, il vérifie la régularité des votes, statue sur les éventuelles contestations, puis proclame les résultats officiels de l’élection. Il joue donc un rôle d’arbitre électoral impartial.",
+    "category": "Institutions politiques et démocratie"
+  },
+  {
+    "id": "q80",
+    "prompt": "La France fait-elle partie de l’Union européenne, et combien de pays composent l’UE actuellement ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Non, la France n’est pas membre de l’UE"
+      },
+      {
+        "key": "b",
+        "text": "Oui, et l’Union européenne compte 27 États membres"
+      },
+      {
+        "key": "c",
+        "text": "Oui, et l’UE comprend 28 pays (bientôt 29)"
+      },
+      {
+        "key": "d",
+        "text": "Oui, l’UE regroupe tous les pays du continent européen"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Oui, la France est un des pays fondateurs de l’Union européenne, et depuis le départ du Royaume-Uni en 2020, l’UE compte 27 États membres. La France participe activement aux institutions européennes (Parlement européen, Commission, Conseil, etc.). (Option c était valable avant 2020, mais le Royaume-Uni a quitté l’UE.) --------",
+    "category": "Institutions politiques et démocratie"
+  }
+]

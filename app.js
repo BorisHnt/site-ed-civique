@@ -81,6 +81,7 @@ const elements = {
   app: document.querySelector(".app-shell"),
   themeToggle: document.getElementById("theme-toggle"),
   themeIcon: document.getElementById("theme-icon"),
+  themeSelector: document.getElementById("theme-selector"),
   langFr: document.getElementById("lang-fr"),
   langEn: document.getElementById("lang-en"),
   sessionButtons: Array.from(document.querySelectorAll(".session-btn")),
@@ -115,6 +116,7 @@ const elements = {
 const state = {
   language: localStorage.getItem("civique-lang") || (navigator.language?.startsWith("fr") ? "fr" : "en"),
   theme: localStorage.getItem("civique-theme") || "light",
+  selectedTheme: "mix",
   sessionSize: 10,
   allQuestions: [],
   session: [],
@@ -125,6 +127,26 @@ const state = {
   ,
   route: "home"
 };
+
+const themeColors = {
+  mix: "#7a7cff",
+  "Principes et symboles de la République": "#7ba6ff",
+  "Institutions politiques et démocratie": "#8bd6a5",
+  "Histoire de France": "#ffc091",
+  "Droits et devoirs du citoyen": "#ff8fa3",
+  "Vie quotidienne et intégration en France": "#c7b4ff",
+  "Géographie et culture": "#80e0d9"
+};
+
+const themesList = [
+  { id: "mix", label: "Mix" },
+  { id: "Principes et symboles de la République", label: "Principes et symboles" },
+  { id: "Institutions politiques et démocratie", label: "Institutions et démocratie" },
+  { id: "Histoire de France", label: "Histoire de France" },
+  { id: "Droits et devoirs du citoyen", label: "Droits et devoirs" },
+  { id: "Vie quotidienne et intégration en France", label: "Vie quotidienne" },
+  { id: "Géographie et culture", label: "Géographie & culture" }
+];
 
 function t(key, ...args) {
   const value = i18n[state.language]?.[key];
@@ -378,8 +400,19 @@ function startSession() {
     loadQuestions();
     return;
   }
+  const pool = state.selectedTheme === "mix"
+    ? state.allQuestions
+    : state.allQuestions.filter((q) => q.category === state.selectedTheme);
+  if (!pool.length) {
+    showSnackbar("Aucune question pour ce thème.");
+    return;
+  }
+  if (!getAllowedSizes().includes(state.sessionSize)) {
+    state.sessionSize = getAllowedSizes()[0];
+  }
+  const size = Math.min(state.sessionSize, pool.length);
   setRoute("quizz");
-  state.session = shuffle(state.allQuestions).slice(0, state.sessionSize);
+  state.session = shuffle(pool).slice(0, size);
   state.currentIndex = 0;
   state.answers = {};
   state.finished = false;
@@ -410,6 +443,16 @@ function renderQuestion() {
   const total = state.session.length;
   elements.quizTitle.textContent = t("questionOf", state.currentIndex + 1, total);
   elements.progressBadge.textContent = `${state.currentIndex + 1} / ${total}`;
+
+  const container = document.createElement("div");
+  container.className = "question-container";
+
+  if (state.selectedTheme === "mix") {
+    const dot = document.createElement("span");
+    dot.className = "question-dot";
+    dot.style.background = themeColors[question.category] || themeColors.mix;
+    container.appendChild(dot);
+  }
 
   const progress = document.createElement("div");
   progress.className = "progress";
@@ -452,7 +495,8 @@ function renderQuestion() {
     options.appendChild(btn);
   });
 
-  elements.quizBody.append(progress, title, category, options);
+  container.append(progress, title, category, options);
+  elements.quizBody.append(container);
   updateNavButtons();
 }
 
@@ -650,13 +694,13 @@ function renderHistory() {
     const row = document.createElement("div");
     row.className = "history-item";
     const meta = document.createElement("div");
-    meta.className = "meta";
+    meta)className = "meta";
     const title = document.createElement("strong");
     title.textContent = t("sessionLabel", item.total);
     const date = document.createElement("span");
     date.className = "muted";
     date.textContent = formatDate(item.date);
-    meta.append(title, date);
+    meta)append(title, date);
 
     const chip = document.createElement("div");
     chip.className = "score-chip";
@@ -698,7 +742,9 @@ function syncTexts() {
 function setActiveSessionButton(size) {
   elements.sessionButtons.forEach((btn) => {
     const value = Number(btn.dataset.size);
-    if (value === size) {
+    const allowed = getAllowedSizes().includes(value);
+    btn.style.display = allowed ? "" : "none";
+    if (value === size && allowed) {
       btn.classList.add("active");
     } else {
       btn.classList.remove("active");
@@ -716,9 +762,41 @@ function setLanguageButtons() {
   }
 }
 
+function renderThemeButtons() {
+  elements.themeSelector.innerHTML = "";
+  themesList.forEach((item) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "theme-btn";
+    if (state.selectedTheme === item.id) btn.classList.add("active");
+    const dot = document.createElement("span");
+    dot.className = "theme-dot";
+    dot.style.background = themeColors[item.id] || "#ccc";
+    const label = document.createElement("span");
+    label.textContent = item.label;
+    btn.append(dot, label);
+    btn.addEventListener("click", () => {
+      state.selectedTheme = item.id;
+      // adjust session size if needed
+      if (!getAllowedSizes().includes(state.sessionSize)) {
+        state.sessionSize = getAllowedSizes()[0];
+      }
+      renderThemeButtons();
+      setActiveSessionButton(state.sessionSize);
+    });
+    elements.themeSelector.appendChild(btn);
+  });
+}
+
+function getAllowedSizes() {
+  if (state.selectedTheme === "mix") return [10, 20, 40];
+  return [10, 20];
+}
+
 function init() {
   setTheme(state.theme);
   setLanguageButtons();
+  renderThemeButtons();
   syncTexts();
   renderHistory();
   loadQuestions();

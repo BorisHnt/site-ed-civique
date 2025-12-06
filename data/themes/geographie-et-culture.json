@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "q201",
+    "prompt": "Combien de régions administratives compte la France métropolitaine depuis 2016 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "10"
+      },
+      {
+        "key": "b",
+        "text": "12"
+      },
+      {
+        "key": "c",
+        "text": "13"
+      },
+      {
+        "key": "d",
+        "text": "15"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "13. Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions administratives.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q202",
+    "prompt": "Quelle est la monnaie officielle de la France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le dollar américain"
+      },
+      {
+        "key": "b",
+        "text": "L’euro"
+      },
+      {
+        "key": "c",
+        "text": "Le franc suisse"
+      },
+      {
+        "key": "d",
+        "text": "La livre sterling"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’euro. Depuis 2002 l’euro est la monnaie légale de la France.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q203",
+    "prompt": "Laquelle de ces dates suivantes est un jour férié en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "5 mars"
+      },
+      {
+        "key": "b",
+        "text": "8 mai"
+      },
+      {
+        "key": "c",
+        "text": "24 mai"
+      },
+      {
+        "key": "d",
+        "text": "25 avril"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "8 mai, le 8 mai est un jour férié commémorant la fin de la Seconde Guerre mondiale, conformément au Code du travail français.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q204",
+    "prompt": "Quel âge faut-il avoir pour pouvoir se porter candidat à l’élection présidentielle en France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "16 ans"
+      },
+      {
+        "key": "b",
+        "text": "18 ans"
+      },
+      {
+        "key": "c",
+        "text": "23 ans"
+      },
+      {
+        "key": "d",
+        "text": "33 ans"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "18 ans, être majeur, c’est-à-dire âgé d’au moins 18 ans, est une condition d’éligibilité pour se présenter à l’élection présidentielle.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q205",
+    "prompt": "Combien y a-t-il de départements d’outre-mer (DOM) français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "3"
+      },
+      {
+        "key": "b",
+        "text": "4"
+      },
+      {
+        "key": "c",
+        "text": "5"
+      },
+      {
+        "key": "d",
+        "text": "7"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "5, la France compte cinq départements d’outre-mer : la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q206",
+    "prompt": "Quelle date correspond à la fête nationale française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "1er mai"
+      },
+      {
+        "key": "b",
+        "text": "8 mai"
+      },
+      {
+        "key": "c",
+        "text": "11 novembre"
+      },
+      {
+        "key": "d",
+        "text": "14 juillet"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "14 juillet qui commémore notamment la prise de la Bastille et est la fête nationale française.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q207",
+    "prompt": "Quel animal est l’emblème non officiel de la France, souvent associé au patriotisme français ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le coq"
+      },
+      {
+        "key": "b",
+        "text": "Le lion"
+      },
+      {
+        "key": "c",
+        "text": "L’aigle"
+      },
+      {
+        "key": "d",
+        "text": "L’ours"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le coq. Le coq est un symbole traditionnel de la France, associé au mot latin gallus signifiant « coq » et « Gaulois ».",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q208",
+    "prompt": "Selon la Constitution, quel est le principe fondamental inscrit comme principe de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Gouvernement du peuple, par le peuple, pour le peuple"
+      },
+      {
+        "key": "b",
+        "text": "Liberté, Égalité, Fraternité"
+      },
+      {
+        "key": "c",
+        "text": "Indivisible, laïque, sociale"
+      },
+      {
+        "key": "d",
+        "text": "Souveraineté nationale"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Gouvernement du peuple, par le peuple, pour le peuple (l’article 2 de la Constitution de 1958 dispose que « son principe est : gouvernement du peuple, par le peuple et pour le peuple »).",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q209",
+    "prompt": "Quel est le plus long fleuve de France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Seine"
+      },
+      {
+        "key": "b",
+        "text": "La Loire"
+      },
+      {
+        "key": "c",
+        "text": "Le Rhône"
+      },
+      {
+        "key": "d",
+        "text": "La Garonne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Loire. La Loire est le fleuve le plus long s’écoulant entièrement en France, avec environ 1006 km de longueur.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q210",
+    "prompt": "Quel fleuve traverse la ville de Paris ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Rhône"
+      },
+      {
+        "key": "b",
+        "text": "La Seine"
+      },
+      {
+        "key": "c",
+        "text": "La Garonne"
+      },
+      {
+        "key": "d",
+        "text": "Le Rhin"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Seine. La Seine traverse Paris d’ouest en est, divisant la capitale en rive gauche et rive droite.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q211",
+    "prompt": "Quel est le point culminant de la France métropolitaine ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le mont Ventoux (1912 m)"
+      },
+      {
+        "key": "b",
+        "text": "Le mont Aigoual (1565 m)"
+      },
+      {
+        "key": "c",
+        "text": "Le mont Blanc (4806 m)"
+      },
+      {
+        "key": "d",
+        "text": "Le pic du Midi (2877 m)"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le mont Blanc. Avec une altitude d’environ 4806 mètres, c’est le plus haut sommet de France.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q212",
+    "prompt": "Quel massif montagneux marque la frontière naturelle entre la France et l’Espagne ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Les Alpes"
+      },
+      {
+        "key": "b",
+        "text": "Le Massif central"
+      },
+      {
+        "key": "c",
+        "text": "Les Pyrénées"
+      },
+      {
+        "key": "d",
+        "text": "Le Jura"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Les Pyrénées. Ils forment la frontière naturelle entre la France et l’Espagne.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q213",
+    "prompt": "Quel monument parisien a été construit pour l’Exposition universelle de 1889 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’Arc de Triomphe"
+      },
+      {
+        "key": "b",
+        "text": "La Tour Eiffel"
+      },
+      {
+        "key": "c",
+        "text": "La Grande Arche de la Défense"
+      },
+      {
+        "key": "d",
+        "text": "Le Sacré-Cœur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "La Tour Eiffel. Elle a été construite pour l’Exposition universelle de 1889.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q214",
+    "prompt": "Quel est le plus grand château de la Vallée de la Loire ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Château de Chenonceau"
+      },
+      {
+        "key": "b",
+        "text": "Château de Chambord"
+      },
+      {
+        "key": "c",
+        "text": "Château d’Amboise"
+      },
+      {
+        "key": "d",
+        "text": "Château de Blois"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Château de Chambord. C’est le plus grand château de la vallée de la Loire.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q215",
+    "prompt": "Laquelle de ces institutions est chargée de la défense de la langue française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’UNESCO"
+      },
+      {
+        "key": "b",
+        "text": "L’Académie française"
+      },
+      {
+        "key": "c",
+        "text": "Le Sénat"
+      },
+      {
+        "key": "d",
+        "text": "L’Assemblée nationale"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "L’Académie française. Elle fixe les règles de la langue française.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q216",
+    "prompt": "Quel élément de la culture française est inscrit au patrimoine culturel immatériel de l’UNESCO depuis 2010 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le repas gastronomique des Français"
+      },
+      {
+        "key": "b",
+        "text": "Le vin de Bordeaux"
+      },
+      {
+        "key": "c",
+        "text": "La danse de l’opéra de Paris"
+      },
+      {
+        "key": "d",
+        "text": "Le fromage Camembert"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Le repas gastronomique des Français. Il est inscrit depuis 2010 à l’UNESCO.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q217",
+    "prompt": "La Fête de la Musique a lieu chaque année le :",
+    "options": [
+      {
+        "key": "a",
+        "text": "1er mai"
+      },
+      {
+        "key": "b",
+        "text": "14 juillet"
+      },
+      {
+        "key": "c",
+        "text": "21 juin"
+      },
+      {
+        "key": "d",
+        "text": "11 novembre"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "21 juin. Elle coïncide avec le solstice d’été.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q218",
+    "prompt": "Quel site situé en Normandie est classé au patrimoine mondial de l’UNESCO ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Tour Eiffel"
+      },
+      {
+        "key": "b",
+        "text": "Le Mont-Saint-Michel"
+      },
+      {
+        "key": "c",
+        "text": "Le Palais des Papes (Avignon)"
+      },
+      {
+        "key": "d",
+        "text": "Le Pont du Gard"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Mont-Saint-Michel.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q219",
+    "prompt": "Quelle est la langue officielle de la France selon sa Constitution ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "L’anglais"
+      },
+      {
+        "key": "b",
+        "text": "L’allemand"
+      },
+      {
+        "key": "c",
+        "text": "Le français"
+      },
+      {
+        "key": "d",
+        "text": "L’espagnol"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Le français. C’est la langue officielle depuis 1992 (article 2).",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q220",
+    "prompt": "Combien y a-t-il de départements en France (métropole + outre-mer) ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "94"
+      },
+      {
+        "key": "b",
+        "text": "100"
+      },
+      {
+        "key": "c",
+        "text": "101"
+      },
+      {
+        "key": "d",
+        "text": "103"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "101 départements.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q221",
+    "prompt": "Dans quel château français se trouve la célèbre Galerie des Glaces ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Chambord"
+      },
+      {
+        "key": "b",
+        "text": "Versailles"
+      },
+      {
+        "key": "c",
+        "text": "Blois"
+      },
+      {
+        "key": "d",
+        "text": "Fontainebleau"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Versailles.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q222",
+    "prompt": "Quelle date commémore la victoire des Alliés sur l’Allemagne nazie en 1945 ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "11 novembre"
+      },
+      {
+        "key": "b",
+        "text": "8 mai 1945"
+      },
+      {
+        "key": "c",
+        "text": "14 juillet"
+      },
+      {
+        "key": "d",
+        "text": "25 décembre"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "8 mai 1945.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q223",
+    "prompt": "Lequel de ces fromages bénéficie d’une AOP ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Cheddar"
+      },
+      {
+        "key": "b",
+        "text": "Brie industriel"
+      },
+      {
+        "key": "c",
+        "text": "Camembert de Normandie"
+      },
+      {
+        "key": "d",
+        "text": "Gouda"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Camembert de Normandie.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q224",
+    "prompt": "Quelle est la devise officielle de la République française ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "« Vive la République »"
+      },
+      {
+        "key": "b",
+        "text": "« Liberté, Égalité, Fraternité »"
+      },
+      {
+        "key": "c",
+        "text": "« Travail, Famille, Patrie »"
+      },
+      {
+        "key": "d",
+        "text": "« Unité, Progrès, Justice »"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "« Liberté, Égalité, Fraternité ».",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q225",
+    "prompt": "Quel peintre français est célèbre pour ses tableaux de nénuphars ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Claude Monet"
+      },
+      {
+        "key": "b",
+        "text": "Renoir"
+      },
+      {
+        "key": "c",
+        "text": "Matisse"
+      },
+      {
+        "key": "d",
+        "text": "Cézanne"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Claude Monet.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q226",
+    "prompt": "Dans quelle région française se trouve Marseille ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Occitanie"
+      },
+      {
+        "key": "b",
+        "text": "Provence-Alpes-Côte d’Azur"
+      },
+      {
+        "key": "c",
+        "text": "Normandie"
+      },
+      {
+        "key": "d",
+        "text": "Auvergne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Provence-Alpes-Côte d’Azur.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q227",
+    "prompt": "Quelle est la préfecture de la région Auvergne-Rhône-Alpes ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Grenoble"
+      },
+      {
+        "key": "b",
+        "text": "Clermont-Ferrand"
+      },
+      {
+        "key": "c",
+        "text": "Saint-Étienne"
+      },
+      {
+        "key": "d",
+        "text": "Lyon"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Lyon.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q228",
+    "prompt": "Quel est le régime politique de la France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Monarchie constitutionnelle"
+      },
+      {
+        "key": "b",
+        "text": "République"
+      },
+      {
+        "key": "c",
+        "text": "Empire"
+      },
+      {
+        "key": "d",
+        "text": "Dictature"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "République.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q229",
+    "prompt": "Où peut-on admirer le tableau de la Joconde ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Musée du Louvre"
+      },
+      {
+        "key": "b",
+        "text": "Musée d’Orsay"
+      },
+      {
+        "key": "c",
+        "text": "Château de Versailles"
+      },
+      {
+        "key": "d",
+        "text": "Musée Picasso"
+      }
+    ],
+    "answerLetter": "a",
+    "answer": "",
+    "explanation": "Musée du Louvre.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q230",
+    "prompt": "Quel fleuve traverse la ville de Lyon ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Seine"
+      },
+      {
+        "key": "b",
+        "text": "Le Rhône"
+      },
+      {
+        "key": "c",
+        "text": "La Loire"
+      },
+      {
+        "key": "d",
+        "text": "La Garonne"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Rhône.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q231",
+    "prompt": "Quel âge a la ville de Marseille, fondée par les Phocéens venus de Grèce ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Environ 500 ans"
+      },
+      {
+        "key": "b",
+        "text": "Environ 1000 ans"
+      },
+      {
+        "key": "c",
+        "text": "Environ 2000 ans"
+      },
+      {
+        "key": "d",
+        "text": "Environ 2600 ans"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Environ 2600 ans. Marseille a été fondée vers 600 avant J.-C. par des marins grecs de Phocée. C’est la plus ancienne ville de France.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q232",
+    "prompt": "Qui a fait construire le Palais Longchamp, monument emblématique de Marseille ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Napoléon Ier"
+      },
+      {
+        "key": "b",
+        "text": "Louis XIV"
+      },
+      {
+        "key": "c",
+        "text": "Le baron Haussmann"
+      },
+      {
+        "key": "d",
+        "text": "Le maire Jean-Baptiste Monjean"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Le maire Jean-Baptiste Monjean. Le Palais Longchamp a été inauguré en 1869 pour célébrer l’arrivée des eaux de la Durance à Marseille, sur décision de la municipalité dirigée par Monjean.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q233",
+    "prompt": "Comment s'appelle l'endroit où l'équipe de l'Olympique de Marseille joue ses matchs à domicile ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Stade Jean-Bouin"
+      },
+      {
+        "key": "b",
+        "text": "Stade Vélodrome"
+      },
+      {
+        "key": "c",
+        "text": "Parc des Princes"
+      },
+      {
+        "key": "d",
+        "text": "Stade de la Méditerranée"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Stade Vélodrome. L’Olympique de Marseille joue au stade Vélodrome, renommé Orange Vélodrome pour des raisons de sponsoring.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q234",
+    "prompt": "Laquelle de ces calanques n'est pas une calanque de Marseille ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Sormiou"
+      },
+      {
+        "key": "b",
+        "text": "Sugiton"
+      },
+      {
+        "key": "c",
+        "text": "Morgiou"
+      },
+      {
+        "key": "d",
+        "text": "Anissette"
+      }
+    ],
+    "answerLetter": "d",
+    "answer": "",
+    "explanation": "Anissette. Anissette est une boisson anisée, pas une calanque. Les autres (Sormiou, Morgiou, Sugiton) font partie du Parc national des Calanques de Marseille.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q235",
+    "prompt": "Quel est le vrai nom de la basilique connue sous le nom de « La Bonne Mère » ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Notre-Dame de Marseille"
+      },
+      {
+        "key": "b",
+        "text": "Notre-Dame de la Garde"
+      },
+      {
+        "key": "c",
+        "text": "Notre-Dame des Bienheureux"
+      },
+      {
+        "key": "d",
+        "text": "Notre-Dame du Sauveur"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Notre-Dame de la Garde. Surnommée « la Bonne Mère » par les Marseillais, cette basilique surplombe la ville depuis 1864.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q236",
+    "prompt": "Quelle ville française est connue comme la capitale mondiale du vin ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Dijon"
+      },
+      {
+        "key": "b",
+        "text": "Reims"
+      },
+      {
+        "key": "c",
+        "text": "Bordeaux"
+      },
+      {
+        "key": "d",
+        "text": "Beaune"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "Bordeaux. Bordeaux est célèbre pour ses grands crus et ses vignobles réputés dans le monde entier.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q237",
+    "prompt": "Quel festival de théâtre se tient chaque été dans le sud de la France ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Le Festival de Cannes"
+      },
+      {
+        "key": "b",
+        "text": "Le Festival d’Avignon"
+      },
+      {
+        "key": "c",
+        "text": "Les Francofolies"
+      },
+      {
+        "key": "d",
+        "text": "Le Printemps de Bourges"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Le Festival d’Avignon. Ce festival est l’un des plus grands festivals de théâtre et de spectacle vivant en Europe.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q238",
+    "prompt": "Quel célèbre monument français a été offert par la France aux États-Unis ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Tour Eiffel"
+      },
+      {
+        "key": "b",
+        "text": "L’Arc de Triomphe"
+      },
+      {
+        "key": "c",
+        "text": "La Statue de la Liberté"
+      },
+      {
+        "key": "d",
+        "text": "Le Panthéon"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La Statue de la Liberté. Offerte en 1886, la Statue de la Liberté a été construite en France avant d’être envoyée à New York.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q239",
+    "prompt": "Quel est le nom du festival de cinéma français organisé chaque année sur la Côte d’Azur ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "Festival d’Avignon"
+      },
+      {
+        "key": "b",
+        "text": "Festival de Cannes"
+      },
+      {
+        "key": "c",
+        "text": "Festival Lumière"
+      },
+      {
+        "key": "d",
+        "text": "Festival de Deauville"
+      }
+    ],
+    "answerLetter": "b",
+    "answer": "",
+    "explanation": "Festival de Cannes. Le Festival de Cannes est l’un des plus prestigieux festivals de cinéma au monde, créé en 1946.",
+    "category": "Géographie et culture"
+  },
+  {
+    "id": "q240",
+    "prompt": "Quel fleuve traverse la ville de Paris ?",
+    "options": [
+      {
+        "key": "a",
+        "text": "La Garonne"
+      },
+      {
+        "key": "b",
+        "text": "La Loire"
+      },
+      {
+        "key": "c",
+        "text": "La Seine"
+      },
+      {
+        "key": "d",
+        "text": "Le Rhône"
+      }
+    ],
+    "answerLetter": "c",
+    "answer": "",
+    "explanation": "La Seine traverse Paris d’est en ouest, formant une boucle autour de l’île de la Cité et de l’île Saint-Louis. Ce fleuve emblématique est intimement lié à l’histoire et à l’identité de la capitale française, et ses rives sont classées au patrimoine mondial de l’UNESCO. De nombreux ponts célèbres, comme le Pont Neuf ou le Pont Alexandre III, enjambent la Seine à Paris.",
+    "category": "Géographie et culture"
+  }
+]
