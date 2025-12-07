@@ -777,7 +777,6 @@ function syncTexts() {
   if (sizeLabel) sizeLabel.textContent = state.language === "fr" ? "Nombre de questions" : "Number of questions";
   elements.quizEyebrow.textContent = t("quizEyebrow");
   elements.quizPlaceholder.textContent = t("quizPlaceholder");
-  elements.prevLabel.textContent = t("prev");
   elements.nextLabel.textContent = t("next");
   elements.historyEyebrow.textContent = t("historyEyebrow");
   elements.historyTitle.textContent = t("historyTitle");
