@@ -97,6 +97,7 @@ const elements = {
   heroDesc: document.getElementById("hero-desc"),
   revisionToggle: document.getElementById("revision-toggle"),
   revisionLabel: document.getElementById("revision-label"),
+  prevLabel: document.getElementById("prev-label"),
   quizEyebrow: document.getElementById("quiz-eyebrow"),
   quizTitle: document.getElementById("quiz-title"),
   quizBody: document.getElementById("quiz-body"),
@@ -777,7 +778,8 @@ function syncTexts() {
   if (sizeLabel) sizeLabel.textContent = state.language === "fr" ? "Nombre de questions" : "Number of questions";
   elements.quizEyebrow.textContent = t("quizEyebrow");
   elements.quizPlaceholder.textContent = t("quizPlaceholder");
-  elements.nextLabel.textContent = t("next");
+  if (elements.prevLabel) elements.prevLabel.textContent = t("prev");
+  if (elements.nextLabel) elements.nextLabel.textContent = t("next");
   elements.historyEyebrow.textContent = t("historyEyebrow");
   elements.historyTitle.textContent = t("historyTitle");
   elements.historyPlaceholder.textContent = t("historyEmpty");
