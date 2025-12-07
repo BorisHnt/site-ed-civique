@@ -2,7 +2,7 @@
   --bg: #f5f7fb;
   --card: #ffffff;
   --card-muted: #f0f2f8;
-  --text: #0d0f1a;
+  --text: #141414;
   --muted: #4a5163;
   --accent-blue: #3751ff;
   --accent-red: #e34b5f;
@@ -593,7 +593,7 @@ h3 { font-size: 18px; }
 .history-item .score-chip {
   padding: 6px 10px;
   border-radius: 10px;
-  background: rgba(55, 81, 255, 0.1);
+  background: rgba(22, 22, 22, 0.1);
   font-weight: 700;
 }
 .ghost-btn.small {
