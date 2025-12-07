@@ -465,6 +465,10 @@ h3 { font-size: 18px; }
 
 .spacer { flex: 1; }
 
+#prev-btn {
+  display: none;
+}
+
 .question-title {
   font-size: 18px;
   margin: 0 0 8px;

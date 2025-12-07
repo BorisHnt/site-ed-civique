@@ -467,6 +467,9 @@ function renderQuestion() {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "option";
+    if (state.reviewPause) {
+      btn.disabled = true;
+    }
     if (state.answers[question.id] === opt.key) {
       btn.classList.add("selected");
     }
@@ -481,6 +484,7 @@ function renderQuestion() {
     btn.appendChild(letter);
     btn.appendChild(text);
     btn.addEventListener("click", () => {
+      if (state.reviewPause) return;
       state.answers[question.id] = opt.key;
       state.reviewPause = false;
       renderQuestion();
