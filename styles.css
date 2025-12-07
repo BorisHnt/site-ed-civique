@@ -17,7 +17,7 @@
 }
 
 [data-theme="dark"] {
-  --bg: #252525;
+  --bg: #f5f7fb;
   --card: #121826;
   --card-muted: #141b2b;
   --text: #fffeee;
@@ -46,6 +46,10 @@ body {
               linear-gradient(160deg, var(--bg), #ffffff 40%, var(--bg));
   color: var(--text);
   min-height: 100vh;
+}
+
+body[data-theme="dark"] {
+  background: linear-gradient(150deg, #1b1b1b, #252525 50%, #1b1b1b);
 }
 
 .app-shell {
