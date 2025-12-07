@@ -122,6 +122,7 @@ const state = {
   selectedTheme: "mix",
   sessionSize: 10,
   revisionMode: localStorage.getItem("civique-revision") === "1",
+  reviewPause: false,
   allQuestions: [],
   themeQuestions: {},
   session: [],
@@ -412,6 +413,7 @@ function startSession() {
   state.currentIndex = 0;
   state.answers = {};
   state.finished = false;
+  state.reviewPause = false;
   setRoute("quizz");
   renderQuestion();
 }
@@ -480,6 +482,7 @@ function renderQuestion() {
     btn.appendChild(text);
     btn.addEventListener("click", () => {
       state.answers[question.id] = opt.key;
+      state.reviewPause = false;
       renderQuestion();
     });
     options.appendChild(btn);
@@ -511,8 +514,24 @@ function updateNavButtons() {
 function nextStep() {
   if (!state.session.length || state.finished) return;
   const question = state.session[state.currentIndex];
+  if (state.revisionMode && state.reviewPause) {
+    state.reviewPause = false;
+    if (state.currentIndex === state.session.length - 1) {
+      finalizeSession();
+    } else {
+      state.currentIndex += 1;
+      renderQuestion();
+    }
+    return;
+  }
   if (!state.answers[question.id]) {
     showSnackbar(t("selectAnswerPrompt"));
+    return;
+  }
+  const isCorrect = state.answers[question.id].toLowerCase() === question.answerLetter?.toLowerCase();
+  if (state.revisionMode && !isCorrect) {
+    state.reviewPause = true;
+    renderQuestion();
     return;
   }
   if (state.currentIndex === state.session.length - 1) {
@@ -529,12 +548,14 @@ function prevStep() {
     state.session = [];
     state.answers = {};
     state.currentIndex = 0;
+    state.reviewPause = false;
     renderQuestion();
     setRoute("home");
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
   if (!state.session.length || state.currentIndex === 0) return;
+  state.reviewPause = false;
   state.currentIndex -= 1;
   renderQuestion();
 }
@@ -564,6 +585,7 @@ function finalizeSession() {
   saveHistory();
   renderSummary();
   renderHistory();
+  state.reviewPause = false;
 }
 
 function renderSummary() {
@@ -674,7 +696,7 @@ function buildTooltip(res) {
 }
 
 function buildRevisionFeedback(question) {
-  if (!state.revisionMode) return null;
+  if (!state.revisionMode || !state.reviewPause) return null;
   const userAnswer = state.answers[question.id];
   if (!userAnswer) return null;
   const isCorrect = userAnswer.toLowerCase() === question.answerLetter?.toLowerCase();
@@ -892,6 +914,7 @@ function init() {
       state.revisionMode = !state.revisionMode;
       localStorage.setItem("civique-revision", state.revisionMode ? "1" : "0");
       setRevisionUI();
+      state.reviewPause = false;
       renderQuestion();
     });
   }
