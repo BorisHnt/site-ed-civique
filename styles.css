@@ -6,10 +6,12 @@
   --muted: #4a5163;
   --accent-blue: #3751ff;
   --accent-red: #e34b5f;
+  --accent-main: #6c5ce7;
+  --accent-boost: #a29bfe;
   --accent-cream: #f5efe6;
   --border: #e3e7f2;
-  --accent-gradient: linear-gradient(125deg, var(--accent-blue), var(--accent-red));
-  --accent-shadow: 0 12px 26px rgba(55, 81, 255, 0.22);
+  --accent-gradient: linear-gradient(125deg, var(--accent-main), var(--accent-boost));
+  --accent-shadow: 0 12px 26px rgba(108, 92, 231, 0.32);
   --shadow-strong: 0 18px 60px rgba(23, 46, 117, 0.14);
   --shadow-soft: 0 10px 30px rgba(0, 24, 82, 0.12);
   --corner: 16px;
@@ -210,7 +212,7 @@ h3 { font-size: 18px; }
   font-weight: 700;
   cursor: pointer;
   border: 1px solid var(--border);
-  box-shadow: 0 8px 0 rgba(55, 81, 255, 0.15);
+  box-shadow: 0 8px 0 rgba(108, 92, 231, 0.18);
   transition: transform 0.1s ease, box-shadow 0.1s ease, border 0.15s ease;
 }
 
