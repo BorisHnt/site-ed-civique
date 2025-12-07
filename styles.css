@@ -447,6 +447,7 @@ h3 { font-size: 18px; }
 .question-container {
   position: relative;
   padding-top: 10px;
+  color: var(--text);
 }
 
 .quiz-footer {
@@ -461,6 +462,7 @@ h3 { font-size: 18px; }
 .question-title {
   font-size: 18px;
   margin: 0 0 8px;
+  color: var(--text);
 }
 
 .question-dot {
@@ -488,6 +490,7 @@ h3 { font-size: 18px; }
   display: flex;
   flex-direction: column;
   gap: 10px;
+  color: var(--text);
 }
 
 .option {
@@ -501,6 +504,7 @@ h3 { font-size: 18px; }
   align-items: flex-start;
   text-align: left;
   transition: transform 0.1s ease, border 0.1s ease, box-shadow 0.12s ease;
+  color: var(--text);
 }
 
 .option:hover {
