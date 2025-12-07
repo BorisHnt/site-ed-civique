@@ -102,8 +102,6 @@ const elements = {
   quizBody: document.getElementById("quiz-body"),
   quizPlaceholder: document.getElementById("quiz-placeholder"),
   progressBadge: document.getElementById("progress-badge"),
-  prevBtn: document.getElementById("prev-btn"),
-  prevLabel: document.getElementById("prev-label"),
   nextBtn: document.getElementById("next-btn"),
   nextLabel: document.getElementById("next-label"),
   historyEyebrow: document.getElementById("history-eyebrow"),
@@ -426,7 +424,6 @@ function renderQuestion() {
     if (quizCard) quizCard.classList.add("hidden");
     elements.quizTitle.textContent = "";
     elements.progressBadge.textContent = "";
-    elements.prevBtn.disabled = true;
     elements.nextBtn.disabled = true;
     return;
   } else if (quizCard) {
@@ -503,14 +500,10 @@ function renderQuestion() {
 
 function updateNavButtons() {
   if (state.finished) {
-    elements.prevLabel.textContent = t("mainMenu");
     elements.nextLabel.textContent = t("start");
-    elements.prevBtn.disabled = false;
     elements.nextBtn.disabled = false;
   } else {
-    elements.prevLabel.textContent = t("prev");
     elements.nextLabel.textContent = state.currentIndex === state.session.length - 1 ? t("finish") : t("next");
-    elements.prevBtn.disabled = state.currentIndex === 0;
     elements.nextBtn.disabled = !state.session.length;
   }
 }
@@ -544,24 +537,6 @@ function nextStep() {
     state.currentIndex += 1;
     renderQuestion();
   }
-}
-
-function prevStep() {
-  if (state.finished) {
-    state.finished = false;
-    state.session = [];
-    state.answers = {};
-    state.currentIndex = 0;
-    state.reviewPause = false;
-    renderQuestion();
-    setRoute("home");
-    window.scrollTo({ top: 0, behavior: "smooth" });
-    return;
-  }
-  if (!state.session.length || state.currentIndex === 0) return;
-  state.reviewPause = false;
-  state.currentIndex -= 1;
-  renderQuestion();
 }
 
 function finalizeSession() {
@@ -930,7 +905,6 @@ function init() {
       nextStep();
     }
   });
-  elements.prevBtn.addEventListener("click", prevStep);
 
   document.addEventListener("click", (e) => {
     if (!elements.tooltip.contains(e.target)) {
