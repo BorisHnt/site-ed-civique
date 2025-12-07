@@ -226,6 +226,11 @@ h3 { font-size: 18px; }
   transition: transform 0.1s ease, box-shadow 0.1s ease, border 0.15s ease;
 }
 
+[data-theme="dark"] .session-btn:not(.active) {
+  background: #ffffff;
+  color: var(--accent-main);
+}
+
 .session-btn.active {
   background: var(--accent-main);
   color: #fff;
@@ -593,7 +598,7 @@ h3 { font-size: 18px; }
 .history-item .score-chip {
   padding: 6px 10px;
   border-radius: 10px;
-  background: rgba(22, 22, 22, 0.1);
+  background: rgba(55, 81, 255, 0.1);
   font-weight: 700;
 }
 .ghost-btn.small {
