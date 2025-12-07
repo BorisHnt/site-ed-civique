@@ -517,6 +517,10 @@ function nextStep() {
 function prevStep() {
   if (state.finished) {
     state.finished = false;
+    state.session = [];
+    state.answers = {};
+    state.currentIndex = 0;
+    renderQuestion();
     setRoute("home");
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
