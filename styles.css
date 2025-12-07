@@ -171,6 +171,11 @@ h3 { font-size: 18px; }
   box-shadow: 0 7px 0 var(--accent-boost);
 }
 
+.pill-btn.wide {
+  width: 100%;
+  justify-content: center;
+}
+
 .layout {
   display: flex;
   flex-direction: column;
@@ -258,6 +263,7 @@ h3 { font-size: 18px; }
   align-items: center;
   gap: 8px;
   cursor: pointer;
+  margin-top: 5px;
 }
 
 .cta:active {
@@ -491,6 +497,7 @@ h3 { font-size: 18px; }
   flex-direction: column;
   gap: 10px;
   color: var(--text);
+  margin-top: 5px;
 }
 
 .option {
@@ -521,6 +528,27 @@ h3 { font-size: 18px; }
 .option .letter {
   font-weight: 800;
   color: var(--accent-blue);
+}
+
+.revision-feedback {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--card-muted);
+  box-shadow: var(--shadow-soft);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.revision-feedback .title {
+  font-weight: 800;
+}
+
+.revision-feedback .muted {
+  color: var(--muted);
 }
 
 .progress {

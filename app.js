@@ -28,9 +28,10 @@ const i18n = {
     tooltipCorrect: "Bonne réponse",
     tooltipExplanation: "Pourquoi",
     sessionLabel: (size) => `Session ${size} questions`,
-  previewTitle: "Mode rapide",
-  previewDesc: "Corrections claires, inspiration material + fiches de révision.",
-  previewMode: "Light / Dark",
+    revisionLabel: "Mode fiches de révision",
+    previewTitle: "Mode rapide",
+    previewDesc: "Corrections claires, inspiration material + fiches de révision.",
+    previewMode: "Light / Dark",
     wrongShort: "Faux",
     correctShort: "Juste",
     loading: "Chargement…",
@@ -67,9 +68,10 @@ const i18n = {
     tooltipCorrect: "Correct answer",
     tooltipExplanation: "Why",
     sessionLabel: (size) => `${size}-question run`,
-  previewTitle: "Quick mode",
-  previewDesc: "Clean corrections, material-inspired flashcard vibe.",
-  previewMode: "Light / Dark",
+    revisionLabel: "Flashcard mode",
+    previewTitle: "Quick mode",
+    previewDesc: "Clean corrections, material-inspired flashcard vibe.",
+    previewMode: "Light / Dark",
     wrongShort: "Wrong",
     correctShort: "Right",
     loading: "Loading…",
@@ -93,6 +95,8 @@ const elements = {
   heroEyebrow: document.getElementById("hero-eyebrow"),
   heroTitle: document.getElementById("hero-title"),
   heroDesc: document.getElementById("hero-desc"),
+  revisionToggle: document.getElementById("revision-toggle"),
+  revisionLabel: document.getElementById("revision-label"),
   quizEyebrow: document.getElementById("quiz-eyebrow"),
   quizTitle: document.getElementById("quiz-title"),
   quizBody: document.getElementById("quiz-body"),
@@ -117,6 +121,7 @@ const state = {
   theme: localStorage.getItem("civique-theme") || "light",
   selectedTheme: "mix",
   sessionSize: 10,
+  revisionMode: localStorage.getItem("civique-revision") === "1",
   allQuestions: [],
   themeQuestions: {},
   session: [],
@@ -481,6 +486,10 @@ function renderQuestion() {
   });
 
   container.append(progress, title, category, options);
+
+  const feedback = buildRevisionFeedback(question);
+  if (feedback) container.append(feedback);
+
   elements.quizBody.append(container);
   updateNavButtons();
 }
@@ -664,6 +673,32 @@ function buildTooltip(res) {
   `;
 }
 
+function buildRevisionFeedback(question) {
+  if (!state.revisionMode) return null;
+  const userAnswer = state.answers[question.id];
+  if (!userAnswer) return null;
+  const isCorrect = userAnswer.toLowerCase() === question.answerLetter?.toLowerCase();
+  if (isCorrect) return null;
+  const wrap = document.createElement("div");
+  wrap.className = "revision-feedback";
+  const title = document.createElement("div");
+  title.className = "title";
+  title.textContent = t("tooltipTitleWrong");
+  const your = document.createElement("div");
+  your.className = "muted";
+  const userOpt = question.options.find((o) => o.key === userAnswer);
+  your.innerHTML = `<strong>${t("tooltipYourAnswer")}:</strong> ${userOpt ? userOpt.text : "—"}`;
+  const correct = document.createElement("div");
+  correct.className = "muted";
+  const correctOpt = question.options.find((o) => o.key === question.answerLetter);
+  correct.innerHTML = `<strong>${t("tooltipCorrect")}:</strong> ${correctOpt ? correctOpt.text : "—"}`;
+  const expl = document.createElement("div");
+  expl.className = "muted";
+  expl.innerHTML = question.explanation || "";
+  wrap.append(title, your, correct, expl);
+  return wrap;
+}
+
 let tooltipTimeout;
 function showTooltip(html) {
   elements.tooltip.innerHTML = html;
@@ -728,6 +763,12 @@ function syncTexts() {
   elements.heroEyebrow.textContent = t("heroEyebrow");
   elements.heroTitle.textContent = t("heroTitle");
   elements.heroDesc.textContent = t("heroDesc");
+  if (elements.revisionLabel) {
+    elements.revisionLabel.textContent = state.language === "fr" ? "Mode fiches de révision" : t("revisionLabel");
+  }
+  if (elements.revisionToggle) {
+    elements.revisionToggle.textContent = state.language === "fr" ? "Mode fiches de révision" : t("revisionLabel");
+  }
   elements.startLabel.textContent = t("start");
   const themeLabel = document.getElementById("theme-label");
   const sizeLabel = document.getElementById("size-label");
@@ -841,6 +882,19 @@ function init() {
   elements.langEn.addEventListener("click", () => setLanguage("en"));
   elements.themeToggle.addEventListener("click", () => setTheme(state.theme === "light" ? "dark" : "light"));
   elements.startBtn.addEventListener("click", startSession);
+  if (elements.revisionToggle) {
+    const setRevisionUI = () => {
+      elements.revisionToggle.classList.toggle("active", state.revisionMode);
+      elements.revisionToggle.setAttribute("aria-pressed", state.revisionMode ? "true" : "false");
+    };
+    setRevisionUI();
+    elements.revisionToggle.addEventListener("click", () => {
+      state.revisionMode = !state.revisionMode;
+      localStorage.setItem("civique-revision", state.revisionMode ? "1" : "0");
+      setRevisionUI();
+      renderQuestion();
+    });
+  }
   elements.nextBtn.addEventListener("click", () => {
     if (state.finished) {
       state.finished = false;
