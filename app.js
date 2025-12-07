@@ -131,13 +131,13 @@ const state = {
 const themesConfig = [
   {
     id: "mix",
-    color: "#7a7cff",
+    color: "#72c2f0",
     label: { fr: "Mix des thèmes", en: "Mixed themes" },
     short: { fr: "Mix des thèmes", en: "Mixed themes" }
   },
   {
     id: "principles",
-    color: "#7ba6ff",
+    color: "#ff8bf9",
     label: { fr: "Principes et symboles de la République", en: "Principles and Symbols of the Republic" },
     short: { fr: "Principes et symboles", en: "Principles & Symbols" },
     files: {
@@ -147,7 +147,7 @@ const themesConfig = [
   },
   {
     id: "institutions",
-    color: "#8bd6a5",
+    color: "#8ed68b",
     label: { fr: "Institutions politiques et démocratie", en: "Political Institutions and Democracy" },
     short: { fr: "Institutions et démocratie", en: "Institutions & Democracy" },
     files: {
@@ -157,7 +157,7 @@ const themesConfig = [
   },
   {
     id: "history",
-    color: "#ffc091",
+    color: "#ffe96f",
     label: { fr: "Histoire de France", en: "History of France" },
     short: { fr: "Histoire de France", en: "History of France" },
     files: {
@@ -177,7 +177,7 @@ const themesConfig = [
   },
   {
     id: "daily",
-    color: "#c7b4ff",
+    color: "#ffaf6e",
     label: { fr: "Vie quotidienne et intégration en France", en: "Daily Life and Integration in France" },
     short: { fr: "Vie quotidienne", en: "Daily life" },
     files: {
@@ -187,7 +187,7 @@ const themesConfig = [
   },
   {
     id: "geography",
-    color: "#80e0d9",
+    color: "#94ecd6",
     label: { fr: "Géographie et culture", en: "Geography and Culture" },
     short: { fr: "Géographie & culture", en: "Geography & Culture" },
     files: {
