@@ -18,16 +18,16 @@
 
 [data-theme="dark"] {
   --bg: #f5f7fb;
-  --card: #121826;
-  --card-muted: #141b2b;
+  --card: #1f1f1f;
+  --card-muted: #222222;
   --text: #fffeee;
   --muted: #c8d0ec;
   --accent-main: #a29bfe;
   --accent-boost: #8273f7;
   --accent-blue: #6da8ff;
   --accent-red: #f2708f;
-  --accent-cream: #1a2335;
-  --border: #1f2a3f;
+  --accent-cream: #2c2c2c;
+  --border: #303030;
   --shadow-strong: 0 18px 60px rgba(0, 0, 0, 0.35);
   --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
