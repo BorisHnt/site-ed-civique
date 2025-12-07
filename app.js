@@ -6,7 +6,7 @@ const i18n = {
     start: "Lancer une session",
     dataLoading: "Chargement des questions…",
     dataReady: (count) => `${count} questions prêtes.`,
-    dataError: "Impossible de charger Questions001.txt.",
+    dataError: "Impossible de charger les questions.",
     quizEyebrow: "En cours",
     quizPlaceholder: "Choisissez une session et appuyez sur « Lancer ».",
     prev: "Précédent",
@@ -45,7 +45,7 @@ const i18n = {
     start: "Start a session",
     dataLoading: "Loading questions…",
     dataReady: (count) => `${count} questions ready.`,
-    dataError: "Could not load Questions001.txt.",
+    dataError: "Could not load question data.",
     quizEyebrow: "In progress",
     quizPlaceholder: "Pick a session and hit “Start”.",
     prev: "Previous",
@@ -333,141 +333,9 @@ async function loadQuestions() {
       return;
     }
 
-    const fromTxt = await (async () => {
-      try {
-        const res = await fetch(state.language === "en" ? "Questions001-en.txt" : "Questions001.txt");
-        if (!res.ok) return null;
-        const text = await res.text();
-        return parseQuestions(text);
-      } catch (err) {
-        return null;
-      }
-    })();
-
-    if (fromTxt) {
-      const withIds = attachThemeId(fromTxt);
-      state.allQuestions = withIds;
-      state.themeQuestions = themesConfig
-        .filter((t) => t.id !== "mix")
-        .reduce((acc, t) => {
-          acc[t.id] = withIds.filter((q) => q.themeId === t.id);
-          return acc;
-        }, {});
-      elements.dataStatus.textContent = t("dataReady", state.allQuestions.length);
-      return;
-    }
-
     elements.dataStatus.textContent = t("dataError");
     showSnackbar(t("dataError"));
   }
-}
-
-function parseQuestions(text) {
-  const lines = text.split(/\r?\n/);
-  let category = "Général";
-  const rawQuestions = [];
-  let current = null;
-  let readingExplanation = false;
-  let qId = 0;
-
-  const isHeading = (line) => {
-    if (!line) return false;
-    if (/^[\.\-–—]+$/.test(line)) return false;
-    if (/^\d+\./.test(line)) return false;
-    if (/^[a-d][.)]/i.test(line)) return false;
-    if (/^réponse/i.test(line)) return false;
-    if (line.includes("?")) return false;
-    if (line.length > 80) return false;
-    return true;
-  };
-
-  const pushCurrent = () => {
-    if (current) {
-      rawQuestions.push({ ...current });
-    }
-  };
-
-  for (const rawLine of lines) {
-    const line = rawLine.trim();
-    if (!line) continue;
-
-    if (isHeading(line)) {
-      pushCurrent();
-      current = null;
-      readingExplanation = false;
-      category = line;
-      continue;
-    }
-
-    const qMatch = line.match(/^(\d+)[.)]?\s*(.*)/);
-    if (qMatch) {
-      const promptCandidate = qMatch[2].trim();
-      if (!promptCandidate.includes("?") && promptCandidate.split(" ").length <= 6) {
-        // Looks like a section title rather than a question.
-        pushCurrent();
-        current = null;
-        readingExplanation = false;
-        category = promptCandidate;
-        continue;
-      }
-      pushCurrent();
-      current = {
-        id: `q${++qId}`,
-        prompt: promptCandidate,
-        options: [],
-        answerLetter: null,
-        answer: "",
-        explanation: "",
-        category
-      };
-      readingExplanation = false;
-      continue;
-    }
-
-    const questionMark = line.match(/^(.*\?)$/);
-    if (questionMark) {
-      pushCurrent();
-      current = {
-        id: `q${++qId}`,
-        prompt: questionMark[1],
-        options: [],
-        answerLetter: null,
-        answer: "",
-        explanation: "",
-        category
-      };
-      readingExplanation = false;
-      continue;
-    }
-
-    if (!current) continue;
-
-    const optMatch = line.match(/^([a-d])[.)]\s*(.*)/i);
-    if (optMatch) {
-      current.options.push({ key: optMatch[1].toLowerCase(), text: optMatch[2].trim() });
-      continue;
-    }
-
-    const ansMatch = line.match(/^(réponse|bonne réponse)\s*:\s*([a-d])[.)]?\s*(.*)/i);
-    if (ansMatch) {
-      current.answerLetter = ansMatch[2].toLowerCase();
-      current.explanation = ansMatch[3].trim();
-      readingExplanation = true;
-      continue;
-    }
-
-    if (readingExplanation) {
-      current.explanation += (current.explanation ? " " : "") + line;
-    } else {
-      current.prompt += " " + line;
-    }
-  }
-
-  pushCurrent();
-  const cleaned = rawQuestions.filter(
-    (q) => q.answerLetter && q.options && q.options.length >= 2
-  );
-  return cleaned;
 }
 
 function normalizeQuestions(data) {
