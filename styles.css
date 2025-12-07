@@ -590,7 +590,7 @@ h3 { font-size: 18px; }
   justify-content: space-between;
   align-items: center;
   gap: 10px;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .history-item .meta {
@@ -602,7 +602,7 @@ h3 { font-size: 18px; }
 .history-item .score-chip {
   padding: 6px 10px;
   border-radius: 10px;
-  background: rgba(55, 81, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
   font-weight: 700;
 }
 .ghost-btn.small {
