@@ -41,7 +41,7 @@ const i18n = {
   en: {
     heroEyebrow: "Quiz sessions",
     heroTitle: "Civics quiz",
-    heroDesc: "Pick a theme, then start 10 or 20 questions (40 only in Mix).",
+    heroDesc: "Pick a theme, then start 10, 20 or 40 questions.",
     start: "Start a session",
     dataLoading: "Loading questions…",
     dataReady: (count) => `${count} questions ready.`,
