@@ -38,18 +38,21 @@
   box-sizing: border-box;
 }
 
-body {
+[data-theme] body {
   margin: 0;
   font-family: "Space Grotesk", "Manrope", system-ui, -apple-system, sans-serif;
-  background: radial-gradient(circle at 20% 20%, rgba(55, 81, 255, 0.12), transparent 28%),
-              radial-gradient(circle at 80% 0%, rgba(227, 75, 95, 0.12), transparent 30%),
-              linear-gradient(160deg, var(--bg), #ffffff 40%, var(--bg));
   color: var(--text);
   min-height: 100vh;
 }
 
-body[data-theme="dark"] {
-  background: linear-gradient(150deg, #1b1b1b, #252525 50%, #1b1b1b);
+[data-theme="light"] body {
+  background: radial-gradient(circle at 20% 20%, rgba(55, 81, 255, 0.12), transparent 28%),
+              radial-gradient(circle at 80% 0%, rgba(227, 75, 95, 0.12), transparent 30%),
+              linear-gradient(160deg, var(--bg), #ffffff 40%, var(--bg));
+}
+
+[data-theme="dark"] body {
+  background: #252525;
 }
 
 .app-shell {
@@ -211,7 +214,7 @@ h3 { font-size: 18px; }
   outline: none;
   padding: 10px 14px;
   border-radius: 10px;
-  background: var(--card);
+  background: #ffffff;
   color: var(--accent-main);
   font-weight: 700;
   cursor: pointer;
