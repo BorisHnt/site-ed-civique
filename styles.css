@@ -633,9 +633,6 @@ h3 { font-size: 18px; }
 
 .history-item .score-chip {
   padding: 6px 10px;
-  border-radius: 10px;
-  background: #353535;
-  border: 1px solid var(--border);
   font-weight: 700;
 }
 .ghost-btn.small {
