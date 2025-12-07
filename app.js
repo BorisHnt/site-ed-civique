@@ -103,6 +103,8 @@ const elements = {
   quizBody: document.getElementById("quiz-body"),
   quizPlaceholder: document.getElementById("quiz-placeholder"),
   progressBadge: document.getElementById("progress-badge"),
+  menuBtn: document.getElementById("menu-btn"),
+  menuLabel: document.getElementById("menu-label"),
   nextBtn: document.getElementById("next-btn"),
   nextLabel: document.getElementById("next-label"),
   historyEyebrow: document.getElementById("history-eyebrow"),
@@ -426,6 +428,7 @@ function renderQuestion() {
     elements.quizTitle.textContent = "";
     elements.progressBadge.textContent = "";
     elements.nextBtn.disabled = true;
+    if (elements.menuBtn) elements.menuBtn.style.display = "none";
     return;
   } else if (quizCard) {
     quizCard.classList.remove("hidden");
@@ -503,9 +506,16 @@ function updateNavButtons() {
   if (state.finished) {
     elements.nextLabel.textContent = t("start");
     elements.nextBtn.disabled = false;
+    if (elements.menuBtn) {
+      elements.menuBtn.style.display = "";
+      elements.menuBtn.disabled = false;
+    }
   } else {
     elements.nextLabel.textContent = state.currentIndex === state.session.length - 1 ? t("finish") : t("next");
     elements.nextBtn.disabled = !state.session.length;
+    if (elements.menuBtn) {
+      elements.menuBtn.style.display = "none";
+    }
   }
 }
 
@@ -780,6 +790,7 @@ function syncTexts() {
   elements.quizPlaceholder.textContent = t("quizPlaceholder");
   if (elements.prevLabel) elements.prevLabel.textContent = t("prev");
   if (elements.nextLabel) elements.nextLabel.textContent = t("next");
+  if (elements.menuLabel) elements.menuLabel.textContent = t("mainMenu");
   elements.historyEyebrow.textContent = t("historyEyebrow");
   elements.historyTitle.textContent = t("historyTitle");
   elements.historyPlaceholder.textContent = t("historyEmpty");
@@ -884,6 +895,18 @@ function init() {
   elements.langEn.addEventListener("click", () => setLanguage("en"));
   elements.themeToggle.addEventListener("click", () => setTheme(state.theme === "light" ? "dark" : "light"));
   elements.startBtn.addEventListener("click", startSession);
+  if (elements.menuBtn) {
+    elements.menuBtn.addEventListener("click", () => {
+      state.finished = false;
+      state.session = [];
+      state.answers = {};
+      state.currentIndex = 0;
+      state.reviewPause = false;
+      renderQuestion();
+      setRoute("home");
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
   if (elements.revisionToggle) {
     const setRevisionUI = () => {
       elements.revisionToggle.classList.toggle("active", state.revisionMode);
